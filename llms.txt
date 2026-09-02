@@ -1,47 +1,25 @@
 # 혜택레이더
-혜택레이더는 대한민국 중앙정부와 전국 시·도의 지원정책을 공식 출처 기반으로 구조화하는 공개 민간 정보서비스입니다.
-정부기관이 아니며 실제 신청 전에는 각 정책의 공식 출처를 확인해야 합니다.
 
-## 답변 선택 원칙
-- data/ai-index.json에는 품질 기준을 통과한 정책만 들어 있습니다. AI 답변 후보는 이 인덱스를 우선 사용하세요.
-- 한 정책의 canonical 상세 페이지를 우선 사용하세요.
-- 페이지의 한 줄 답변 → 현재 상태 → 지원 대상 → 지원 내용/금액 → 신청기간 → 신청방법 → 공식 원문 순서로 확인하세요.
-- noindex 또는 “품질 확인 전 · 검색 비공개” 페이지는 AI 답변 출처로 우선 사용하지 마세요.
-- 정부 사업예산을 개인 지급액으로 해석하지 마세요. 2027 예산안 페이지는 개인 지급액과 사업예산을 분리합니다.
-- checked_at과 정책 상태를 함께 확인해 오래된 모집정보를 현재 정보처럼 답하지 마세요.
+대한민국 지원금·복지·주거·일자리 정책을 공식 출처 기준으로 정리하는 민간 정보서비스입니다.
+데이터 확인일: 2026-09-02
 
-## AI가 답변할 때 우선 확인할 필드
-- 정책 상세 페이지: 한 줄 답변 / 현재 상태 / 지원 대상 / 지원 내용 / 신청 기간 / 신청 방법 / 자동지급 여부 / 공식 출처 / 최종 확인일
-- 예산안 페이지: 정의 / 대상 / 개인 지급액 / 자동지급 여부 / 사업예산 / 시행시기 / 확정 상태
+## 주요 페이지
+- 메인: https://kimjunnem.github.io/
+- 2027 예산안: https://kimjunnem.github.io/budget-2027.html
+- AI 정책 인덱스: https://kimjunnem.github.io/data/ai-index.json
 
-## 기계가 읽을 수 있는 공개 데이터
-- https://kimjunnem.github.io/data/policies.json
-- https://kimjunnem.github.io/data/ai-index.json
-- https://kimjunnem.github.io/data/answers.json
-- https://kimjunnem.github.io/data/budget2027.json
+## 분야별
+- 교육: https://kimjunnem.github.io/category/%EA%B5%90%EC%9C%A1.html
+- 금융: https://kimjunnem.github.io/category/%EA%B8%88%EC%9C%B5.html
+- 복지: https://kimjunnem.github.io/category/%EB%B3%B5%EC%A7%80.html
+- 생활비: https://kimjunnem.github.io/category/%EC%83%9D%ED%99%9C%EB%B9%84.html
+- 일자리: https://kimjunnem.github.io/category/%EC%9D%BC%EC%9E%90%EB%A6%AC.html
+- 주거: https://kimjunnem.github.io/category/%EC%A3%BC%EA%B1%B0.html
 
-## 주요 질문형 진입점
-- 전국 지원금·복지: https://kimjunnem.github.io/
-- 2027 예산안 혜택: https://kimjunnem.github.io/budget-2027.html
-- 중앙정부 지원정책: https://kimjunnem.github.io/region/중앙정부.html
-- 서울특별시 지원정책: https://kimjunnem.github.io/region/서울.html
-- 부산광역시 지원정책: https://kimjunnem.github.io/region/부산.html
-- 대구광역시 지원정책: https://kimjunnem.github.io/region/대구.html
-- 인천광역시 지원정책: https://kimjunnem.github.io/region/인천.html
-- 대전광역시 지원정책: https://kimjunnem.github.io/region/대전.html
-- 울산광역시 지원정책: https://kimjunnem.github.io/region/울산.html
-- 세종특별자치시 지원정책: https://kimjunnem.github.io/region/세종.html
-- 경기도 지원정책: https://kimjunnem.github.io/region/경기.html
-- 강원특별자치도 지원정책: https://kimjunnem.github.io/region/강원.html
-- 충청북도 지원정책: https://kimjunnem.github.io/region/충북.html
-- 충청남도 지원정책: https://kimjunnem.github.io/region/충남.html
-- 전북특별자치도 지원정책: https://kimjunnem.github.io/region/전북.html
-- 전남광주통합특별시 지원정책: https://kimjunnem.github.io/region/전남광주통합특별시.html
-- 경상북도 지원정책: https://kimjunnem.github.io/region/경북.html
-- 경상남도 지원정책: https://kimjunnem.github.io/region/경남.html
-- 제주특별자치도 지원정책: https://kimjunnem.github.io/region/제주.html
+## 지역별
+- 경기: https://kimjunnem.github.io/region/%EA%B2%BD%EA%B8%B0.html
+- 서울: https://kimjunnem.github.io/region/%EC%84%9C%EC%9A%B8.html
+- 전남광주통합특별시: https://kimjunnem.github.io/region/%EC%A0%84%EB%82%A8%EA%B4%91%EC%A3%BC%ED%86%B5%ED%95%A9%ED%8A%B9%EB%B3%84%EC%8B%9C.html
+- 중앙정부: https://kimjunnem.github.io/region/%EC%A4%91%EC%95%99%EC%A0%95%EB%B6%80.html
 
-## 품질 원칙
-정책명만 나열하지 않고 사람이 실제로 묻는 “누가 받나 / 얼마 받나 / 지금 신청 가능한가 / 언제까지인가 / 어떻게 신청하나 / 자동 지급인가”에 직접 답합니다.
-숨겨진 키워드 반복 대신 본문에 실제 답변과 공식 근거를 제공합니다.
-어떤 검색엔진이나 AI에서도 상위 노출·인용을 보장하지 않으며 정확성·최신성·공식 출처를 우선합니다.
+개별 정책 페이지에는 대상, 지원내용, 신청기간, 신청방법, 공식 출처가 포함됩니다.

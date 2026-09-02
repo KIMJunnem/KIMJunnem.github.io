@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T20:27:08+09:00",
+  "updated_at": "2026-09-02T20:33:29+09:00",
   "policy_count": 406,
   "sources": [
     "경기민원24",
@@ -2924,7 +2924,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": false,
       "value_score": 13,
-      "checked_at": "2026-09-02T20:25:46+09:00"
+      "checked_at": "2026-09-02T20:32:14+09:00"
     },
     {
       "id": "gov24-e859285660d08ffcca",
@@ -3139,7 +3139,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": false,
       "value_score": 6,
-      "checked_at": "2026-09-02T20:25:51+09:00"
+      "checked_at": "2026-09-02T20:32:18+09:00"
     },
     {
       "id": "gov24-8c0d2b4c13a58d0f73",
@@ -3210,7 +3210,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 16,
-      "checked_at": "2026-09-02T20:25:46+09:00"
+      "checked_at": "2026-09-02T20:32:14+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3227,7 +3227,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T20:25:46+09:00"
+      "checked_at": "2026-09-02T20:32:14+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3244,7 +3244,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T20:25:46+09:00"
+      "checked_at": "2026-09-02T20:32:14+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3261,7 +3261,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-09-02T20:25:49+09:00"
+      "checked_at": "2026-09-02T20:32:16+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3278,7 +3278,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T20:25:51+09:00"
+      "checked_at": "2026-09-02T20:32:18+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3295,7 +3295,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T20:25:51+09:00"
+      "checked_at": "2026-09-02T20:32:18+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3312,7 +3312,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T20:25:51+09:00"
+      "checked_at": "2026-09-02T20:32:18+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3329,7 +3329,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:20+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3346,7 +3346,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:20+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3363,7 +3363,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 3,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:21+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3380,7 +3380,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 2,
-      "checked_at": "2026-09-02T20:25:56+09:00"
+      "checked_at": "2026-09-02T20:32:23+09:00"
     },
     {
       "id": "real-jngj-cert",
@@ -3412,7 +3412,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:20+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3429,7 +3429,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:20+09:00"
     },
     {
       "id": "auto-740808422c6e6baded",
@@ -3446,7 +3446,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019235",
       "review_required": false,
       "value_score": 21,
-      "checked_at": "2026-09-02T20:25:49+09:00"
+      "checked_at": "2026-09-02T20:32:16+09:00"
     },
     {
       "id": "auto-9f4aec7a33b0bdf410",
@@ -3463,7 +3463,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018955",
       "review_required": false,
       "value_score": 13,
-      "checked_at": "2026-09-02T20:25:52+09:00"
+      "checked_at": "2026-09-02T20:32:18+09:00"
     },
     {
       "id": "auto-9b41b9d374761d63e8",
@@ -3480,7 +3480,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019236",
       "review_required": false,
       "value_score": 6,
-      "checked_at": "2026-09-02T20:25:56+09:00"
+      "checked_at": "2026-09-02T20:32:22+09:00"
     },
     {
       "id": "auto-959121c4f7f5ee4db1",
@@ -3497,7 +3497,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017714",
       "review_required": false,
       "value_score": 15,
-      "checked_at": "2026-09-02T20:25:48+09:00"
+      "checked_at": "2026-09-02T20:32:16+09:00"
     },
     {
       "id": "auto-0ee25d724c10e6cc1a",
@@ -3514,7 +3514,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019201",
       "review_required": false,
       "value_score": 13,
-      "checked_at": "2026-09-02T20:25:51+09:00"
+      "checked_at": "2026-09-02T20:32:18+09:00"
     },
     {
       "id": "auto-0e5cb63dcac2ce3d31",
@@ -3531,7 +3531,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018990",
       "review_required": false,
       "value_score": 5,
-      "checked_at": "2026-09-02T20:25:58+09:00"
+      "checked_at": "2026-09-02T20:32:25+09:00"
     },
     {
       "id": "auto-5f42893d99fe5655b1",
@@ -3548,7 +3548,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019050",
       "review_required": true,
       "value_score": 12,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:20+09:00"
     },
     {
       "id": "auto-c6034df8a9b93ab181",
@@ -3565,7 +3565,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017586",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-09-02T20:25:56+09:00"
+      "checked_at": "2026-09-02T20:32:24+09:00"
     },
     {
       "id": "auto-62d6ce9498bc0e039a",
@@ -3582,7 +3582,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018851",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T20:25:56+09:00"
+      "checked_at": "2026-09-02T20:32:22+09:00"
     },
     {
       "id": "real-gg-youth-futureplus",
@@ -6422,7 +6422,7 @@
       "url": "/dataList/OA-22227/F/1/datasetView.do",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T20:25:52+09:00"
+      "checked_at": "2026-09-02T20:32:19+09:00"
     },
     {
       "id": "auto-e9e4e25fe686c7507a",
@@ -6439,7 +6439,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018691",
       "review_required": true,
       "value_score": 26,
-      "checked_at": "2026-09-02T20:25:49+09:00"
+      "checked_at": "2026-09-02T20:32:16+09:00"
     },
     {
       "id": "auto-88ac600668aea2f76c",
@@ -6456,7 +6456,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018004",
       "review_required": true,
       "value_score": 24,
-      "checked_at": "2026-09-02T20:25:49+09:00"
+      "checked_at": "2026-09-02T20:32:16+09:00"
     },
     {
       "id": "auto-aa9d999ba12dd2de7a",
@@ -6473,7 +6473,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017963",
       "review_required": true,
       "value_score": 24,
-      "checked_at": "2026-09-02T20:25:49+09:00"
+      "checked_at": "2026-09-02T20:32:16+09:00"
     },
     {
       "id": "auto-003cc1f1a1fe01888d",
@@ -6490,7 +6490,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019098",
       "review_required": true,
       "value_score": 16,
-      "checked_at": "2026-09-02T20:25:49+09:00"
+      "checked_at": "2026-09-02T20:32:16+09:00"
     },
     {
       "id": "auto-a89abe04535a008f3a",
@@ -6507,7 +6507,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018953",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:21+09:00"
     },
     {
       "id": "auto-82bacc88ae2d1c77af",
@@ -6524,7 +6524,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018622",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T20:25:56+09:00"
+      "checked_at": "2026-09-02T20:32:23+09:00"
     },
     {
       "id": "auto-c52c81a3e3b384f69f",
@@ -6541,7 +6541,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017901",
       "review_required": true,
       "value_score": 17,
-      "checked_at": "2026-09-02T20:25:49+09:00"
+      "checked_at": "2026-09-02T20:32:16+09:00"
     },
     {
       "id": "auto-f25c41b6dd22f89027",
@@ -6558,7 +6558,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019013",
       "review_required": true,
       "value_score": 12,
-      "checked_at": "2026-09-02T20:25:51+09:00"
+      "checked_at": "2026-09-02T20:32:19+09:00"
     },
     {
       "id": "auto-57a4636c14a5f4357e",
@@ -6575,7 +6575,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019138",
       "review_required": true,
       "value_score": 8,
-      "checked_at": "2026-09-02T20:25:51+09:00"
+      "checked_at": "2026-09-02T20:32:19+09:00"
     },
     {
       "id": "auto-e8cff58138519d40a8",
@@ -6592,7 +6592,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018971",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:21+09:00"
     },
     {
       "id": "auto-90257e5ed24c60f1e2",
@@ -6609,7 +6609,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019234",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:21+09:00"
     },
     {
       "id": "auto-e46975b10794397e19",
@@ -6626,7 +6626,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019127",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T20:25:56+09:00"
+      "checked_at": "2026-09-02T20:32:22+09:00"
     },
     {
       "id": "auto-5b0aa5b28e2b6e2138",
@@ -6643,7 +6643,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018213",
       "review_required": true,
       "value_score": 27,
-      "checked_at": "2026-09-02T20:25:49+09:00"
+      "checked_at": "2026-09-02T20:32:16+09:00"
     },
     {
       "id": "auto-aeb137c33bcdf80113",
@@ -6660,7 +6660,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017484",
       "review_required": true,
       "value_score": 18,
-      "checked_at": "2026-09-02T20:25:49+09:00"
+      "checked_at": "2026-09-02T20:32:16+09:00"
     },
     {
       "id": "auto-8a083b551064ec9d39",
@@ -6677,7 +6677,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019261",
       "review_required": true,
       "value_score": 17,
-      "checked_at": "2026-09-02T20:25:52+09:00"
+      "checked_at": "2026-09-02T20:32:19+09:00"
     },
     {
       "id": "auto-3eae4bb4e771b5aaae",
@@ -6694,7 +6694,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017669",
       "review_required": true,
       "value_score": 16,
-      "checked_at": "2026-09-02T20:25:48+09:00"
+      "checked_at": "2026-09-02T20:32:17+09:00"
     },
     {
       "id": "auto-6ba16c23ef5518242e",
@@ -6711,7 +6711,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019188",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T20:25:51+09:00"
+      "checked_at": "2026-09-02T20:32:18+09:00"
     },
     {
       "id": "auto-018869e6b36192bfaf",
@@ -6728,7 +6728,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019069",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T20:25:52+09:00"
+      "checked_at": "2026-09-02T20:32:18+09:00"
     },
     {
       "id": "auto-0da427646ae59c013d",
@@ -6745,7 +6745,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018574",
       "review_required": true,
       "value_score": 10,
-      "checked_at": "2026-09-02T20:25:52+09:00"
+      "checked_at": "2026-09-02T20:32:19+09:00"
     },
     {
       "id": "auto-435c2a1a42953f36fb",
@@ -6762,7 +6762,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019178",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:21+09:00"
     },
     {
       "id": "auto-9401f62214bc82292f",
@@ -6779,7 +6779,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019100",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T20:25:57+09:00"
+      "checked_at": "2026-09-02T20:32:23+09:00"
     },
     {
       "id": "auto-4022519f3449e3c434",
@@ -6796,7 +6796,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019104",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:21+09:00"
     },
     {
       "id": "auto-c30619b776d66a12cf",
@@ -6813,7 +6813,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018960",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T20:25:59+09:00"
+      "checked_at": "2026-09-02T20:32:25+09:00"
     },
     {
       "id": "auto-23fb984567274a0238",
@@ -6830,7 +6830,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019018",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:21+09:00"
     },
     {
       "id": "auto-b94ced0c4fdd9d14c8",
@@ -6847,7 +6847,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019199",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-09-02T20:25:52+09:00"
+      "checked_at": "2026-09-02T20:32:19+09:00"
     },
     {
       "id": "auto-207f8b168eaf082a0b",
@@ -6864,7 +6864,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017567",
       "review_required": true,
       "value_score": 10,
-      "checked_at": "2026-09-02T20:25:51+09:00"
+      "checked_at": "2026-09-02T20:32:19+09:00"
     },
     {
       "id": "auto-489dee5f1e9694489f",
@@ -6881,7 +6881,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019160",
       "review_required": true,
       "value_score": 8,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:21+09:00"
     },
     {
       "id": "auto-438bf63daea300dce0",
@@ -6898,7 +6898,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019128",
       "review_required": true,
       "value_score": 8,
-      "checked_at": "2026-09-02T20:25:57+09:00"
+      "checked_at": "2026-09-02T20:32:24+09:00"
     },
     {
       "id": "auto-806a263c095bbba958",
@@ -6915,7 +6915,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018939",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T20:25:56+09:00"
+      "checked_at": "2026-09-02T20:32:23+09:00"
     },
     {
       "id": "auto-d9d2ae18de79903a79",
@@ -6932,7 +6932,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019121",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:21+09:00"
     },
     {
       "id": "auto-02285547ccb74e70c7",
@@ -6949,7 +6949,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019251",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T20:25:58+09:00"
+      "checked_at": "2026-09-02T20:32:24+09:00"
     },
     {
       "id": "auto-5cc619837df08aaa6c",
@@ -6966,7 +6966,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019218",
       "review_required": true,
       "value_score": 10,
-      "checked_at": "2026-09-02T20:25:54+09:00"
+      "checked_at": "2026-09-02T20:32:20+09:00"
     },
     {
       "id": "auto-81d39d1eeb50589971",
@@ -6983,7 +6983,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018983",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T20:25:56+09:00"
+      "checked_at": "2026-09-02T20:32:23+09:00"
     },
     {
       "id": "auto-23546017ba8fd989f9",
@@ -7000,7 +7000,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018610",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T20:25:56+09:00"
+      "checked_at": "2026-09-02T20:32:23+09:00"
     },
     {
       "id": "gov24-7f8329fb7e0933c493",
