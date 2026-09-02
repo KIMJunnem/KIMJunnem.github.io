@@ -29,10 +29,26 @@ jobs:
           PUBLIC_SERVICE_API_KEY: ${{ secrets.PUBLIC_DATA_API_KEY }}
         run: python scripts/update_policies.py
 
-      - name: Commit data changes
+      - name: Generate real static pages
+        run: python scripts/generate_static_pages.py
+
+      - name: Validate generated site
+        run: |
+          test -f sitemap.xml
+          test -f static-pages.css
+          test -d policy
+          test -d category
+          test -d region
+          test -f data/ai-index.json
+          test -f data/answers.json
+          echo "policy pages: $(find policy -type f -name '*.html' | wc -l)"
+          echo "category pages: $(find category -type f -name '*.html' | wc -l)"
+          echo "region pages: $(find region -type f -name '*.html' | wc -l)"
+
+      - name: Commit site changes
         run: |
           git config user.name "benefit-radar-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/policies.json
-          git diff --cached --quiet || git commit -m "chore: update policy data"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update policies and static pages"
           git push
