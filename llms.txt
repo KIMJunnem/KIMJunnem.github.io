@@ -1,0 +1,10 @@
+# 혜택레이더
+혜택레이더는 대한민국 중앙정부·서울시 등의 지원정책을 공식 출처 기반으로 자동 수집·구조화하는 공개 웹사이트입니다.
+
+## 핵심 페이지
+- https://kimjunnem.github.io/ : 최신 지원정책 목록과 검색/필터
+- https://kimjunnem.github.io/about.html : 사이트 목적과 운영 원칙
+- https://kimjunnem.github.io/disclaimer.html : 면책 및 출처 정책
+- https://kimjunnem.github.io/data/policies.json : 구조화된 정책 데이터
+
+정책 신청 전에는 각 항목의 공식 출처를 우선 확인하세요.
