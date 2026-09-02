@@ -12,3 +12,11 @@
 - `data/ai-index.json`, `data/answers.json` 공개
 
 상위 노출이나 AI 인용은 보장되지 않습니다. 정확성·최신성·공식 출처를 우선합니다.
+
+## v1.4 — 2027 예산안 자동 감시
+- `scripts/update_budget2027.py`가 대한민국 정책브리핑의 **2027 예산안 정책포커스**를 공식 소스로 감시합니다.
+- 새 국민체감형 사업/혜택 후보를 발견하면 `data/budget2027.json`에 자동 병합합니다.
+- 사업예산을 개인 지급액으로 오인하지 않도록 `budget`과 `personal_amount`를 분리해 추출합니다.
+- 자동 추출 신뢰도(`confidence`)가 0.78 미만이면 `review_required`로 표시하며, 상세페이지는 `noindex` 처리되고 `answers.json`/sitemap의 AI 우선 인덱스에서 제외됩니다.
+- `data/budget2027-watch.json`에 공식 페이지 확인 결과와 오류가 기록됩니다.
+- `budget-2027.html`도 JSON에서 매 실행 자동 재생성되므로 새 항목이 생기면 사람용 페이지에도 자동 반영됩니다.
