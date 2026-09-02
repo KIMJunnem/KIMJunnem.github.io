@@ -1,24 +1,14 @@
-# 혜택레이더 v0.6 — 정부24 공공서비스 API 연결 패치
+# 혜택레이더 v1.3 — Answer-first
 
-업로드할 파일은 2개입니다.
+전국 지원정책을 사람과 AI 검색이 모두 읽기 쉬운 질문-답변 형식으로 자동 구조화합니다.
 
-1. `scripts/update_policies.py`
-2. `.github/workflows/update-and-deploy.yml`
+핵심 원칙:
+- 한 정책 = 하나의 안정적인 canonical 상세 페이지
+- 한 줄 답변 → 현재 상태 → 대상 → 지원내용/금액 → 신청기간 → 신청방법 → 공식 출처
+- 사람이 실제로 묻는 질문 표현을 숨김 키워드가 아니라 실제 본문으로 제공
+- 공식 출처, 확인일, 자동추출 검토 필요 여부를 명시
+- 2027 예산안은 사업예산과 개인 지급액, 자동 지급 여부, 확정 상태를 분리
+- OAI-SearchBot 등 검색 크롤러 접근 허용
+- `data/ai-index.json`, `data/answers.json` 공개
 
-GitHub에서 같은 경로의 기존 파일을 교체한 뒤 Commit하고,
-Actions → **Update policies and deploy** → **Run workflow**를 실행하세요.
-
-## 이번 버전
-- 정부24 공식 v3 API 고정 연결
-  - `/serviceList`
-  - `/supportConditions`
-- 기존에 등록한 GitHub Secret `PUBLIC_DATA_API_KEY`를 자동화에 연결
-- 서비스명/지원대상/지원내용/신청방법/신청기한/상세조회URL을 구조화해서 사용
-- 연령·중위소득·근로자/구직자·1인가구·무주택 등 지원조건을 추가 반영
-- 중앙정부 + 서울 + 경기 + 광주/전남만 선별
-- 다른 지역 지방서비스는 제외
-- API 요청 폭주 방지를 위해 정부24 후보 최대 350개까지만 지원조건 상세조회
-
-
-## GitHub Pages
-이 저장소는 사용자 사이트 `https://kimjunnem.github.io/` 루트에서 배포하도록 구성되어 있습니다.
+상위 노출이나 AI 인용은 보장되지 않습니다. 정확성·최신성·공식 출처를 우선합니다.

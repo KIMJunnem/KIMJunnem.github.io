@@ -1,0 +1,10 @@
+혜택레이더 v1.3 Answer-first 업데이트
+
+1) 이 ZIP을 압축 해제합니다.
+2) KIMJunnem/KIMJunnem.github.io 저장소 루트에 파일/폴더를 모두 업로드하여 기존 파일을 덮어씁니다.
+3) .github/workflows/update-and-deploy.yml도 반드시 교체합니다.
+4) Commit changes 합니다.
+5) Actions → Update policies → Run workflow를 1회 실행합니다.
+6) 성공 후 policy/, region/, category/, data/ai-index.json, data/answers.json, sitemap.xml이 자동 갱신됩니다.
+
+주의: PUBLIC_DATA_API_KEY Repository secret은 기존 그대로 유지합니다.
