@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T13:51:58+09:00",
+  "updated_at": "2026-09-02T13:56:33+09:00",
   "policy_count": 406,
   "sources": [
     "경기민원24",
@@ -2924,7 +2924,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": false,
       "value_score": 13,
-      "checked_at": "2026-09-02T13:50:27+09:00"
+      "checked_at": "2026-09-02T13:55:20+09:00"
     },
     {
       "id": "gov24-e859285660d08ffcca",
@@ -3139,7 +3139,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": false,
       "value_score": 6,
-      "checked_at": "2026-09-02T13:50:31+09:00"
+      "checked_at": "2026-09-02T13:55:25+09:00"
     },
     {
       "id": "gov24-8c0d2b4c13a58d0f73",
@@ -3210,7 +3210,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 16,
-      "checked_at": "2026-09-02T13:50:27+09:00"
+      "checked_at": "2026-09-02T13:55:20+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3227,7 +3227,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T13:50:27+09:00"
+      "checked_at": "2026-09-02T13:55:20+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3244,7 +3244,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T13:50:27+09:00"
+      "checked_at": "2026-09-02T13:55:20+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3261,7 +3261,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-09-02T13:50:29+09:00"
+      "checked_at": "2026-09-02T13:55:23+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3278,7 +3278,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T13:50:31+09:00"
+      "checked_at": "2026-09-02T13:55:25+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3295,7 +3295,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T13:50:31+09:00"
+      "checked_at": "2026-09-02T13:55:25+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3312,7 +3312,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T13:50:31+09:00"
+      "checked_at": "2026-09-02T13:55:25+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3329,7 +3329,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T13:50:34+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3346,7 +3346,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T13:50:34+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3363,7 +3363,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 3,
-      "checked_at": "2026-09-02T13:50:34+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3380,7 +3380,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 2,
-      "checked_at": "2026-09-02T13:50:37+09:00"
+      "checked_at": "2026-09-02T13:55:31+09:00"
     },
     {
       "id": "real-jngj-cert",
@@ -3412,7 +3412,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T13:50:34+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3429,7 +3429,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T13:50:34+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-740808422c6e6baded",
@@ -3446,7 +3446,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019235",
       "review_required": false,
       "value_score": 22,
-      "checked_at": "2026-09-02T13:50:29+09:00"
+      "checked_at": "2026-09-02T13:55:22+09:00"
     },
     {
       "id": "auto-9f4aec7a33b0bdf410",
@@ -3463,7 +3463,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018955",
       "review_required": false,
       "value_score": 14,
-      "checked_at": "2026-09-02T13:50:31+09:00"
+      "checked_at": "2026-09-02T13:55:26+09:00"
     },
     {
       "id": "auto-9b41b9d374761d63e8",
@@ -3480,7 +3480,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019236",
       "review_required": false,
       "value_score": 7,
-      "checked_at": "2026-09-02T13:50:36+09:00"
+      "checked_at": "2026-09-02T13:55:31+09:00"
     },
     {
       "id": "auto-959121c4f7f5ee4db1",
@@ -3497,7 +3497,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017714",
       "review_required": false,
       "value_score": 16,
-      "checked_at": "2026-09-02T13:50:29+09:00"
+      "checked_at": "2026-09-02T13:55:25+09:00"
     },
     {
       "id": "auto-0ee25d724c10e6cc1a",
@@ -3514,7 +3514,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019201",
       "review_required": false,
       "value_score": 14,
-      "checked_at": "2026-09-02T13:50:31+09:00"
+      "checked_at": "2026-09-02T13:55:25+09:00"
     },
     {
       "id": "auto-0e5cb63dcac2ce3d31",
@@ -3524,14 +3524,14 @@
       "status": "신청가능",
       "summary": "8.22.~25. DDP 일대서 첫 개최 K-뷰티 스타일링을 받고, DDP를 달리며, 공연과 마켓까지 즐기는 하루. 서울의 라이프스타일을 한자리에서 만나는 축제 ‘뷰티풀라이프인서울(BLS: Beautiful Life in Seoul)’이 8월 22일부터 25일까지 DDP 일대에서 처음 열린다. 행사에 앞서 8월 6일부터 주요 체험 프로그램의 사전 참가자 모집이 시작된다. 최근 서울을 찾는 외국인 관광객들은 유명 관광지를 둘러보는 것을 넘어 K-뷰티를 체험하고, ",
       "eligibility": "주요 체험 프로그램의 사전 참가자를 모집한다",
-      "benefit": "최신 뉴스 1 미디어아트에 140여 곳 할인까지… '서울라이트 DDP' 개막 2 '서울세계불꽃축제' 가기 전 확인!",
+      "benefit": "‘서울세계불꽃축제’ 숨은 명당 3곳 2 미디어아트에 140여 곳 할인까지… '서울라이트 DDP' 개막 3 '서울세계불꽃축제' 가기 전 확인!",
       "period": "상시 운영(온라인) 동대문 상권 기사 관련 태그 태그 #뷰티풀라이프인서울 #BLS #서울뷰티위",
       "apply_method": "접수처를 통해 신청할 수 있다",
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018990",
       "review_required": false,
       "value_score": 6,
-      "checked_at": "2026-09-02T13:50:38+09:00"
+      "checked_at": "2026-09-02T13:55:33+09:00"
     },
     {
       "id": "auto-5f42893d99fe5655b1",
@@ -3548,7 +3548,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019050",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T13:50:34+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-c6034df8a9b93ab181",
@@ -3565,7 +3565,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017586",
       "review_required": true,
       "value_score": 10,
-      "checked_at": "2026-09-02T13:50:37+09:00"
+      "checked_at": "2026-09-02T13:55:32+09:00"
     },
     {
       "id": "auto-62d6ce9498bc0e039a",
@@ -3575,14 +3575,14 @@
       "status": "신청가능",
       "summary": "8월 5일까지 시민공감특별상 시민투표 진행 시민들이 오가는 일상 보행길을 미술관 내부로 자연스럽게 끌어들여 문턱을 낮춘 서울시립서서울미술관이 올해 서울시 최고 건축물의 영예를 안았다. 서울시는 제44회 서울특별시 건축상 수상작으로 금천구 독산동의 ‘서울시립 서서울미술관’을 포함해 완공 부문 10개, 학생 아이디어 부문 10개 등 총 20개 작품을 최종 발표했다. 1979년 시작해 올해로 44회를 맞은 서울시 건축상은 서울시를 대표하는 최고 권위의 건축상이다. 올",
       "eligibility": "바로~ 내 손안에 서울 발행일 2026",
-      "benefit": "최신 뉴스 1 미디어아트에 140여 곳 할인까지… '서울라이트 DDP' 개막 2 '서울세계불꽃축제' 가기 전 확인!",
+      "benefit": "‘서울세계불꽃축제’ 숨은 명당 3곳 2 미디어아트에 140여 곳 할인까지… '서울라이트 DDP' 개막 3 '서울세계불꽃축제' 가기 전 확인!",
       "period": "7월 23일~8월 5일",
       "apply_method": "공식 신청처 확인",
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018851",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T13:50:36+09:00"
+      "checked_at": "2026-09-02T13:55:31+09:00"
     },
     {
       "id": "real-gg-youth-futureplus",
@@ -6422,7 +6422,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018691",
       "review_required": true,
       "value_score": 27,
-      "checked_at": "2026-09-02T13:50:29+09:00"
+      "checked_at": "2026-09-02T13:55:23+09:00"
     },
     {
       "id": "auto-88ac600668aea2f76c",
@@ -6439,7 +6439,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018004",
       "review_required": true,
       "value_score": 25,
-      "checked_at": "2026-09-02T13:50:29+09:00"
+      "checked_at": "2026-09-02T13:55:23+09:00"
     },
     {
       "id": "auto-aa9d999ba12dd2de7a",
@@ -6456,7 +6456,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017963",
       "review_required": true,
       "value_score": 25,
-      "checked_at": "2026-09-02T13:50:29+09:00"
+      "checked_at": "2026-09-02T13:55:23+09:00"
     },
     {
       "id": "auto-003cc1f1a1fe01888d",
@@ -6473,7 +6473,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019098",
       "review_required": true,
       "value_score": 17,
-      "checked_at": "2026-09-02T13:50:29+09:00"
+      "checked_at": "2026-09-02T13:55:23+09:00"
     },
     {
       "id": "auto-a89abe04535a008f3a",
@@ -6490,7 +6490,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018953",
       "review_required": true,
       "value_score": 12,
-      "checked_at": "2026-09-02T13:50:34+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-82bacc88ae2d1c77af",
@@ -6507,7 +6507,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018622",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T13:50:36+09:00"
+      "checked_at": "2026-09-02T13:55:31+09:00"
     },
     {
       "id": "auto-a1bdc444aaa9adb1b3",
@@ -6524,7 +6524,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018878",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T13:50:38+09:00"
+      "checked_at": "2026-09-02T13:55:34+09:00"
     },
     {
       "id": "auto-c52c81a3e3b384f69f",
@@ -6541,7 +6541,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017901",
       "review_required": true,
       "value_score": 18,
-      "checked_at": "2026-09-02T13:50:29+09:00"
+      "checked_at": "2026-09-02T13:55:23+09:00"
     },
     {
       "id": "auto-f25c41b6dd22f89027",
@@ -6558,7 +6558,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019013",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T13:50:32+09:00"
+      "checked_at": "2026-09-02T13:55:25+09:00"
     },
     {
       "id": "auto-57a4636c14a5f4357e",
@@ -6575,7 +6575,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019138",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-09-02T13:50:32+09:00"
+      "checked_at": "2026-09-02T13:55:25+09:00"
     },
     {
       "id": "auto-e8cff58138519d40a8",
@@ -6592,7 +6592,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018971",
       "review_required": true,
       "value_score": 8,
-      "checked_at": "2026-09-02T13:50:35+09:00"
+      "checked_at": "2026-09-02T13:55:30+09:00"
     },
     {
       "id": "auto-90257e5ed24c60f1e2",
@@ -6609,7 +6609,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019234",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T13:50:34+09:00"
+      "checked_at": "2026-09-02T13:55:29+09:00"
     },
     {
       "id": "auto-e46975b10794397e19",
@@ -6626,7 +6626,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019127",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T13:50:36+09:00"
+      "checked_at": "2026-09-02T13:55:31+09:00"
     },
     {
       "id": "auto-5b0aa5b28e2b6e2138",
@@ -6643,7 +6643,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018213",
       "review_required": true,
       "value_score": 28,
-      "checked_at": "2026-09-02T13:50:29+09:00"
+      "checked_at": "2026-09-02T13:55:23+09:00"
     },
     {
       "id": "auto-aeb137c33bcdf80113",
@@ -6660,7 +6660,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017484",
       "review_required": true,
       "value_score": 19,
-      "checked_at": "2026-09-02T13:50:29+09:00"
+      "checked_at": "2026-09-02T13:55:23+09:00"
     },
     {
       "id": "auto-3eae4bb4e771b5aaae",
@@ -6677,7 +6677,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017669",
       "review_required": true,
       "value_score": 17,
-      "checked_at": "2026-09-02T13:50:29+09:00"
+      "checked_at": "2026-09-02T13:55:22+09:00"
     },
     {
       "id": "auto-6ba16c23ef5518242e",
@@ -6694,7 +6694,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019188",
       "review_required": true,
       "value_score": 14,
-      "checked_at": "2026-09-02T13:50:31+09:00"
+      "checked_at": "2026-09-02T13:55:25+09:00"
     },
     {
       "id": "auto-018869e6b36192bfaf",
@@ -6704,14 +6704,14 @@
       "status": "확인필요",
       "summary": "시세 60~70% 임대료…8월 31일부터 인터넷 청약 서울시가 신혼부부의 주거 부담을 덜고 안정적인 보금자리를 마련할 수 있도록 2026년 제1차 ‘일반주택형 미리내집’(신혼·신생아매입임대주택Ⅱ) 128세대​를 공급한다. 8월 14일 입주자 모집 공고를 내고, 인터넷 청약 접수는 8월 31일부터 9월 2일까지 진행한다. ‘일반주택형 미리내집’은 SH가 매입한 오피스텔, 도시형생활주택, 다가구주택 등을 신혼부부 등에게 시세보다 저렴하게 공급하는 매입임대주택이다. ",
       "eligibility": "은 무주택 신혼부부·예비부부 등이며 임대료는 시세의 60~70% 수준이다",
-      "benefit": "최신 뉴스 1 미디어아트에 140여 곳 할인까지… '서울라이트 DDP' 개막 2 '서울세계불꽃축제' 가기 전 확인!",
+      "benefit": "‘서울세계불꽃축제’ 숨은 명당 3곳 2 미디어아트에 140여 곳 할인까지… '서울라이트 DDP' 개막 3 '서울세계불꽃축제' 가기 전 확인!",
       "period": "8월 31일부터 9월 2일까지",
       "apply_method": "공식 신청처 확인",
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019069",
       "review_required": true,
       "value_score": 14,
-      "checked_at": "2026-09-02T13:50:31+09:00"
+      "checked_at": "2026-09-02T13:55:25+09:00"
     },
     {
       "id": "auto-0da427646ae59c013d",
@@ -6721,14 +6721,14 @@
       "status": "확인필요",
       "summary": "7.13.~15. SH공사 누리집 접수 서울시가 이공계 대학원생과 박사 후 연구원의 주거비 부담을 덜기 위해 ‘이공계 인재 성장주택’을 선보입니다. 먼저, 마포구 성산동에 17호를 공급하며, 시세의 30~50% 수준 임대료로 최장 10년까지 거주할 수 있습니다. 7월 13일부터 15일까지 SH공사 누리집에서 신청하세요. 이공계 인재 성장주택은? 올해 처음 공급되는 ‘이공계 인재 성장주택’은 우수한 역량을 갖춘 이공계 대학원생 및 박사후 연구원들을 위한 전용 주거",
       "eligibility": "하며, 청년 매입임대주택의 소득 및 자산 자격 요건을 충족해야 한다",
-      "benefit": "최신 뉴스 1 미디어아트에 140여 곳 할인까지… '서울라이트 DDP' 개막 2 '서울세계불꽃축제' 가기 전 확인!",
+      "benefit": "‘서울세계불꽃축제’ 숨은 명당 3곳 2 미디어아트에 140여 곳 할인까지… '서울라이트 DDP' 개막 3 '서울세계불꽃축제' 가기 전 확인!",
       "period": "공식 공고 확인",
       "apply_method": "온라인 신청 ○ 공급주택 : 마포구 성미산로11길 108 주택 17호 위치 및 주택 유형 시는 마포구 성미산로11길 108(성산동 3-20, 삼화에코빌 2차)에 소재한 17호 주택 공급한다",
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018574",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-09-02T13:50:32+09:00"
+      "checked_at": "2026-09-02T13:55:25+09:00"
     },
     {
       "id": "auto-435c2a1a42953f36fb",
@@ -6745,7 +6745,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019178",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-09-02T13:50:34+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-4022519f3449e3c434",
@@ -6762,7 +6762,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019104",
       "review_required": true,
       "value_score": 8,
-      "checked_at": "2026-09-02T13:50:34+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-9401f62214bc82292f",
@@ -6779,7 +6779,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019100",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T13:50:37+09:00"
+      "checked_at": "2026-09-02T13:55:31+09:00"
     },
     {
       "id": "auto-23fb984567274a0238",
@@ -6796,7 +6796,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019018",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T13:50:35+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-c30619b776d66a12cf",
@@ -6813,7 +6813,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018960",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T13:50:38+09:00"
+      "checked_at": "2026-09-02T13:55:33+09:00"
     },
     {
       "id": "auto-b94ced0c4fdd9d14c8",
@@ -6830,7 +6830,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019199",
       "review_required": true,
       "value_score": 12,
-      "checked_at": "2026-09-02T13:50:32+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-207f8b168eaf082a0b",
@@ -6847,7 +6847,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017567",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-09-02T13:50:32+09:00"
+      "checked_at": "2026-09-02T13:55:26+09:00"
     },
     {
       "id": "auto-438bf63daea300dce0",
@@ -6864,7 +6864,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019128",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-09-02T13:50:37+09:00"
+      "checked_at": "2026-09-02T13:55:31+09:00"
     },
     {
       "id": "auto-489dee5f1e9694489f",
@@ -6881,7 +6881,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019160",
       "review_required": true,
       "value_score": 8,
-      "checked_at": "2026-09-02T13:50:34+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-806a263c095bbba958",
@@ -6898,7 +6898,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018939",
       "review_required": true,
       "value_score": 8,
-      "checked_at": "2026-09-02T13:50:37+09:00"
+      "checked_at": "2026-09-02T13:55:31+09:00"
     },
     {
       "id": "auto-d9d2ae18de79903a79",
@@ -6915,7 +6915,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019121",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T13:50:35+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-02285547ccb74e70c7",
@@ -6932,7 +6932,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019251",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T13:50:38+09:00"
+      "checked_at": "2026-09-02T13:55:32+09:00"
     },
     {
       "id": "auto-5cc619837df08aaa6c",
@@ -6949,7 +6949,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019218",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-09-02T13:50:34+09:00"
+      "checked_at": "2026-09-02T13:55:28+09:00"
     },
     {
       "id": "auto-81d39d1eeb50589971",
@@ -6959,14 +6959,14 @@
       "status": "확인필요",
       "summary": "취업 준비와 아르바이트를 병행하다 보니 요즘은 몸보다 마음이 먼저 지치는 날이 많았다. 친구들에게 연락하고 싶다가도 괜히 우울한 이야기를 꺼내는 것 같아 망설이게 되고, 결국 혼자 휴대전화만 바라보며 하루를 보내는 때도 있었다. 그러던 중 이름부터 조금 특별한 ‘서울마음편의점 성북점’을 알게 됐다. ☞ [관련 기사] 외로울 때 찾는 편의점이 있다? 서울마음편의점 19곳으로 확대 처음에는 정말 물건을 파는 편의점인가 싶었다. 하지만 직접 방문해 보니 이곳은 물건 ",
       "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "최신 뉴스 1 미디어아트에 140여 곳 할인까지… '서울라이트 DDP' 개막 2 '서울세계불꽃축제' 가기 전 확인!",
+      "benefit": "‘서울세계불꽃축제’ 숨은 명당 3곳 2 미디어아트에 140여 곳 할인까지… '서울라이트 DDP' 개막 3 '서울세계불꽃축제' 가기 전 확인!",
       "period": "공식 공고 확인",
       "apply_method": "공식 신청처 확인",
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018983",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T13:50:37+09:00"
+      "checked_at": "2026-09-02T13:55:31+09:00"
     },
     {
       "id": "auto-23546017ba8fd989f9",
@@ -6983,7 +6983,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018610",
       "review_required": true,
       "value_score": 5,
-      "checked_at": "2026-09-02T13:50:37+09:00"
+      "checked_at": "2026-09-02T13:55:31+09:00"
     },
     {
       "id": "gov24-7f8329fb7e0933c493",
@@ -7162,7 +7162,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018880",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T13:50:32+09:00"
+      "checked_at": "2026-09-02T13:55:25+09:00"
     },
     {
       "id": "real-seoul-youth-policy",
