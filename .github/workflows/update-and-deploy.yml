@@ -1,1 +1,49 @@
+name: Update policies and deploy
+
+on:
+  schedule:
+    - cron: '15 22 * * 0-4' # 평일 오전 7:15 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Update policy data
+        env:
+          YOUTH_API_KEY: ${{ secrets.YOUTH_API_KEY }}
+          PUBLIC_SERVICE_API_KEY: ${{ secrets.PUBLIC_DATA_API_KEY }}
+        run: python scripts/update_policies.py
+
+      - name: Commit data changes
+        run: |
+          git config user.name "benefit-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/policies.json
+          git diff --cached --quiet || git commit -m "chore: update policy data"
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+
+      - uses: actions/deploy-pages@v4
 
