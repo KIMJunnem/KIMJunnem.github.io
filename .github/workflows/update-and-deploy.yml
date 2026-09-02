@@ -1,4 +1,4 @@
-name: Update policies and deploy
+name: Update policies
 
 on:
   schedule:
@@ -7,11 +7,9 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: policy-update
   cancel-in-progress: false
 
 jobs:
@@ -38,12 +36,3 @@ jobs:
           git add data/policies.json
           git diff --cached --quiet || git commit -m "chore: update policy data"
           git push
-
-      - uses: actions/configure-pages@v5
-
-      - uses: actions/upload-pages-artifact@v4
-        with:
-          path: .
-
-      - uses: actions/deploy-pages@v4
-
