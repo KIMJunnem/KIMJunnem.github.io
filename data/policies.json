@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T15:17:45+09:00",
-  "policy_count": 407,
+  "updated_at": "2026-09-02T15:27:46+09:00",
+  "policy_count": 417,
   "sources": [
     "경기민원24",
     "광주청년통합플랫폼",
@@ -11,6 +11,23 @@
   ],
   "central_api_ready": true,
   "policies": [
+    {
+      "id": "auto-dcb65e65520329b3af",
+      "title": "접수중 경기도 긴급지원주택 입주자 이주비 지원사업 > 2026.01.02(금) ~ 사업 소진시 까지 온라인 접수 오프라인 접수",
+      "region": "경기",
+      "category": "주거",
+      "status": "신청가능",
+      "summary": "혜택: 지원 내용 ㅇ 지원내용 - 긴급지원주택으로 주거 이전 시 가구당 이주비 최대 150만원 한도 실비 지원(가구당 1회 지급) ㅇ 지원절차 ① 신청 ‧ 접수 : 온라인 신청 / 등기 신청 / 대면 신청 ② 자격심사 : 자격요건 서류심사 ③ 선정・지원 : 대상자 선정, 이주비 지급 ④ 만족도 조사 : 사업의 적정성, 실효성 등",
+      "eligibility": "자 신청대상자 ㅇ 지원대상 - 현재 경기도민이며 「자격기준」과 「거주기준」을 모두 충족하는 자 가",
+      "benefit": "지원 내용 ㅇ 지원내용 - 긴급지원주택으로 주거 이전 시 가구당 이주비 최대 150만원 한도 실비 지원(가구당 1회 지급) ㅇ 지원절차 ① 신청 ‧ 접수 : 온라인 신청 / 등기 신청 / 대면 신청 ② 자격심사 : 자격요건 서류심사 ③ 선정・지원 : 대상자 선정, 이주비 지급 ④ 만족도 조사 : 사업의 적정성, 실효성 등",
+      "period": "사업 소진시 까지 온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키",
+      "apply_method": "온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키보드 보안 프로그램 적용 ※ 안전한 경기민원24 서비스 이용을 위해 키보드 보안 프로그램 적용을 권장합니다",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=853",
+      "review_required": false,
+      "value_score": 20,
+      "checked_at": "2026-09-02T15:26:34+09:00"
+    },
     {
       "id": "gov24-88f73778563d4e1fcf",
       "title": "자활기업 지원",
@@ -118,6 +135,40 @@
       "value_score": 15,
       "source_updated_at": "20260801144358",
       "service_id": "313000000114"
+    },
+    {
+      "id": "auto-f078f130e48e14bc1d",
+      "title": "접수중 2026년 경기도 가족돌봄수당(2026.01 ~) > 2026.09.01(화) ~ 2026.09.15 (화) 온라인 접수",
+      "region": "전남광주통합특별시",
+      "category": "금융",
+      "status": "신청가능",
+      "summary": "혜택: 지원 내용 - 월 40시간 이상 돌봄 수행시 돌봄수당 계좌이체 ※ 아동 1명 월 30만원, 2명 45만원, 3명 60만원",
+      "eligibility": "신청대상자 ○ (지원기준) 경기도내 생후 24개월~36개월 아동을 부모의 맞벌이·다자녀 등 양육공백 발생 가정 - (연령기준) 돌봄활동 월 기준 아동 연령 생후 24개월~36개월 - (소득기준) 중위소득 150% 이하 가정 - (주소기준) 신청일 기준 양육자(부 또는 모)와 아동이 사업 시·군 주소 거주자 - (돌봄시간) 월 40시간 이상 돌봄 수행, 일 최대 4시간까지 인정 - (돌봄조력자",
+      "benefit": "지원 내용 - 월 40시간 이상 돌봄 수행시 돌봄수당 계좌이체 ※ 아동 1명 월 30만원, 2명 45만원, 3명 60만원",
+      "period": "(1일~15일) 내) 신청인,",
+      "apply_method": "은? ❍ 관할 읍·면·동",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=931",
+      "review_required": false,
+      "value_score": 15,
+      "checked_at": "2026-09-02T15:26:37+09:00"
+    },
+    {
+      "id": "auto-5c251ad107131fe04b",
+      "title": "접수중 2026년 가정보육 어린이 건강과일 지원사업 > 2026.08.18(화) ~ 2026.09.18 (금) 온라인 접수 오프라인 접수",
+      "region": "전남광주통합특별시",
+      "category": "금융",
+      "status": "신청가능",
+      "summary": "혜택: 지원 내용 ❍ 지원내용 - (지원내용) 가정보육 어린이에게 과일 꾸러미로 공급 - (지원횟수) 연 1회 / 약 40,000원 상당 ❍ 지원방법 - (공급방식) 국내산(도내산 우선) 제철과일 및 과채류를 꾸러미 형태로 가정에 직접 배송 - (",
+      "eligibility": "신청대상자 ❍ 지원대상 :",
+      "benefit": "지원 내용 ❍ 지원내용 - (지원내용) 가정보육 어린이에게 과일 꾸러미로 공급 - (지원횟수) 연 1회 / 약 40,000원 상당 ❍ 지원방법 - (공급방식) 국내산(도내산 우선) 제철과일 및 과채류를 꾸러미 형태로 가정에 직접 배송 - (",
+      "period": "(8. 18. ~ 9. 18.) 중 경기도 내 주민등록을 두고, 어린이집이나 유치원 등 시설을 이용하지 않은 가정보육 어린이 (아래 가. 또는 나. 자격을 갖춘 자) 가. 가정양육수당 수급자 : 24개월이상~86개월미만인 초등학교 미취학 아동 나. 부모급여(현금) 수급자 : 0~23개월",
+      "apply_method": "신청 방법 ❍",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=953",
+      "review_required": false,
+      "value_score": 15,
+      "checked_at": "2026-09-02T15:26:40+09:00"
     },
     {
       "id": "gov24-9dfc6e104cf12e828f",
@@ -1162,6 +1213,40 @@
       "value_score": 9,
       "source_updated_at": "20260810132618",
       "service_id": "391000000156"
+    },
+    {
+      "id": "auto-6465e7dc07c716c52f",
+      "title": "접수중 경기도 광역형 비자 시범사업 > 2025.09.15(월) ~ 2026.12.31 (목) 온라인 접수",
+      "region": "경기",
+      "category": "일자리",
+      "status": "신청가능",
+      "summary": "혜택: 지원 내용 ㅇ 사업기간 : 2025. 9. 15. ~ 2026. 12. 31. ㅇ 배정인원 : 총 630명 ※ 시군별, 직종별, 국적별 별도 인원제한 없음 ㅇ 주요내용 : 적용대상 직종에 대해 자격요건 충족 시 경기도지사 추천서 발급",
+      "eligibility": "자 신청대상자 □ 전문인력(E-7-1) 11개 직종 ㅇ (학위) 도입직종과 연관성이 있는 분야의 석사 이상 학위 소지 ㅇ (학위+경력) 도입직종과 연관성이 있는 학사학위 소지 + 1년 이상의 해당분야 경력 ㅇ (경력) 도입직종과 연관성이 있는 분야에 5년 이상의 근무경력 ㅇ (국내 전문대학 졸업(예정)자) 전공과목과 관련있는 도입허용 직종에 취업하는 경우 1년 이상의 경력요건을 면제하고, 고",
+      "benefit": "지원 내용 ㅇ 사업기간 : 2025. 9. 15. ~ 2026. 12. 31. ㅇ 배정인원 : 총 630명 ※ 시군별, 직종별, 국적별 별도 인원제한 없음 ㅇ 주요내용 : 적용대상 직종에 대해 자격요건 충족 시 경기도지사 추천서 발급",
+      "period": "2025. 9. 15. ~ 2026. 12. 31. ※ 배정인원 소진 시 신청불가 ㅇ",
+      "apply_method": "신청 방법 ㅇ",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=929",
+      "review_required": false,
+      "value_score": 9,
+      "checked_at": "2026-09-02T15:26:42+09:00"
+    },
+    {
+      "id": "auto-4b62362ffd2e968225",
+      "title": "접수중 2026년 경기 고립은둔청년 지원 사업 > 2026.04.20(월) ~ 모집마감시 온라인 접수",
+      "region": "경기",
+      "category": "금융",
+      "status": "신청가능",
+      "summary": "혜택: 지원 내용 ㅇ 모집인원 : 300명 ㅇ 지원내용 : 맞춤형 프로그램 및 1:1 전문상담 등 온/오프라인 진행 **초기상담은 온라인이나 전화로도 가능하며, 일부 프로그램도 온라인 참여 가능합니다. ✔세부사업안내: 경기청년포털(https://youth.gg.go.kr) - ‘고립은둔 청년지원’ 공지사항 참고",
+      "eligibility": "신청대상자 - 아래의 기준에 부합하는 자 ✔ 경기도에 거주 중인 19~39세 청년 ✔ 사람들과 어울리기 어렵거나, 집 밖으로 나가기 힘든 분 ✔ 사회 활동이 줄어 대면 교류가 거의 없고 도움을 청할 수 있는 인적 자원이 없는 상태",
+      "benefit": "지원 내용 ㅇ 모집인원 : 300명 ㅇ 지원내용 : 맞춤형 프로그램 및 1:1 전문상담 등 온/오프라인 진행 **초기상담은 온라인이나 전화로도 가능하며, 일부 프로그램도 온라인 참여 가능합니다. ✔세부사업안내: 경기청년포털(https://youth.gg.go.kr) - ‘고립은둔 청년지원’ 공지사항 참고",
+      "period": "2026. 4. 20.(월) 09:00 ~ 모집마감시까지 ※ 신청 현황에 따라 조기 마감 될 수 있습니다. ㅇ",
+      "apply_method": "신청 방법 ㅇ",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=945",
+      "review_required": false,
+      "value_score": 9,
+      "checked_at": "2026-09-02T15:26:39+09:00"
     },
     {
       "id": "gov24-2cd6faf831f74bc667",
@@ -2838,6 +2923,23 @@
       "service_id": "315000000269"
     },
     {
+      "id": "auto-35b1288a4ce98e8f30",
+      "title": "접수중 전세피해 가구 긴급생계비 지원 > 2026.01.02(금) ~ 사업 소진시 까지 온라인 접수 오프라인 접수",
+      "region": "전남광주통합특별시",
+      "category": "주거",
+      "status": "신청가능",
+      "summary": "혜택: 지원 내용 ○",
+      "eligibility": "신청대상자 ○ (지역조건) 전세피해주택 소재지가 경기도 (ex) 경기도 소재 주택에서 피해를 입은 임차인이 타 시ㆍ도로 전출 ☞ 지원 ○ 타 시ㆍ도에서 전세피해를 입고 경기도로 전입 ☞ 지원 X ○ (자격조건) 전세피해자(외국인 포함) ※ 전세피해자 : 전세사기피해자특별법에 따라 전세사기피해자등 결정통보를 받은자 또는 주택도시보증공사로부터 전세피해확인서를 발급 받은 자 ○ 긴급생계비 및 긴급",
+      "benefit": "지원 내용 ○",
+      "period": "사업 소진시 까지 온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키",
+      "apply_method": "온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키보드 보안 프로그램 적용 ※ 안전한 경기민원24 서비스 이용을 위해 키보드 보안 프로그램 적용을 권장합니다",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=867",
+      "review_required": false,
+      "value_score": 17,
+      "checked_at": "2026-09-02T15:26:37+09:00"
+    },
+    {
       "id": "gov24-30c9abad014fd51946",
       "title": "초·중·고 교육비 지원",
       "summary": "○ 고교 학비 (입학금, 수업료, 학교운영지원비) ○ 학교급식비 ○ 교육정보화지원비",
@@ -2924,7 +3026,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": false,
       "value_score": 13,
-      "checked_at": "2026-09-02T15:16:21+09:00"
+      "checked_at": "2026-09-02T15:26:27+09:00"
     },
     {
       "id": "gov24-e859285660d08ffcca",
@@ -2961,6 +3063,40 @@
       "value_score": 12,
       "source_updated_at": "20260813131509",
       "service_id": "398000000298"
+    },
+    {
+      "id": "auto-3675b23019e6e87ed9",
+      "title": "접수중 2026년 대안교육기관 등 학생 교복지원 > 2026.03.09(월) ~ 2026.12.11 (금) 온라인 접수 오프라인 접수",
+      "region": "전남광주통합특별시",
+      "category": "금융",
+      "status": "신청가능",
+      "summary": "경기민원행정서비스 상세 :: 2026년 대안교육기관 등 학생 교복지원 바로가기 메뉴 본문 바로가기 주메뉴 바로가기 전체메뉴 보기 경기민원24 경기민원24 소개 경기민원24 소개 경기민원24 신청방법 경기민원 신청 민원행정 서비스 이용안내 공지사항 자주하는 질문 자료실 나의 서비스 민원신청 내역 관심서비스 나의 정보 수정 검색 팝업 열기 로그인 화면으로 이동 회원가입 화면으로 이동 SNS 공유 팝업 열기 카카오톡으로 공유 페이스북으로 공유 트위터로 공유 검색 자동",
+      "eligibility": "신청대상자 ㅇ 지원대상 - 입(전)학일 기준 도 내에 주민등록을 두고 있는 학생 가. 중·고등학교 1학년 교육과정에 준하는 대안교육기관 입학생이거나 나. 다른 시·도 소재의 중·고등학교 및 이에 준하는 과정에 입학한 1학년 학생",
+      "benefit": "지원 내용 ㅇ 지원방법 - (신청인) 신청서류 제출 → (시·군) 서류 확인,",
+      "period": "- 3월 9일 ~ 12월 11일 ㅇ",
+      "apply_method": "온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키보드 보안 프로그램 적용 ※ 안전한 경기민원24 서비스 이용을 위해 키보드 보안 프로그램 적용을 권장합니다",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=939",
+      "review_required": false,
+      "value_score": 11,
+      "checked_at": "2026-09-02T15:26:43+09:00"
+    },
+    {
+      "id": "auto-da76cf72bf4d183821",
+      "title": "접수중 경기청년 기회사다리금융 > 2025.04.21(월) ~ 한도 소진시 까지 온라인 접수",
+      "region": "경기",
+      "category": "주거",
+      "status": "신청가능",
+      "summary": "혜택: 산후 산후조리비 지원사업 2021년도 산후조리비 지원사업 검색 추천 검색어 #기회소득 #대출이자 #산후조리비 #건강과일 #생리용품 닫기 경기민원24 소개 선택됨 경기민원24 소개 경기민원24 신청방법 선택됨 경기민원 신청 선택됨 민원행정 서비스 이용안내 공지사항 자주하는 질문 자료실 나의 서비스 민원신청 내역 관심서비스 나의 정보 수정 자동 로그아웃 5분 00초 후 자동 로그아웃 예정입니다.",
+      "eligibility": "신청대상자 ㅇ 아래 ①, ② 요건을 모두 충족하는 경우 신청 가능 ① 신청일 현재 경기도에 주민등록을 둔 1년 이상 계속 거주 25~39세 청년 (재외국민, 외국인, 해외체류 제외) ② 연체, 부도 등 해당사항이 없는 사람 ※ 세부사항 하단 붙임 공고문 참조 (다만, 채무조정 확정 후 12개월(12회차) 이상 성실상환 중인 사람은 신청 가능) ※ 대출 심사일 기준 기 대출액 5천만원 이상인 ",
+      "benefit": "산후 산후조리비 지원사업 2021년도 산후조리비 지원사업 검색 추천 검색어 #기회소득 #대출이자 #산후조리비 #건강과일 #생리용품 닫기 경기민원24 소개 선택됨 경기민원24 소개 경기민원24 신청방법 선택됨 경기민원 신청 선택됨 민원행정 서비스 이용안내 공지사항 자주하는 질문 자료실 나의 서비스 민원신청 내역 관심서비스 나의 정보 수정 자동 로그아웃 5분 00초 후 자동 로그아웃 예정입니다.",
+      "period": "공식 공고 확인",
+      "apply_method": "안내 ‧ [1단계-경기민원24] 경기도 콜센터 ☎ 031-120 ‧ [2단계-하나은행] 하나은행 대표전화 ☎ 1599-2121 - 정책 내용 : 경기도 경제실 지역금융과 ☎ 031-8008-6128 더보기",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=854",
+      "review_required": false,
+      "value_score": 10,
+      "checked_at": "2026-09-02T15:26:42+09:00"
     },
     {
       "id": "gov24-c52a5075b5f9cf9558",
@@ -3053,6 +3189,23 @@
       "service_id": "149200005035"
     },
     {
+      "id": "auto-3f0e320ccf81d88703",
+      "title": "접수중 2026년 경기도 맘튼튼 축산물 꾸러미 지원 > 2026.03.09(월) ~ 2027.02.28 (일) 온라인 접수 오프라인 접수",
+      "region": "전남광주통합특별시",
+      "category": "금융",
+      "status": "신청가능",
+      "summary": "경기민원행정서비스 상세 :: 2026년 경기도 맘튼튼 축산물 꾸러미 지원 바로가기 메뉴 본문 바로가기 주메뉴 바로가기 전체메뉴 보기 경기민원24 경기민원24 소개 경기민원24 소개 경기민원24 신청방법 경기민원 신청 민원행정 서비스 이용안내 공지사항 자주하는 질문 자료실 나의 서비스 민원신청 내역 관심서비스 나의 정보 수정 검색 팝업 열기 로그인 화면으로 이동 회원가입 화면으로 이동 SNS 공유 팝업 열기 카카오톡으로 공유 페이스북으로 공유 트위터로 공유 검색 ",
+      "eligibility": "신청대상자 ㅇ 출산 후 경기도 내 출생아(출생일 : 2026.1.1.~12.31.)의 출생신고를 완료한 산모 ※ 2026년도에 태어난 출생아의 첫 출생 신고지는 경기도이며, 해당 시군은 본 사업에 참여하는 시군이어야 함.",
+      "benefit": "지원 내용 ㅇ 접수기간 : 2026.03.09. ~ 2027.02.28. *시군별 예산소진 시 조기마감될 수 있음 ㅇ 지원내용 : 산모 1인당 10만원 이내 국내산 축산물꾸러미 지원 ※ 꾸러미 신청 시 시군별 구성품목 사진으로 확인 가능",
+      "period": "2026.03.09. ~ 2027.02.28. *시군별 예산소진 시 조기마감될 수 있음 ㅇ",
+      "apply_method": "온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키보드 보안 프로그램 적용 ※ 안전한 경기민원24 서비스 이용을 위해 키보드 보안 프로그램 적용을 권장합니다",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=936",
+      "review_required": false,
+      "value_score": 8,
+      "checked_at": "2026-09-02T15:26:43+09:00"
+    },
+    {
       "id": "gov24-d6ed0436f5ec4db48a",
       "title": "서대문구 아빠 육아휴직장려금",
       "summary": "서대문구 1년 이상 거주 고용노동부 육아휴직급여 수급 아빠께 장려금 30만원 지원합니다",
@@ -3087,6 +3240,23 @@
       "value_score": 8,
       "source_updated_at": "20260813135428",
       "service_id": "414000000124"
+    },
+    {
+      "id": "auto-95eb6c845e62cd26cf",
+      "title": "접수중 2026년 경기도 난자동결 시술비 지원사업 > 2025.04.01(화) ~ 온라인 접수",
+      "region": "전남광주통합특별시",
+      "category": "금융",
+      "status": "신청가능",
+      "summary": "혜택: 지원 내용 ○ 난자채취를 위한 사전 검사비(혈액검사, 초음파검사) 및 시술비 본인부담금의 50%, 생애 1회, 최대 200만원 (지원제외) 보관료, 입원료 등 난자채취와 상관없는 검사비 (지원불가) 난자동결 완료자만 지원, 난자동결에 이르지 못한 경우 불가 ※ 진료비세부내역서 상 동결 시술비와 보관료 금액이 별도 구분되지 않고, 합산되어 표시되는 경우 해당 내역 지원 제외(신청인은 반드시 시",
+      "eligibility": "신청대상자 1. (거주요건) 신청일 기준 주민등록상 경기도에 거주하고 있는 자 ※ 외국 국적 등 주민등록번호가 없는 여성은 신청 불가(외국인 등록번호 불가) 2. (대상연령) 만 20 ~ 49세 3. (난소기능) AMH 검사수치 1.5ng/ml 이하 여성 4. (소득기준) 기준중위소득 180% 이하",
+      "benefit": "지원 내용 ○ 난자채취를 위한 사전 검사비(혈액검사, 초음파검사) 및 시술비 본인부담금의 50%, 생애 1회, 최대 200만원 (지원제외) 보관료, 입원료 등 난자채취와 상관없는 검사비 (지원불가) 난자동결 완료자만 지원, 난자동결에 이르지 못한 경우 불가 ※ 진료비세부내역서 상 동결 시술비와 보관료 금액이 별도 구분되지 않고, 합산되어 표시되는 경우 해당 내역 지원 제외(신청인은 반드시 시",
+      "period": "공식 공고 확인",
+      "apply_method": "온라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키보드 보안 프로그램 적용 ※ 안전한 경기민원24 서비스 이용을 위해 키보드 보안 프로그램 적용을 권장합니다",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=916",
+      "review_required": false,
+      "value_score": 7,
+      "checked_at": "2026-09-02T15:26:41+09:00"
     },
     {
       "id": "gov24-95b93c0ab441d2b2d7",
@@ -3139,7 +3309,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": false,
       "value_score": 6,
-      "checked_at": "2026-09-02T15:16:26+09:00"
+      "checked_at": "2026-09-02T15:26:32+09:00"
     },
     {
       "id": "gov24-8c0d2b4c13a58d0f73",
@@ -3210,7 +3380,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 16,
-      "checked_at": "2026-09-02T15:16:21+09:00"
+      "checked_at": "2026-09-02T15:26:27+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3227,7 +3397,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T15:16:21+09:00"
+      "checked_at": "2026-09-02T15:26:27+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3244,7 +3414,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T15:16:21+09:00"
+      "checked_at": "2026-09-02T15:26:27+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3261,7 +3431,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-09-02T15:16:23+09:00"
+      "checked_at": "2026-09-02T15:26:29+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3278,7 +3448,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T15:16:26+09:00"
+      "checked_at": "2026-09-02T15:26:31+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3295,7 +3465,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T15:16:26+09:00"
+      "checked_at": "2026-09-02T15:26:31+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3312,7 +3482,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T15:16:26+09:00"
+      "checked_at": "2026-09-02T15:26:32+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3329,7 +3499,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T15:16:27+09:00"
+      "checked_at": "2026-09-02T15:26:36+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3346,7 +3516,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T15:16:27+09:00"
+      "checked_at": "2026-09-02T15:26:36+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3363,7 +3533,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 3,
-      "checked_at": "2026-09-02T15:16:28+09:00"
+      "checked_at": "2026-09-02T15:26:38+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3380,7 +3550,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 2,
-      "checked_at": "2026-09-02T15:16:30+09:00"
+      "checked_at": "2026-09-02T15:26:40+09:00"
     },
     {
       "id": "real-jngj-cert",
@@ -3412,7 +3582,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T15:16:27+09:00"
+      "checked_at": "2026-09-02T15:26:36+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3429,24 +3599,24 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-09-02T15:16:27+09:00"
+      "checked_at": "2026-09-02T15:26:36+09:00"
     },
     {
       "id": "auto-740808422c6e6baded",
       "title": "확대! 최대 90만 원 '서울커리업 구직지원금' 신청",
       "region": "서울",
-      "category": "주거",
+      "category": "일자리",
       "status": "신청가능",
       "summary": "9.1~17. 5차 모집…30만원x3개월 지급 서울시가 출산과 육아 등으로 일터를 떠나야 했던 3050여성들의 커리어 재진입을 위해 구직활동비부터 상담, 직무교육, 취업 연계까지 종합지원하는 ‘서울 커리업 구직지원금’ 참여자를 9월 1일부터 17일까지 추가 모집한다. ☞서울커리업 구직지원금 신청 ‘서울커리업 구직지원금’은 경력 공백을 겪은 여성의 경제활동 재진입을 돕는 ‘서울커리업 프로젝트’의 핵심 사업이다. ‘서울커리업 프로젝트’는 ▴구직지원금(월 30만 원×",
       "eligibility": "- 서울시 거주 30~59세 미취·창업 여성 ※ 혼인·임신·출산·육아를 이유로 경제활동을 중단한 경우 - 2026 기준중위소득 150% 이하 - 중복사업 동시 미참여자 ○",
-      "benefit": "- 구직지원금 최대 90만원 (포인트지급) - 맞춤형 경력개발 지원 ○ 이행요건 : 여성인력개발기관 구직등록, AI 교육·직업훈련 이수 및 취·창업프로그램 참여, 구직활동 결과보고서 제출 시 지급 ○ 누리집 : 서울커리업프로젝트 에서 온라인 신청 ○",
+      "benefit": "- 구직지원금 최대 90만원 (포인트지급) - 맞춤형 경력개발 지원 ○ 이행요건 : 여성인력개발기관 구직등록, AI 교육·직업훈련 이수 및 취·창업프로그램 참여, 구직활동 결과보고서 제출 시 지급 ○ 누리집 : 서울커리업프로젝트에서 온라인 신청 ○",
       "period": "9월 1일부터 9월 17일까지",
-      "apply_method": "온라인 신청 ○ 문의 : 대표전화 1660-3040 , 카톡채널 ‘서울커리업 프로젝트’ 기사 관련 태그 태그 #서울커리업 #구직지원금 #경력단절 좋아요 5 트위터 페이스북 카카오톡 함께 보면 좋은 뉴스 최대 90만원 '서울커리",
+      "apply_method": "온라인 신청 ○ 문의 : 대표전화 1660-3040 , 카톡채널 ‘서울커리업 프로젝트’",
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019235",
       "review_required": false,
-      "value_score": 22,
-      "checked_at": "2026-09-02T15:16:23+09:00"
+      "value_score": 19,
+      "checked_at": "2026-09-02T15:26:43+09:00"
     },
     {
       "id": "auto-9f4aec7a33b0bdf410",
@@ -3463,7 +3633,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018955",
       "review_required": false,
       "value_score": 14,
-      "checked_at": "2026-09-02T15:16:26+09:00"
+      "checked_at": "2026-09-02T15:26:31+09:00"
     },
     {
       "id": "auto-9b41b9d374761d63e8",
@@ -3480,7 +3650,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019236",
       "review_required": false,
       "value_score": 7,
-      "checked_at": "2026-09-02T15:16:30+09:00"
+      "checked_at": "2026-09-02T15:26:38+09:00"
     },
     {
       "id": "auto-959121c4f7f5ee4db1",
@@ -3497,7 +3667,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017714",
       "review_required": false,
       "value_score": 16,
-      "checked_at": "2026-09-02T15:16:23+09:00"
+      "checked_at": "2026-09-02T15:26:29+09:00"
     },
     {
       "id": "auto-0ee25d724c10e6cc1a",
@@ -3514,7 +3684,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019201",
       "review_required": false,
       "value_score": 14,
-      "checked_at": "2026-09-02T15:16:26+09:00"
+      "checked_at": "2026-09-02T15:26:31+09:00"
     },
     {
       "id": "auto-0e5cb63dcac2ce3d31",
@@ -3531,7 +3701,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018990",
       "review_required": false,
       "value_score": 6,
-      "checked_at": "2026-09-02T15:16:32+09:00"
+      "checked_at": "2026-09-02T15:26:42+09:00"
     },
     {
       "id": "auto-5f42893d99fe5655b1",
@@ -3548,7 +3718,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019050",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T15:16:27+09:00"
+      "checked_at": "2026-09-02T15:26:33+09:00"
     },
     {
       "id": "auto-c6034df8a9b93ab181",
@@ -3565,7 +3735,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017586",
       "review_required": true,
       "value_score": 10,
-      "checked_at": "2026-09-02T15:16:31+09:00"
+      "checked_at": "2026-09-02T15:26:40+09:00"
     },
     {
       "id": "auto-62d6ce9498bc0e039a",
@@ -3582,7 +3752,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018851",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T15:16:29+09:00"
+      "checked_at": "2026-09-02T15:26:36+09:00"
     },
     {
       "id": "real-gg-youth-futureplus",
@@ -6422,7 +6592,7 @@
       "url": "/dataList/OA-22207/S/1/datasetView.do",
       "review_required": true,
       "value_score": 2,
-      "checked_at": "2026-09-02T15:16:28+09:00"
+      "checked_at": "2026-09-02T15:26:38+09:00"
     },
     {
       "id": "auto-e9e4e25fe686c7507a",
@@ -6439,7 +6609,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018691",
       "review_required": true,
       "value_score": 27,
-      "checked_at": "2026-09-02T15:16:23+09:00"
+      "checked_at": "2026-09-02T15:26:29+09:00"
     },
     {
       "id": "auto-88ac600668aea2f76c",
@@ -6456,7 +6626,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018004",
       "review_required": true,
       "value_score": 25,
-      "checked_at": "2026-09-02T15:16:23+09:00"
+      "checked_at": "2026-09-02T15:26:29+09:00"
     },
     {
       "id": "auto-aa9d999ba12dd2de7a",
@@ -6473,7 +6643,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017963",
       "review_required": true,
       "value_score": 25,
-      "checked_at": "2026-09-02T15:16:23+09:00"
+      "checked_at": "2026-09-02T15:26:29+09:00"
     },
     {
       "id": "auto-003cc1f1a1fe01888d",
@@ -6490,7 +6660,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019098",
       "review_required": true,
       "value_score": 17,
-      "checked_at": "2026-09-02T15:16:24+09:00"
+      "checked_at": "2026-09-02T15:26:29+09:00"
     },
     {
       "id": "auto-a89abe04535a008f3a",
@@ -6507,7 +6677,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018953",
       "review_required": true,
       "value_score": 12,
-      "checked_at": "2026-09-02T15:16:28+09:00"
+      "checked_at": "2026-09-02T15:26:34+09:00"
     },
     {
       "id": "auto-82bacc88ae2d1c77af",
@@ -6524,7 +6694,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018622",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T15:16:30+09:00"
+      "checked_at": "2026-09-02T15:26:38+09:00"
     },
     {
       "id": "auto-c52c81a3e3b384f69f",
@@ -6541,7 +6711,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017901",
       "review_required": true,
       "value_score": 18,
-      "checked_at": "2026-09-02T15:16:23+09:00"
+      "checked_at": "2026-09-02T15:26:29+09:00"
     },
     {
       "id": "auto-f25c41b6dd22f89027",
@@ -6558,7 +6728,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019013",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T15:16:26+09:00"
+      "checked_at": "2026-09-02T15:26:31+09:00"
     },
     {
       "id": "auto-57a4636c14a5f4357e",
@@ -6575,7 +6745,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019138",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-09-02T15:16:27+09:00"
+      "checked_at": "2026-09-02T15:26:31+09:00"
     },
     {
       "id": "auto-e8cff58138519d40a8",
@@ -6592,7 +6762,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018971",
       "review_required": true,
       "value_score": 8,
-      "checked_at": "2026-09-02T15:16:29+09:00"
+      "checked_at": "2026-09-02T15:26:36+09:00"
     },
     {
       "id": "auto-90257e5ed24c60f1e2",
@@ -6609,7 +6779,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019234",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T15:16:28+09:00"
+      "checked_at": "2026-09-02T15:26:36+09:00"
     },
     {
       "id": "auto-e46975b10794397e19",
@@ -6626,7 +6796,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019127",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T15:16:30+09:00"
+      "checked_at": "2026-09-02T15:26:38+09:00"
     },
     {
       "id": "auto-5b0aa5b28e2b6e2138",
@@ -6643,7 +6813,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018213",
       "review_required": true,
       "value_score": 28,
-      "checked_at": "2026-09-02T15:16:23+09:00"
+      "checked_at": "2026-09-02T15:26:29+09:00"
     },
     {
       "id": "auto-aeb137c33bcdf80113",
@@ -6660,24 +6830,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017484",
       "review_required": true,
       "value_score": 19,
-      "checked_at": "2026-09-02T15:16:24+09:00"
-    },
-    {
-      "id": "auto-8a083b551064ec9d39",
-      "title": "한도 2배 늘었다! '안심통장 4호' 출시…기존 이용자도 신청 가능",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "자영업자 경영상황따라 최대 2천만 원 서울시가 지원 한도는 늘리고, 대상 요건은 더 촘촘하게 세분화한 안심통장 4호를 9월 3일 출시한다. ‘안심통장’은 제도권 금융 이용이 어려운 자영업자가 불법사금융으로 내몰리는 것을 방지하기 위해 서울시가 2025년 전국 최초 출시한 자영업자 전용 마이너스 통장이다. 서울시는 4호부터 지원체계를 대폭 개선했다. 소상공인의 한도상향 요구를 반영해 기존 최대 1천만 원이던 지원 한도를 최대 2천만 원으로 늘리고 업력·신용점수·매",
-      "eligibility": "은 서울시에 사업장을 둔 중소기업 및 소상공인 중 ▴업력 1년 이상 ▴최근 3개월 매출 합계 200만 원 이상 또는 1년 신고매출액이 1,000만 원 이상 ▴대표자 NICE 개인신용평점 600점 이상인 개인사업자다",
-      "benefit": "의 합계액이 1억 원을 초과하면 지원이 제한된다. 또한 정부 소상공인 비즈플러스 카드 보증 잔액 보유자, 타 지역신용보증재단 동일 유형 카드 보증 또는 마이너스통장 잔액 보유자는 중복 지원받을 수 없다. 대출은행 은 신한은행, 우리은행, 카카오뱅크, 케이뱅크, 토스뱅크, 하나은행이며, 상환조건은 1년 만기 일시상환이다. 1년 단위로 기한을 연장해 최대 5년까지 이용할 수 있으며 보증료는 연 ",
-      "period": "공식 공고 확인",
-      "apply_method": "등 자세한 내용은 서울신용보증재단 누리집 에서 확인할 수 있다. 자영업자 안심통장 ☞안내페이지 ○",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019261",
-      "review_required": true,
-      "value_score": 18,
-      "checked_at": "2026-09-02T15:16:26+09:00"
+      "checked_at": "2026-09-02T15:26:29+09:00"
     },
     {
       "id": "auto-3eae4bb4e771b5aaae",
@@ -6694,24 +6847,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017669",
       "review_required": true,
       "value_score": 17,
-      "checked_at": "2026-09-02T15:16:23+09:00"
-    },
-    {
-      "id": "auto-6ba16c23ef5518242e",
-      "title": "전세사기 예방! 청년 맞춤 부동산 교육…사전신청하면 선물까지",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "9.9. 오후 7시, 서울시청서 교육·상담 지원 서울시는 대학생과 사회 초년생 등 청년층이 전월세 계약 과정에서 발생할 수 있는 위험을 미리 파악하고 스스로 대응할 수 있도록 9월 9일 오후 7시 서울시청 본관 3층 대회의실에서 ‘2026 제3회 청년 맞춤형 부동산 교육’을 개최한다. 이번 교육은 가을 이사철을 앞두고, 청년들이 실제 전월세 계약 과정에서 무엇을 확인하고, 어떤 상황에 주의해야 하는지 알 수 있도록 현장에서 자주 발생하는 사례와 실무적인 대응 방",
-      "eligibility": "‘2026 제3회 청년 맞춤형 부동산 교육’을 연다",
-      "benefit": "전월세 계약 시 주의사항과 사례 중심 실무를 안내하고, 희망자에게 1:1 맞춤 상담도 제공한다.",
-      "period": "공식 공고 확인",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019188",
-      "review_required": true,
-      "value_score": 14,
-      "checked_at": "2026-09-02T15:16:25+09:00"
+      "checked_at": "2026-09-02T15:26:29+09:00"
     },
     {
       "id": "auto-018869e6b36192bfaf",
@@ -6728,7 +6864,24 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019069",
       "review_required": true,
       "value_score": 14,
-      "checked_at": "2026-09-02T15:16:25+09:00"
+      "checked_at": "2026-09-02T15:26:31+09:00"
+    },
+    {
+      "id": "auto-6ba16c23ef5518242e",
+      "title": "전세사기 예방! 청년 맞춤 부동산 교육…사전신청하면 선물까지",
+      "region": "서울",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "9.9. 오후 7시, 서울시청서 교육·상담 지원 서울시는 대학생과 사회 초년생 등 청년층이 전월세 계약 과정에서 발생할 수 있는 위험을 미리 파악하고 스스로 대응할 수 있도록 9월 9일 오후 7시 서울시청 본관 3층 대회의실에서 ‘2026 제3회 청년 맞춤형 부동산 교육’을 개최한다. 이번 교육은 가을 이사철을 앞두고, 청년들이 실제 전월세 계약 과정에서 무엇을 확인하고, 어떤 상황에 주의해야 하는지 알 수 있도록 현장에서 자주 발생하는 사례와 실무적인 대응 방",
+      "eligibility": "‘1:1 전월세 맞춤 상담’도 함께 진행한다",
+      "benefit": "오후 7시, 서울시청서 교육·상담 지원 서울시는 대학생과 사회 초년생 등 청년층이 전월세 계약 과정에서 발생할 수 있는 위험을 미리 파악하고 스스로 대응할 수 있도록 9월 9일 오후 7시 서울시청 본관 3층 대회의실에서 ‘2026 제3회 청년 맞춤형 부동산 교육’을 개최한다.",
+      "period": "공식 공고 확인",
+      "apply_method": "공식 신청처 확인",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2019188",
+      "review_required": true,
+      "value_score": 11,
+      "checked_at": "2026-09-02T15:26:45+09:00"
     },
     {
       "id": "auto-0da427646ae59c013d",
@@ -6745,7 +6898,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018574",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-09-02T15:16:25+09:00"
+      "checked_at": "2026-09-02T15:26:32+09:00"
     },
     {
       "id": "auto-435c2a1a42953f36fb",
@@ -6762,7 +6915,24 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019178",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-09-02T15:16:28+09:00"
+      "checked_at": "2026-09-02T15:26:33+09:00"
+    },
+    {
+      "id": "auto-8a083b551064ec9d39",
+      "title": "한도 2배 늘었다! '안심통장 4호' 출시…기존 이용자도 신청 가능",
+      "region": "서울",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "자영업자 경영상황따라 최대 2천만 원 서울시가 지원 한도는 늘리고, 대상 요건은 더 촘촘하게 세분화한 안심통장 4호를 9월 3일 출시한다. ‘안심통장’은 제도권 금융 이용이 어려운 자영업자가 불법사금융으로 내몰리는 것을 방지하기 위해 서울시가 2025년 전국 최초 출시한 자영업자 전용 마이너스 통장이다. 서울시는 4호부터 지원체계를 대폭 개선했다. 소상공인의 한도상향 요구를 반영해 기존 최대 1천만 원이던 지원 한도를 최대 2천만 원으로 늘리고 업력·신용점수·매",
+      "eligibility": "은 서울시에 사업장을 둔 중소기업 및 소상공인 중 ▴업력 1년 이상 ▴최근 3개월 매출 합계 200만 원 이상 또는 1년 신고매출액이 1,000만 원 이상 ▴대표자 NICE 개인신용평점 600점 이상인 개인사업자다",
+      "benefit": "의 합계액이 1억 원을 초과하면 지원이 제한된다. 또한 정부 소상공인 비즈플러스 카드 보증 잔액 보유자, 타 지역신용보증재단 동일 유형 카드 보증 또는 마이너스통장 잔액 보유자는 중복 지원받을 수 없다. 대출은행 은 신한은행, 우리은행, 카카오뱅크, 케이뱅크, 토스뱅크, 하나은행이며, 상환조건은 1년 만기 일시상환이다. 1년 단위로 기한을 연장해 최대 5년까지 이용할 수 있으며 보증료는 연 ",
+      "period": "공식 공고 확인",
+      "apply_method": "등 자세한 내용은 서울신용보증재단 누리집에서 확인할 수 있다. 자영업자 안심통장 ☞안내페이지 ○",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2019261",
+      "review_required": true,
+      "value_score": 8,
+      "checked_at": "2026-09-02T15:26:48+09:00"
     },
     {
       "id": "auto-4022519f3449e3c434",
@@ -6779,7 +6949,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019104",
       "review_required": true,
       "value_score": 8,
-      "checked_at": "2026-09-02T15:16:28+09:00"
+      "checked_at": "2026-09-02T15:26:34+09:00"
     },
     {
       "id": "auto-9401f62214bc82292f",
@@ -6796,7 +6966,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019100",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T15:16:30+09:00"
+      "checked_at": "2026-09-02T15:26:38+09:00"
     },
     {
       "id": "auto-23fb984567274a0238",
@@ -6813,7 +6983,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019018",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T15:16:29+09:00"
+      "checked_at": "2026-09-02T15:26:36+09:00"
     },
     {
       "id": "auto-c30619b776d66a12cf",
@@ -6830,7 +7000,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018960",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T15:16:32+09:00"
+      "checked_at": "2026-09-02T15:26:42+09:00"
     },
     {
       "id": "auto-b94ced0c4fdd9d14c8",
@@ -6847,7 +7017,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019199",
       "review_required": true,
       "value_score": 12,
-      "checked_at": "2026-09-02T15:16:27+09:00"
+      "checked_at": "2026-09-02T15:26:33+09:00"
     },
     {
       "id": "auto-207f8b168eaf082a0b",
@@ -6864,7 +7034,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2017567",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-09-02T15:16:26+09:00"
+      "checked_at": "2026-09-02T15:26:32+09:00"
     },
     {
       "id": "auto-438bf63daea300dce0",
@@ -6881,7 +7051,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019128",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-09-02T15:16:30+09:00"
+      "checked_at": "2026-09-02T15:26:40+09:00"
     },
     {
       "id": "auto-489dee5f1e9694489f",
@@ -6898,7 +7068,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019160",
       "review_required": true,
       "value_score": 8,
-      "checked_at": "2026-09-02T15:16:28+09:00"
+      "checked_at": "2026-09-02T15:26:36+09:00"
     },
     {
       "id": "auto-806a263c095bbba958",
@@ -6915,7 +7085,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018939",
       "review_required": true,
       "value_score": 8,
-      "checked_at": "2026-09-02T15:16:30+09:00"
+      "checked_at": "2026-09-02T15:26:38+09:00"
     },
     {
       "id": "auto-d9d2ae18de79903a79",
@@ -6932,7 +7102,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019121",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T15:16:28+09:00"
+      "checked_at": "2026-09-02T15:26:36+09:00"
     },
     {
       "id": "auto-02285547ccb74e70c7",
@@ -6949,7 +7119,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019251",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-09-02T15:16:31+09:00"
+      "checked_at": "2026-09-02T15:26:41+09:00"
     },
     {
       "id": "auto-5cc619837df08aaa6c",
@@ -6966,7 +7136,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019218",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-09-02T15:16:27+09:00"
+      "checked_at": "2026-09-02T15:26:33+09:00"
     },
     {
       "id": "auto-81d39d1eeb50589971",
@@ -6983,7 +7153,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018983",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-09-02T15:16:31+09:00"
+      "checked_at": "2026-09-02T15:26:40+09:00"
     },
     {
       "id": "auto-23546017ba8fd989f9",
@@ -7000,7 +7170,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018610",
       "review_required": true,
       "value_score": 5,
-      "checked_at": "2026-09-02T15:16:31+09:00"
+      "checked_at": "2026-09-02T15:26:41+09:00"
     },
     {
       "id": "gov24-7f8329fb7e0933c493",
@@ -7179,7 +7349,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018880",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-09-02T15:16:26+09:00"
+      "checked_at": "2026-09-02T15:26:32+09:00"
     },
     {
       "id": "real-seoul-youth-policy",
