@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-03T07:27:55+09:00",
-  "count": 355,
+  "updated_at": "2026-09-04T07:27:35+09:00",
+  "count": 365,
   "policies": [
+    {
+      "id": "auto-dcb65e65520329b3af",
+      "title": "접수중 경기도 긴급지원주택 입주자 이주비 지원사업 > 2026.01.02(금) ~ 사업 소진시 까지 온라인 접수 오프라인 접수",
+      "summary": "혜택: 지원 내용 ㅇ 지원내용 - 긴급지원주택으로 주거 이전 시 가구당 이주비 최대 150만원 한도 실비 지원(가구당 1회 지급) ㅇ 지원절차 ① 신청 ‧ 접수 : 온라인 신청 / 등기 신청 / 대면 신청 ② 자격심사 : 자격요건 서류심사 ③ 선정・지원 : 대상자 선정, 이주비 지급 ④ 만족도 조사 : 사업의 적정성, 실효성 등",
+      "region": "경기",
+      "category": "주거",
+      "status": "신청가능",
+      "eligibility": "자 신청대상자 ㅇ 지원대상 - 현재 경기도민이며 「자격기준」과 「거주기준」을 모두 충족하는 자 가",
+      "benefit": "지원 내용 ㅇ 지원내용 - 긴급지원주택으로 주거 이전 시 가구당 이주비 최대 150만원 한도 실비 지원(가구당 1회 지급) ㅇ 지원절차 ① 신청 ‧ 접수 : 온라인 신청 / 등기 신청 / 대면 신청 ② 자격심사 : 자격요건 서류심사 ③ 선정・지원 : 대상자 선정, 이주비 지급 ④ 만족도 조사 : 사업의 적정성, 실효성 등",
+      "period": "사업 소진시 까지 온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키",
+      "apply_method": "온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키보드 보안 프로그램 적용 ※ 안전한 경기민원24 서비스 이용을 위해 키보드 보안 프로그램 적용을 권장합니다",
+      "source_name": "경기민원24",
+      "official_url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=853",
+      "page_url": "https://kimjunnem.github.io/policy/auto-dcb65e65520329b3af.html",
+      "checked_at": "2026-09-04"
+    },
     {
       "id": "gov24-88f73778563d4e1fcf",
       "title": "자활기업 지원",
@@ -16,7 +32,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000113",
       "page_url": "https://kimjunnem.github.io/policy/gov24-88f73778563d4e1fcf.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-4cfc82d8036322a82f",
@@ -32,7 +48,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000104",
       "page_url": "https://kimjunnem.github.io/policy/gov24-4cfc82d8036322a82f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-84ee5dc33c6a1cdf6a",
@@ -48,7 +64,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000220",
       "page_url": "https://kimjunnem.github.io/policy/gov24-84ee5dc33c6a1cdf6a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-1c05a624c837ba5ef2",
@@ -64,7 +80,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/140000000185",
       "page_url": "https://kimjunnem.github.io/policy/gov24-1c05a624c837ba5ef2.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-20cb8b5e2062e4340f",
@@ -80,7 +96,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/000000465790",
       "page_url": "https://kimjunnem.github.io/policy/gov24-20cb8b5e2062e4340f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-2883c539d9a3ef38e5",
@@ -96,7 +112,23 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/313000000114",
       "page_url": "https://kimjunnem.github.io/policy/gov24-2883c539d9a3ef38e5.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
+    },
+    {
+      "id": "auto-5c251ad107131fe04b",
+      "title": "접수중 2026년 가정보육 어린이 건강과일 지원사업 > 2026.08.18(화) ~ 2026.09.18 (금) 온라인 접수 오프라인 접수",
+      "summary": "혜택: 지원 내용 ❍ 지원내용 - (지원내용) 가정보육 어린이에게 과일 꾸러미로 공급 - (지원횟수) 연 1회 / 약 40,000원 상당 ❍ 지원방법 - (공급방식) 국내산(도내산 우선) 제철과일 및 과채류를 꾸러미 형태로 가정에 직접 배송 - (",
+      "region": "전남광주통합특별시",
+      "category": "금융",
+      "status": "신청가능",
+      "eligibility": "신청대상자 ❍ 지원대상 :",
+      "benefit": "지원 내용 ❍ 지원내용 - (지원내용) 가정보육 어린이에게 과일 꾸러미로 공급 - (지원횟수) 연 1회 / 약 40,000원 상당 ❍ 지원방법 - (공급방식) 국내산(도내산 우선) 제철과일 및 과채류를 꾸러미 형태로 가정에 직접 배송 - (",
+      "period": "(8. 18. ~ 9. 18.) 중 경기도 내 주민등록을 두고, 어린이집이나 유치원 등 시설을 이용하지 않은 가정보육 어린이 (아래 가. 또는 나. 자격을 갖춘 자) 가. 가정양육수당 수급자 : 24개월이상~86개월미만인 초등학교 미취학 아동 나. 부모급여(현금) 수급자 : 0~23개월",
+      "apply_method": "신청 방법 ❍",
+      "source_name": "경기민원24",
+      "official_url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=953",
+      "page_url": "https://kimjunnem.github.io/policy/auto-5c251ad107131fe04b.html",
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-9dfc6e104cf12e828f",
@@ -112,7 +144,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/392000000162",
       "page_url": "https://kimjunnem.github.io/policy/gov24-9dfc6e104cf12e828f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c7bd212df2ddbddeec",
@@ -128,7 +160,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/155000000015",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c7bd212df2ddbddeec.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d18b59bab1824d46a6",
@@ -144,7 +176,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000146",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d18b59bab1824d46a6.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-e0265778c8efda259b",
@@ -160,7 +192,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/397000000114",
       "page_url": "https://kimjunnem.github.io/policy/gov24-e0265778c8efda259b.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-e89f05a476c1991000",
@@ -176,7 +208,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000103",
       "page_url": "https://kimjunnem.github.io/policy/gov24-e89f05a476c1991000.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-551a3f9396ff82ae78",
@@ -192,7 +224,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/316000000146",
       "page_url": "https://kimjunnem.github.io/policy/gov24-551a3f9396ff82ae78.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-885716d26327314dc7",
@@ -208,7 +240,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/137100000236",
       "page_url": "https://kimjunnem.github.io/policy/gov24-885716d26327314dc7.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-2c7bcc7d71260ba533",
@@ -224,7 +256,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/382000000174",
       "page_url": "https://kimjunnem.github.io/policy/gov24-2c7bcc7d71260ba533.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-8726d66cdd738fd814",
@@ -240,7 +272,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/322000000113",
       "page_url": "https://kimjunnem.github.io/policy/gov24-8726d66cdd738fd814.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3c610ccc467a92384a",
@@ -256,7 +288,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300005035",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3c610ccc467a92384a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d28095fc0c5dc3c297",
@@ -272,7 +304,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000167",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d28095fc0c5dc3c297.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f76fc5178a4a45e414",
@@ -288,7 +320,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/316000000144",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f76fc5178a4a45e414.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-db992c69a6762449e5",
@@ -304,7 +336,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000076",
       "page_url": "https://kimjunnem.github.io/policy/gov24-db992c69a6762449e5.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-dee88cee1e0f31c728",
@@ -320,7 +352,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/313000000149",
       "page_url": "https://kimjunnem.github.io/policy/gov24-dee88cee1e0f31c728.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b3ef98eea394f86d09",
@@ -336,7 +368,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/314000000255",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b3ef98eea394f86d09.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7eb9fb689a636f427a",
@@ -352,7 +384,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/400000000110",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7eb9fb689a636f427a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f8954d911d240f7eae",
@@ -368,7 +400,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000083",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f8954d911d240f7eae.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c711c510a7432bc26a",
@@ -384,7 +416,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/409000000150",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c711c510a7432bc26a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f3034cfa66b9aa392e",
@@ -400,7 +432,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005013",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f3034cfa66b9aa392e.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-619af2ecb1b4f4494d",
@@ -416,7 +448,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/402000000134",
       "page_url": "https://kimjunnem.github.io/policy/gov24-619af2ecb1b4f4494d.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d6cd2ad8ecbbba8879",
@@ -432,7 +464,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005059",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d6cd2ad8ecbbba8879.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-110a1810d44d5dfcbd",
@@ -448,7 +480,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000128",
       "page_url": "https://kimjunnem.github.io/policy/gov24-110a1810d44d5dfcbd.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-948fec67c08a4d3010",
@@ -464,7 +496,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005034",
       "page_url": "https://kimjunnem.github.io/policy/gov24-948fec67c08a4d3010.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-df35aaba5248b0ccb8",
@@ -480,7 +512,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000113",
       "page_url": "https://kimjunnem.github.io/policy/gov24-df35aaba5248b0ccb8.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-be135dcb81315710f1",
@@ -496,7 +528,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/399000000398",
       "page_url": "https://kimjunnem.github.io/policy/gov24-be135dcb81315710f1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7d33077adcbf5c7fd7",
@@ -512,7 +544,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/306000000210",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7d33077adcbf5c7fd7.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7febe94e4b21d0524a",
@@ -528,7 +560,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000109",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7febe94e4b21d0524a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-753613ffd70e97be41",
@@ -544,7 +576,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/405000000629",
       "page_url": "https://kimjunnem.github.io/policy/gov24-753613ffd70e97be41.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-6cfd4a360fbf107feb",
@@ -560,7 +592,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005017",
       "page_url": "https://kimjunnem.github.io/policy/gov24-6cfd4a360fbf107feb.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-eff745a43c98df8e83",
@@ -576,7 +608,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/404000000130",
       "page_url": "https://kimjunnem.github.io/policy/gov24-eff745a43c98df8e83.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f6e32539e0727afd6f",
@@ -592,7 +624,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000088",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f6e32539e0727afd6f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7b471b92496b91fe91",
@@ -608,7 +640,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/313000000127",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7b471b92496b91fe91.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-acdcf49b9e0a7157bf",
@@ -624,7 +656,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005023",
       "page_url": "https://kimjunnem.github.io/policy/gov24-acdcf49b9e0a7157bf.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-81180095714d0e02bf",
@@ -640,7 +672,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/361000000541",
       "page_url": "https://kimjunnem.github.io/policy/gov24-81180095714d0e02bf.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f09a7121c921f7d8cc",
@@ -656,7 +688,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000037",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f09a7121c921f7d8cc.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b130579351799d41a1",
@@ -672,7 +704,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000162",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b130579351799d41a1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-a390fd90ddd0095533",
@@ -688,7 +720,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/336000000096",
       "page_url": "https://kimjunnem.github.io/policy/gov24-a390fd90ddd0095533.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c8d0a649568d60f687",
@@ -704,7 +736,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/362000000333",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c8d0a649568d60f687.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-19fd633638c04003a9",
@@ -720,7 +752,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000140",
       "page_url": "https://kimjunnem.github.io/policy/gov24-19fd633638c04003a9.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3631c1024da25d760d",
@@ -736,7 +768,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000110",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3631c1024da25d760d.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-efd1598f8d26d3083f",
@@ -752,7 +784,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/303000000110",
       "page_url": "https://kimjunnem.github.io/policy/gov24-efd1598f8d26d3083f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-ae71c489160c619259",
@@ -768,7 +800,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000138",
       "page_url": "https://kimjunnem.github.io/policy/gov24-ae71c489160c619259.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c65b579ac6e8179a2f",
@@ -784,7 +816,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/359000000108",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c65b579ac6e8179a2f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-e16f4cfae4dff34fb4",
@@ -800,7 +832,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000151",
       "page_url": "https://kimjunnem.github.io/policy/gov24-e16f4cfae4dff34fb4.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-73778875f5e85b248a",
@@ -816,7 +848,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/378000000135",
       "page_url": "https://kimjunnem.github.io/policy/gov24-73778875f5e85b248a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-2f9f5b008d6473ad2b",
@@ -832,7 +864,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/315000000114",
       "page_url": "https://kimjunnem.github.io/policy/gov24-2f9f5b008d6473ad2b.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-9e0d14eeed9025d462",
@@ -848,7 +880,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/320000000295",
       "page_url": "https://kimjunnem.github.io/policy/gov24-9e0d14eeed9025d462.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-96bfaf91508541bf09",
@@ -864,7 +896,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/315000000288",
       "page_url": "https://kimjunnem.github.io/policy/gov24-96bfaf91508541bf09.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-faa88cdadcaf676e88",
@@ -880,7 +912,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/414000000456",
       "page_url": "https://kimjunnem.github.io/policy/gov24-faa88cdadcaf676e88.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-026dfb26322ddc3fc8",
@@ -896,7 +928,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/316000000145",
       "page_url": "https://kimjunnem.github.io/policy/gov24-026dfb26322ddc3fc8.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b311663fedbedcc4f2",
@@ -912,7 +944,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/134200000003",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b311663fedbedcc4f2.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3256944cfdb40fe0e7",
@@ -928,7 +960,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000103",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3256944cfdb40fe0e7.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-022518b5abedab2238",
@@ -944,7 +976,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/183000000002",
       "page_url": "https://kimjunnem.github.io/policy/gov24-022518b5abedab2238.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-aed61751ccfbf24df3",
@@ -960,7 +992,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/172100000012",
       "page_url": "https://kimjunnem.github.io/policy/gov24-aed61751ccfbf24df3.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-cc6bb2411867bef58a",
@@ -976,7 +1008,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000030",
       "page_url": "https://kimjunnem.github.io/policy/gov24-cc6bb2411867bef58a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-523f31837fec83f64f",
@@ -992,7 +1024,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000154",
       "page_url": "https://kimjunnem.github.io/policy/gov24-523f31837fec83f64f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3275146056949f8e2e",
@@ -1008,7 +1040,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000130",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3275146056949f8e2e.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-ff420211aa5ec0d675",
@@ -1024,7 +1056,39 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/391000000156",
       "page_url": "https://kimjunnem.github.io/policy/gov24-ff420211aa5ec0d675.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
+    },
+    {
+      "id": "auto-6465e7dc07c716c52f",
+      "title": "접수중 경기도 광역형 비자 시범사업 > 2025.09.15(월) ~ 2026.12.31 (목) 온라인 접수",
+      "summary": "혜택: 지원 내용 ㅇ 사업기간 : 2025. 9. 15. ~ 2026. 12. 31. ㅇ 배정인원 : 총 630명 ※ 시군별, 직종별, 국적별 별도 인원제한 없음 ㅇ 주요내용 : 적용대상 직종에 대해 자격요건 충족 시 경기도지사 추천서 발급",
+      "region": "경기",
+      "category": "일자리",
+      "status": "신청가능",
+      "eligibility": "자 신청대상자 □ 전문인력(E-7-1) 11개 직종 ㅇ (학위) 도입직종과 연관성이 있는 분야의 석사 이상 학위 소지 ㅇ (학위+경력) 도입직종과 연관성이 있는 학사학위 소지 + 1년 이상의 해당분야 경력 ㅇ (경력) 도입직종과 연관성이 있는 분야에 5년 이상의 근무경력 ㅇ (국내 전문대학 졸업(예정)자) 전공과목과 관련있는 도입허용 직종에 취업하는 경우 1년 이상의 경력요건을 면제하고, 고",
+      "benefit": "지원 내용 ㅇ 사업기간 : 2025. 9. 15. ~ 2026. 12. 31. ㅇ 배정인원 : 총 630명 ※ 시군별, 직종별, 국적별 별도 인원제한 없음 ㅇ 주요내용 : 적용대상 직종에 대해 자격요건 충족 시 경기도지사 추천서 발급",
+      "period": "2025. 9. 15. ~ 2026. 12. 31. ※ 배정인원 소진 시 신청불가 ㅇ",
+      "apply_method": "신청 방법 ㅇ",
+      "source_name": "경기민원24",
+      "official_url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=929",
+      "page_url": "https://kimjunnem.github.io/policy/auto-6465e7dc07c716c52f.html",
+      "checked_at": "2026-09-04"
+    },
+    {
+      "id": "auto-4b62362ffd2e968225",
+      "title": "접수중 2026년 경기 고립은둔청년 지원 사업 > 2026.04.20(월) ~ 모집마감시 온라인 접수",
+      "summary": "혜택: 지원 내용 ㅇ 모집인원 : 300명 ㅇ 지원내용 : 맞춤형 프로그램 및 1:1 전문상담 등 온/오프라인 진행 **초기상담은 온라인이나 전화로도 가능하며, 일부 프로그램도 온라인 참여 가능합니다. ✔세부사업안내: 경기청년포털(https://youth.gg.go.kr) - ‘고립은둔 청년지원’ 공지사항 참고",
+      "region": "경기",
+      "category": "금융",
+      "status": "신청가능",
+      "eligibility": "신청대상자 - 아래의 기준에 부합하는 자 ✔ 경기도에 거주 중인 19~39세 청년 ✔ 사람들과 어울리기 어렵거나, 집 밖으로 나가기 힘든 분 ✔ 사회 활동이 줄어 대면 교류가 거의 없고 도움을 청할 수 있는 인적 자원이 없는 상태",
+      "benefit": "지원 내용 ㅇ 모집인원 : 300명 ㅇ 지원내용 : 맞춤형 프로그램 및 1:1 전문상담 등 온/오프라인 진행 **초기상담은 온라인이나 전화로도 가능하며, 일부 프로그램도 온라인 참여 가능합니다. ✔세부사업안내: 경기청년포털(https://youth.gg.go.kr) - ‘고립은둔 청년지원’ 공지사항 참고",
+      "period": "2026. 4. 20.(월) 09:00 ~ 모집마감시까지 ※ 신청 현황에 따라 조기 마감 될 수 있습니다. ㅇ",
+      "apply_method": "신청 방법 ㅇ",
+      "source_name": "경기민원24",
+      "official_url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=945",
+      "page_url": "https://kimjunnem.github.io/policy/auto-4b62362ffd2e968225.html",
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-2cd6faf831f74bc667",
@@ -1040,7 +1104,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/397000000146",
       "page_url": "https://kimjunnem.github.io/policy/gov24-2cd6faf831f74bc667.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-53da08b72c862b0afb",
@@ -1056,7 +1120,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/301000000132",
       "page_url": "https://kimjunnem.github.io/policy/gov24-53da08b72c862b0afb.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f58886bf4781ece162",
@@ -1072,7 +1136,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/320000000111",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f58886bf4781ece162.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-5cc2b4dfa15fe87561",
@@ -1088,7 +1152,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/320000000106",
       "page_url": "https://kimjunnem.github.io/policy/gov24-5cc2b4dfa15fe87561.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-4fab0680b6fa2bb561",
@@ -1104,7 +1168,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/402000000109",
       "page_url": "https://kimjunnem.github.io/policy/gov24-4fab0680b6fa2bb561.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b21440cf17e9b1dc29",
@@ -1120,7 +1184,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000180",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b21440cf17e9b1dc29.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-e522a6e37963d763f6",
@@ -1136,7 +1200,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005031",
       "page_url": "https://kimjunnem.github.io/policy/gov24-e522a6e37963d763f6.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-1ffc6a30ec52fef334",
@@ -1152,7 +1216,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005008",
       "page_url": "https://kimjunnem.github.io/policy/gov24-1ffc6a30ec52fef334.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d8e977d1c88f07af6b",
@@ -1168,7 +1232,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005039",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d8e977d1c88f07af6b.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-07e94ed0d26610c2e3",
@@ -1184,7 +1248,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000059",
       "page_url": "https://kimjunnem.github.io/policy/gov24-07e94ed0d26610c2e3.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-fe5842087d0530be39",
@@ -1200,7 +1264,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000149",
       "page_url": "https://kimjunnem.github.io/policy/gov24-fe5842087d0530be39.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-585a73e7bf983a0781",
@@ -1216,7 +1280,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000150",
       "page_url": "https://kimjunnem.github.io/policy/gov24-585a73e7bf983a0781.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-726943431a14d2af5e",
@@ -1232,7 +1296,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/378000000143",
       "page_url": "https://kimjunnem.github.io/policy/gov24-726943431a14d2af5e.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-8b2a05e9afe744b190",
@@ -1248,7 +1312,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/148000000001",
       "page_url": "https://kimjunnem.github.io/policy/gov24-8b2a05e9afe744b190.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-257dd3965987313dc1",
@@ -1264,7 +1328,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005027",
       "page_url": "https://kimjunnem.github.io/policy/gov24-257dd3965987313dc1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-de1ca82da02a78b68a",
@@ -1280,7 +1344,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000165",
       "page_url": "https://kimjunnem.github.io/policy/gov24-de1ca82da02a78b68a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-aca363b5166a78669a",
@@ -1296,7 +1360,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/402000000114",
       "page_url": "https://kimjunnem.github.io/policy/gov24-aca363b5166a78669a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-072152bcb515a342c9",
@@ -1312,7 +1376,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/324000000105",
       "page_url": "https://kimjunnem.github.io/policy/gov24-072152bcb515a342c9.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d448ffa23f7a06e0da",
@@ -1328,7 +1392,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/397000000113",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d448ffa23f7a06e0da.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-35e469508071d29017",
@@ -1344,7 +1408,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005007",
       "page_url": "https://kimjunnem.github.io/policy/gov24-35e469508071d29017.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7031ade9f8bdfd150a",
@@ -1360,7 +1424,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000026",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7031ade9f8bdfd150a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-704ca6764f36aee57a",
@@ -1376,7 +1440,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000110",
       "page_url": "https://kimjunnem.github.io/policy/gov24-704ca6764f36aee57a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-6a4cf90bf2823b04fa",
@@ -1392,7 +1456,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/183000000014",
       "page_url": "https://kimjunnem.github.io/policy/gov24-6a4cf90bf2823b04fa.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c1d1a22f8c2b060959",
@@ -1408,7 +1472,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/398000000301",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c1d1a22f8c2b060959.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-27eac4ae31a5c122eb",
@@ -1424,7 +1488,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000130",
       "page_url": "https://kimjunnem.github.io/policy/gov24-27eac4ae31a5c122eb.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d38544510ca0663549",
@@ -1440,7 +1504,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/134200005012",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d38544510ca0663549.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-26a2786b0dd418454c",
@@ -1456,7 +1520,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/138300000063",
       "page_url": "https://kimjunnem.github.io/policy/gov24-26a2786b0dd418454c.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f85961ed54fc8ad760",
@@ -1472,7 +1536,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/179038700004",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f85961ed54fc8ad760.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-67b77c48dc04403efd",
@@ -1488,7 +1552,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/397000000131",
       "page_url": "https://kimjunnem.github.io/policy/gov24-67b77c48dc04403efd.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-88cd05005d24efe3f7",
@@ -1504,7 +1568,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000059",
       "page_url": "https://kimjunnem.github.io/policy/gov24-88cd05005d24efe3f7.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-15a78d971025c077c2",
@@ -1520,7 +1584,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/406000000114",
       "page_url": "https://kimjunnem.github.io/policy/gov24-15a78d971025c077c2.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-9ca8f4499dcde51ec0",
@@ -1536,7 +1600,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/143000000004",
       "page_url": "https://kimjunnem.github.io/policy/gov24-9ca8f4499dcde51ec0.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-aa7348c0cbcee68e84",
@@ -1552,7 +1616,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/315000000104",
       "page_url": "https://kimjunnem.github.io/policy/gov24-aa7348c0cbcee68e84.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c813a9d15e61da8312",
@@ -1568,7 +1632,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000131",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c813a9d15e61da8312.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b477de37f7840d8cfa",
@@ -1584,7 +1648,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000139",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b477de37f7840d8cfa.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-5fc6878793247c1fa1",
@@ -1600,7 +1664,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/300000000165",
       "page_url": "https://kimjunnem.github.io/policy/gov24-5fc6878793247c1fa1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-9c47039526a6dcf9f4",
@@ -1616,7 +1680,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000101",
       "page_url": "https://kimjunnem.github.io/policy/gov24-9c47039526a6dcf9f4.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-ec9b751ec645feb2b7",
@@ -1632,7 +1696,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/405000000640",
       "page_url": "https://kimjunnem.github.io/policy/gov24-ec9b751ec645feb2b7.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3b5b9b3382e460727d",
@@ -1648,7 +1712,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005029",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3b5b9b3382e460727d.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f05ccbaef05b7f8828",
@@ -1664,7 +1728,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000104",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f05ccbaef05b7f8828.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-bda8459c15fbca2b65",
@@ -1680,7 +1744,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000140",
       "page_url": "https://kimjunnem.github.io/policy/gov24-bda8459c15fbca2b65.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-4c35ae5af9049aa004",
@@ -1696,7 +1760,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/414000000449",
       "page_url": "https://kimjunnem.github.io/policy/gov24-4c35ae5af9049aa004.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-1b639fa484aec37f2a",
@@ -1712,7 +1776,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000148",
       "page_url": "https://kimjunnem.github.io/policy/gov24-1b639fa484aec37f2a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-de40f6b64330b01806",
@@ -1728,7 +1792,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/314000000109",
       "page_url": "https://kimjunnem.github.io/policy/gov24-de40f6b64330b01806.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7244cb94ecc25828e1",
@@ -1744,7 +1808,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/390000000129",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7244cb94ecc25828e1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c16edcf7e7f3a567aa",
@@ -1760,7 +1824,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/322000000125",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c16edcf7e7f3a567aa.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-56f4130cf8cf09f6ae",
@@ -1776,7 +1840,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/311000000134",
       "page_url": "https://kimjunnem.github.io/policy/gov24-56f4130cf8cf09f6ae.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-de7ebd93da5f63c8ac",
@@ -1792,7 +1856,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000120",
       "page_url": "https://kimjunnem.github.io/policy/gov24-de7ebd93da5f63c8ac.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-1ff60dfa0a88a21fc1",
@@ -1808,7 +1872,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/134200005031",
       "page_url": "https://kimjunnem.github.io/policy/gov24-1ff60dfa0a88a21fc1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-4548e8fc854af18848",
@@ -1824,7 +1888,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000134",
       "page_url": "https://kimjunnem.github.io/policy/gov24-4548e8fc854af18848.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-6e6993c3e836ade74e",
@@ -1840,7 +1904,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/397000000141",
       "page_url": "https://kimjunnem.github.io/policy/gov24-6e6993c3e836ade74e.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c00ea17ab0f5c54bb7",
@@ -1856,7 +1920,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000115",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c00ea17ab0f5c54bb7.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-792d02b6a5dbdde465",
@@ -1872,7 +1936,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/183000000017",
       "page_url": "https://kimjunnem.github.io/policy/gov24-792d02b6a5dbdde465.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-45bb1c031372f37dd7",
@@ -1888,7 +1952,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300005034",
       "page_url": "https://kimjunnem.github.io/policy/gov24-45bb1c031372f37dd7.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-53a774b42cece3182d",
@@ -1904,7 +1968,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005001",
       "page_url": "https://kimjunnem.github.io/policy/gov24-53a774b42cece3182d.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b885382bf4e4204f77",
@@ -1920,7 +1984,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005003",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b885382bf4e4204f77.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7a51e52acf256068c1",
@@ -1936,7 +2000,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000145",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7a51e52acf256068c1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-378829529fd0c4ef4f",
@@ -1952,7 +2016,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/127000000023",
       "page_url": "https://kimjunnem.github.io/policy/gov24-378829529fd0c4ef4f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-65d3f74933f56247c0",
@@ -1968,7 +2032,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/402000000140",
       "page_url": "https://kimjunnem.github.io/policy/gov24-65d3f74933f56247c0.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-5a61b13973317b7193",
@@ -1984,7 +2048,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/323000000103",
       "page_url": "https://kimjunnem.github.io/policy/gov24-5a61b13973317b7193.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-1d2a43febc67e072ab",
@@ -2000,7 +2064,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/174100000088",
       "page_url": "https://kimjunnem.github.io/policy/gov24-1d2a43febc67e072ab.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-74a43c5fefcbb2c872",
@@ -2016,7 +2080,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/390000000127",
       "page_url": "https://kimjunnem.github.io/policy/gov24-74a43c5fefcbb2c872.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c14ed7af5db75e1b06",
@@ -2032,7 +2096,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/183000000013",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c14ed7af5db75e1b06.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-46e2405601ea0de1bc",
@@ -2048,7 +2112,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/183000000012",
       "page_url": "https://kimjunnem.github.io/policy/gov24-46e2405601ea0de1bc.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-db9aed68413fa2fcc5",
@@ -2064,7 +2128,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/322000000124",
       "page_url": "https://kimjunnem.github.io/policy/gov24-db9aed68413fa2fcc5.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-146212b596f641a9bb",
@@ -2080,7 +2144,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/322000000107",
       "page_url": "https://kimjunnem.github.io/policy/gov24-146212b596f641a9bb.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-26b683bd90bc2832df",
@@ -2096,7 +2160,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/183000000011",
       "page_url": "https://kimjunnem.github.io/policy/gov24-26b683bd90bc2832df.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7efd5d2232d25a1643",
@@ -2112,7 +2176,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/183000000010",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7efd5d2232d25a1643.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-1d1d14f2e6871a4b9e",
@@ -2128,7 +2192,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/391000000550",
       "page_url": "https://kimjunnem.github.io/policy/gov24-1d1d14f2e6871a4b9e.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-cda2c18876c6e8c5d1",
@@ -2144,7 +2208,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000074",
       "page_url": "https://kimjunnem.github.io/policy/gov24-cda2c18876c6e8c5d1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-0b4e4d4787b1243ea9",
@@ -2160,7 +2224,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000133",
       "page_url": "https://kimjunnem.github.io/policy/gov24-0b4e4d4787b1243ea9.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-ffdc6cb885c3c470b9",
@@ -2176,7 +2240,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/314000000113",
       "page_url": "https://kimjunnem.github.io/policy/gov24-ffdc6cb885c3c470b9.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-86d282cefa899a620b",
@@ -2192,7 +2256,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000522",
       "page_url": "https://kimjunnem.github.io/policy/gov24-86d282cefa899a620b.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-69a498703e75170c4a",
@@ -2208,7 +2272,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/405000000686",
       "page_url": "https://kimjunnem.github.io/policy/gov24-69a498703e75170c4a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-4a177e7e2851a449e6",
@@ -2224,7 +2288,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000069",
       "page_url": "https://kimjunnem.github.io/policy/gov24-4a177e7e2851a449e6.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-27446a17a45ef98abe",
@@ -2240,7 +2304,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000066",
       "page_url": "https://kimjunnem.github.io/policy/gov24-27446a17a45ef98abe.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-88d053a40aa03913c4",
@@ -2256,7 +2320,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000190",
       "page_url": "https://kimjunnem.github.io/policy/gov24-88d053a40aa03913c4.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d765aeabbdddc89cf1",
@@ -2272,7 +2336,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000072",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d765aeabbdddc89cf1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-fde158caa9abf65eef",
@@ -2288,7 +2352,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000557",
       "page_url": "https://kimjunnem.github.io/policy/gov24-fde158caa9abf65eef.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-9e5f16e2b0d8b80e82",
@@ -2304,7 +2368,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000556",
       "page_url": "https://kimjunnem.github.io/policy/gov24-9e5f16e2b0d8b80e82.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-150175c84b5d58b9e0",
@@ -2320,7 +2384,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000073",
       "page_url": "https://kimjunnem.github.io/policy/gov24-150175c84b5d58b9e0.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-5e1ca050a5a973c6c5",
@@ -2336,7 +2400,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000191",
       "page_url": "https://kimjunnem.github.io/policy/gov24-5e1ca050a5a973c6c5.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-daa66396aaff1f5118",
@@ -2352,7 +2416,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000190",
       "page_url": "https://kimjunnem.github.io/policy/gov24-daa66396aaff1f5118.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c3df7af442523aefa5",
@@ -2368,7 +2432,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000146",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c3df7af442523aefa5.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7d974f8263bf0fdad2",
@@ -2384,7 +2448,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000580",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7d974f8263bf0fdad2.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-9977e96be6550f29fe",
@@ -2400,7 +2464,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/386000000135",
       "page_url": "https://kimjunnem.github.io/policy/gov24-9977e96be6550f29fe.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-64e8072f4fe83e4730",
@@ -2416,7 +2480,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/409000000106",
       "page_url": "https://kimjunnem.github.io/policy/gov24-64e8072f4fe83e4730.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-814666e616640f2ace",
@@ -2432,7 +2496,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/392000000169",
       "page_url": "https://kimjunnem.github.io/policy/gov24-814666e616640f2ace.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3a243991b68c6fe5e3",
@@ -2448,7 +2512,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/390000000436",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3a243991b68c6fe5e3.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-130e24c45a28a93f8c",
@@ -2464,7 +2528,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/320000000116",
       "page_url": "https://kimjunnem.github.io/policy/gov24-130e24c45a28a93f8c.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3bf0e48b90276025c8",
@@ -2480,7 +2544,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/320000000119",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3bf0e48b90276025c8.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-df196ff0212af178ee",
@@ -2496,7 +2560,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000075",
       "page_url": "https://kimjunnem.github.io/policy/gov24-df196ff0212af178ee.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d9083f480d025154ff",
@@ -2512,7 +2576,23 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/315000000269",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d9083f480d025154ff.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
+    },
+    {
+      "id": "auto-35b1288a4ce98e8f30",
+      "title": "접수중 전세피해 가구 긴급생계비 지원 > 2026.01.02(금) ~ 사업 소진시 까지 온라인 접수 오프라인 접수",
+      "summary": "혜택: 지원 내용 ○",
+      "region": "전남광주통합특별시",
+      "category": "주거",
+      "status": "신청가능",
+      "eligibility": "신청대상자 ○ (지역조건) 전세피해주택 소재지가 경기도 (ex) 경기도 소재 주택에서 피해를 입은 임차인이 타 시ㆍ도로 전출 ☞ 지원 ○ 타 시ㆍ도에서 전세피해를 입고 경기도로 전입 ☞ 지원 X ○ (자격조건) 전세피해자(외국인 포함) ※ 전세피해자 : 전세사기피해자특별법에 따라 전세사기피해자등 결정통보를 받은자 또는 주택도시보증공사로부터 전세피해확인서를 발급 받은 자 ○ 긴급생계비 및 긴급",
+      "benefit": "지원 내용 ○",
+      "period": "사업 소진시 까지 온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키",
+      "apply_method": "온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키보드 보안 프로그램 적용 ※ 안전한 경기민원24 서비스 이용을 위해 키보드 보안 프로그램 적용을 권장합니다",
+      "source_name": "경기민원24",
+      "official_url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=867",
+      "page_url": "https://kimjunnem.github.io/policy/auto-35b1288a4ce98e8f30.html",
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-30c9abad014fd51946",
@@ -2528,7 +2608,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/134200005044",
       "page_url": "https://kimjunnem.github.io/policy/gov24-30c9abad014fd51946.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-75c339630fbbb94f32",
@@ -2544,7 +2624,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005033",
       "page_url": "https://kimjunnem.github.io/policy/gov24-75c339630fbbb94f32.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-642aa82ddedc604e51",
@@ -2560,7 +2640,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/363000000235",
       "page_url": "https://kimjunnem.github.io/policy/gov24-642aa82ddedc604e51.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7fd30853c0b36f3a45",
@@ -2576,7 +2656,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/315000000268",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7fd30853c0b36f3a45.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -2592,7 +2672,7 @@
       "source_name": "광주청년통합플랫폼",
       "official_url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "page_url": "https://kimjunnem.github.io/policy/auto-e23e0a2f11277425bb.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-e859285660d08ffcca",
@@ -2608,7 +2688,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/315000000270",
       "page_url": "https://kimjunnem.github.io/policy/gov24-e859285660d08ffcca.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-ab157574229e5f29a0",
@@ -2624,7 +2704,39 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/398000000298",
       "page_url": "https://kimjunnem.github.io/policy/gov24-ab157574229e5f29a0.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
+    },
+    {
+      "id": "auto-3675b23019e6e87ed9",
+      "title": "접수중 2026년 대안교육기관 등 학생 교복지원 > 2026.03.09(월) ~ 2026.12.11 (금) 온라인 접수 오프라인 접수",
+      "summary": "경기민원행정서비스 상세 :: 2026년 대안교육기관 등 학생 교복지원 바로가기 메뉴 본문 바로가기 주메뉴 바로가기 전체메뉴 보기 경기민원24 경기민원24 소개 경기민원24 소개 경기민원24 신청방법 경기민원 신청 민원행정 서비스 이용안내 공지사항 자주하는 질문 자료실 나의 서비스 민원신청 내역 관심서비스 나의 정보 수정 검색 팝업 열기 로그인 화면으로 이동 회원가입 화면으로 이동 SNS 공유 팝업 열기 카카오톡으로 공유 페이스북으로 공유 트위터로 공유 검색 자동",
+      "region": "전남광주통합특별시",
+      "category": "금융",
+      "status": "신청가능",
+      "eligibility": "신청대상자 ㅇ 지원대상 - 입(전)학일 기준 도 내에 주민등록을 두고 있는 학생 가. 중·고등학교 1학년 교육과정에 준하는 대안교육기관 입학생이거나 나. 다른 시·도 소재의 중·고등학교 및 이에 준하는 과정에 입학한 1학년 학생",
+      "benefit": "지원 내용 ㅇ 지원방법 - (신청인) 신청서류 제출 → (시·군) 서류 확인,",
+      "period": "- 3월 9일 ~ 12월 11일 ㅇ",
+      "apply_method": "온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키보드 보안 프로그램 적용 ※ 안전한 경기민원24 서비스 이용을 위해 키보드 보안 프로그램 적용을 권장합니다",
+      "source_name": "경기민원24",
+      "official_url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=939",
+      "page_url": "https://kimjunnem.github.io/policy/auto-3675b23019e6e87ed9.html",
+      "checked_at": "2026-09-04"
+    },
+    {
+      "id": "auto-da76cf72bf4d183821",
+      "title": "접수중 경기청년 기회사다리금융 > 2025.04.21(월) ~ 한도 소진시 까지 온라인 접수",
+      "summary": "혜택: 산후 산후조리비 지원사업 2021년도 산후조리비 지원사업 검색 추천 검색어 #기회소득 #대출이자 #산후조리비 #건강과일 #생리용품 닫기 경기민원24 소개 선택됨 경기민원24 소개 경기민원24 신청방법 선택됨 경기민원 신청 선택됨 민원행정 서비스 이용안내 공지사항 자주하는 질문 자료실 나의 서비스 민원신청 내역 관심서비스 나의 정보 수정 자동 로그아웃 5분 00초 후 자동 로그아웃 예정입니다.",
+      "region": "경기",
+      "category": "주거",
+      "status": "신청가능",
+      "eligibility": "신청대상자 ㅇ 아래 ①, ② 요건을 모두 충족하는 경우 신청 가능 ① 신청일 현재 경기도에 주민등록을 둔 1년 이상 계속 거주 25~39세 청년 (재외국민, 외국인, 해외체류 제외) ② 연체, 부도 등 해당사항이 없는 사람 ※ 세부사항 하단 붙임 공고문 참조 (다만, 채무조정 확정 후 12개월(12회차) 이상 성실상환 중인 사람은 신청 가능) ※ 대출 심사일 기준 기 대출액 5천만원 이상인",
+      "benefit": "산후 산후조리비 지원사업 2021년도 산후조리비 지원사업 검색 추천 검색어 #기회소득 #대출이자 #산후조리비 #건강과일 #생리용품 닫기 경기민원24 소개 선택됨 경기민원24 소개 경기민원24 신청방법 선택됨 경기민원 신청 선택됨 민원행정 서비스 이용안내 공지사항 자주하는 질문 자료실 나의 서비스 민원신청 내역 관심서비스 나의 정보 수정 자동 로그아웃 5분 00초 후 자동 로그아웃 예정입니다.",
+      "period": "공식 공고 확인",
+      "apply_method": "안내 ‧ [1단계-경기민원24] 경기도 콜센터 ☎ 031-120 ‧ [2단계-하나은행] 하나은행 대표전화 ☎ 1599-2121 - 정책 내용 : 경기도 경제실 지역금융과 ☎ 031-8008-6128 더보기",
+      "source_name": "경기민원24",
+      "official_url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=854",
+      "page_url": "https://kimjunnem.github.io/policy/auto-da76cf72bf4d183821.html",
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c52a5075b5f9cf9558",
@@ -2640,7 +2752,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000518",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c52a5075b5f9cf9558.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-ef9779ee7049f276fb",
@@ -2656,7 +2768,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/313000000131",
       "page_url": "https://kimjunnem.github.io/policy/gov24-ef9779ee7049f276fb.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3d4a025e69b0de1f2f",
@@ -2672,7 +2784,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000070",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3d4a025e69b0de1f2f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-e107f6d898953f7db9",
@@ -2688,7 +2800,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/315000000271",
       "page_url": "https://kimjunnem.github.io/policy/gov24-e107f6d898953f7db9.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-2355b171b440e361c5",
@@ -2704,7 +2816,23 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005035",
       "page_url": "https://kimjunnem.github.io/policy/gov24-2355b171b440e361c5.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
+    },
+    {
+      "id": "auto-3f0e320ccf81d88703",
+      "title": "접수중 2026년 경기도 맘튼튼 축산물 꾸러미 지원 > 2026.03.09(월) ~ 2027.02.28 (일) 온라인 접수 오프라인 접수",
+      "summary": "경기민원행정서비스 상세 :: 2026년 경기도 맘튼튼 축산물 꾸러미 지원 바로가기 메뉴 본문 바로가기 주메뉴 바로가기 전체메뉴 보기 경기민원24 경기민원24 소개 경기민원24 소개 경기민원24 신청방법 경기민원 신청 민원행정 서비스 이용안내 공지사항 자주하는 질문 자료실 나의 서비스 민원신청 내역 관심서비스 나의 정보 수정 검색 팝업 열기 로그인 화면으로 이동 회원가입 화면으로 이동 SNS 공유 팝업 열기 카카오톡으로 공유 페이스북으로 공유 트위터로 공유 검색",
+      "region": "전남광주통합특별시",
+      "category": "금융",
+      "status": "신청가능",
+      "eligibility": "신청대상자 ㅇ 출산 후 경기도 내 출생아(출생일 : 2026.1.1.~12.31.)의 출생신고를 완료한 산모 ※ 2026년도에 태어난 출생아의 첫 출생 신고지는 경기도이며, 해당 시군은 본 사업에 참여하는 시군이어야 함.",
+      "benefit": "지원 내용 ㅇ 접수기간 : 2026.03.09. ~ 2027.02.28. *시군별 예산소진 시 조기마감될 수 있음 ㅇ 지원내용 : 산모 1인당 10만원 이내 국내산 축산물꾸러미 지원 ※ 꾸러미 신청 시 시군별 구성품목 사진으로 확인 가능",
+      "period": "2026.03.09. ~ 2027.02.28. *시군별 예산소진 시 조기마감될 수 있음 ㅇ",
+      "apply_method": "온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키보드 보안 프로그램 적용 ※ 안전한 경기민원24 서비스 이용을 위해 키보드 보안 프로그램 적용을 권장합니다",
+      "source_name": "경기민원24",
+      "official_url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=936",
+      "page_url": "https://kimjunnem.github.io/policy/auto-3f0e320ccf81d88703.html",
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d6ed0436f5ec4db48a",
@@ -2720,7 +2848,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/312000000315",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d6ed0436f5ec4db48a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-5992ca9a45ce5b246d",
@@ -2736,7 +2864,23 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/414000000124",
       "page_url": "https://kimjunnem.github.io/policy/gov24-5992ca9a45ce5b246d.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
+    },
+    {
+      "id": "auto-95eb6c845e62cd26cf",
+      "title": "접수중 2026년 경기도 난자동결 시술비 지원사업 > 2025.04.01(화) ~ 온라인 접수",
+      "summary": "혜택: 지원 내용 ○ 난자채취를 위한 사전 검사비(혈액검사, 초음파검사) 및 시술비 본인부담금의 50%, 생애 1회, 최대 200만원 (지원제외) 보관료, 입원료 등 난자채취와 상관없는 검사비 (지원불가) 난자동결 완료자만 지원, 난자동결에 이르지 못한 경우 불가 ※ 진료비세부내역서 상 동결 시술비와 보관료 금액이 별도 구분되지 않고, 합산되어 표시되는 경우 해당 내역 지원 제외(신청인은 반드시 시",
+      "region": "전남광주통합특별시",
+      "category": "금융",
+      "status": "신청가능",
+      "eligibility": "신청대상자 1. (거주요건) 신청일 기준 주민등록상 경기도에 거주하고 있는 자 ※ 외국 국적 등 주민등록번호가 없는 여성은 신청 불가(외국인 등록번호 불가) 2. (대상연령) 만 20 ~ 49세 3. (난소기능) AMH 검사수치 1.5ng/ml 이하 여성 4. (소득기준) 기준중위소득 180% 이하",
+      "benefit": "지원 내용 ○ 난자채취를 위한 사전 검사비(혈액검사, 초음파검사) 및 시술비 본인부담금의 50%, 생애 1회, 최대 200만원 (지원제외) 보관료, 입원료 등 난자채취와 상관없는 검사비 (지원불가) 난자동결 완료자만 지원, 난자동결에 이르지 못한 경우 불가 ※ 진료비세부내역서 상 동결 시술비와 보관료 금액이 별도 구분되지 않고, 합산되어 표시되는 경우 해당 내역 지원 제외(신청인은 반드시 시",
+      "period": "공식 공고 확인",
+      "apply_method": "온라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키보드 보안 프로그램 적용 ※ 안전한 경기민원24 서비스 이용을 위해 키보드 보안 프로그램 적용을 권장합니다",
+      "source_name": "경기민원24",
+      "official_url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=916",
+      "page_url": "https://kimjunnem.github.io/policy/auto-95eb6c845e62cd26cf.html",
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-95b93c0ab441d2b2d7",
@@ -2752,7 +2896,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000009",
       "page_url": "https://kimjunnem.github.io/policy/gov24-95b93c0ab441d2b2d7.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-8dbc89a3e48dcc04de",
@@ -2768,7 +2912,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000071",
       "page_url": "https://kimjunnem.github.io/policy/gov24-8dbc89a3e48dcc04de.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -2784,7 +2928,7 @@
       "source_name": "광주청년통합플랫폼",
       "official_url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "page_url": "https://kimjunnem.github.io/policy/auto-e23e0a2f11277425bb.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-8c0d2b4c13a58d0f73",
@@ -2800,7 +2944,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/300000000131",
       "page_url": "https://kimjunnem.github.io/policy/gov24-8c0d2b4c13a58d0f73.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f2ca5a83c5e50fd2dc",
@@ -2816,7 +2960,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/317000000369",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f2ca5a83c5e50fd2dc.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f615910cf9f130504e",
@@ -2832,7 +2976,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/317000000368",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f615910cf9f130504e.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "real-jngj-cert",
@@ -2848,7 +2992,7 @@
       "source_name": "전남·광주 통합 일자리정보망",
       "official_url": "https://job.jeonnam.go.kr/www/58?beforeUrl=%2Fwww%2Fbizmap%2FlistView&bizMapNo=623&clIds=&condition=all&division2=B&keyword=%EC%9E%90%EA%B2%A9%EC%A6%9D&order=insertDtDesc&pageIndex=1&pageUnit=10&status=&svc=detail&url=%2Fwww%2Fbizmap%2FdetailView&workType=biz&workprojectId=623",
       "page_url": "https://kimjunnem.github.io/policy/real-jngj-cert.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "auto-740808422c6e6baded",
@@ -2864,7 +3008,7 @@
       "source_name": "내 손안에 서울",
       "official_url": "https://mediahub.seoul.go.kr/archives/2019235",
       "page_url": "https://kimjunnem.github.io/policy/auto-740808422c6e6baded.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "auto-9f4aec7a33b0bdf410",
@@ -2880,7 +3024,7 @@
       "source_name": "내 손안에 서울",
       "official_url": "https://mediahub.seoul.go.kr/archives/2018955",
       "page_url": "https://kimjunnem.github.io/policy/auto-9f4aec7a33b0bdf410.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "auto-9b41b9d374761d63e8",
@@ -2896,7 +3040,7 @@
       "source_name": "내 손안에 서울",
       "official_url": "https://mediahub.seoul.go.kr/archives/2019236",
       "page_url": "https://kimjunnem.github.io/policy/auto-9b41b9d374761d63e8.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "auto-959121c4f7f5ee4db1",
@@ -2912,7 +3056,7 @@
       "source_name": "내 손안에 서울",
       "official_url": "https://mediahub.seoul.go.kr/archives/2017714",
       "page_url": "https://kimjunnem.github.io/policy/auto-959121c4f7f5ee4db1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "auto-0ee25d724c10e6cc1a",
@@ -2928,7 +3072,23 @@
       "source_name": "내 손안에 서울",
       "official_url": "https://mediahub.seoul.go.kr/archives/2019201",
       "page_url": "https://kimjunnem.github.io/policy/auto-0ee25d724c10e6cc1a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
+    },
+    {
+      "id": "auto-431518bc1646e8234e",
+      "title": "야간근무 걱정 덜어요! 시간당 2천 원 '심야돌봄' 시범 운영",
+      "summary": "밤 10시~다음 날 오전 6시 심야돌봄 첫선 서울시는 야간근무와 불규칙한 근로시간으로 자녀 돌봄에 어려움을 겪는 양육자를 위해, 소상공인 등 민간아이돌봄서비스 지원사업의 지원대상을 야간근로자까지 확대하고, 밤 10시부터 다음날 오전 6시까지 이용할 수 있는 심야돌봄서비스를 시범 운영한다. 교대근무·프리랜서 등 야간근로자 지원…최대 540만원 ‘소상공인 등 민간아이돌봄서비스 지원사업’은 영업시간이 불규칙하거나 야간·휴일 근무가 잦아 자녀 돌봄에 어려움을 겪는 가정",
+      "region": "서울",
+      "category": "주거",
+      "status": "신청가능",
+      "eligibility": "서울시 거주 3개월~12세 이하 양육가정 중 아래 요건 중 하나에 해당하는 자 (1) 서울시 소상공인(사업주, 상시근로자) (2) 워라밸 포인트제 기업 상시근로자 (3) 22시~ 익일 06시 사이에 정기, 반복적으로 (월 4회 이상) 근로 또는 노무를 제공하는 자 ○",
+      "benefit": "‧ 주간돌봄서비스 (3개월 이상 ~ 12세 이하) : 시간당 이용요금의 2/3 지원, 1/3 본인부담 ‧ 심야돌봄서비스 (24개월이상 ~ 12세 이하) : 심야 전담기관 이용 시 22시~익일 06시 이용분에 대하여 시간당 본인부담금 2천원 적용 - 지원방법 : 제공기관의 돌보미가 이용자 가정을 방문하여 아이돌봄서비스 제공 ※현금으로 직접 지급되지 않으며, 지원금은 업체에 정산금으로 지급됨 ※",
+      "period": "9.3.~9.18. ○ 이용방법 : 대상자 선정 후 제공기관 1개 선택, 확정 통보 후 서비스 이용 ○ 사용처 : 2026년 선정된 민간아이돌봄서비스 제공기관 4개소 *가나다순 - 맘편한세상(맘시터), 우리동네돌봄히어로, 커넥팅더닷츠(째깍악어), 휴브리스(돌봄플러스) ※심야돌봄서비스 운",
+      "apply_method": "온라인 신청…자격 확인을 거쳐 최종 선정 소상공인 민간 아이돌봄서비스 지원 신청은 9월 3일부터 9월 18일까지 서울시 탄생육아 몽땅정보통 누리집 에서 할 수 있다",
+      "source_name": "내 손안에 서울",
+      "official_url": "https://mediahub.seoul.go.kr/archives/2019273",
+      "page_url": "https://kimjunnem.github.io/policy/auto-431518bc1646e8234e.html",
+      "checked_at": "2026-09-04"
     },
     {
       "id": "auto-0e5cb63dcac2ce3d31",
@@ -2944,7 +3104,7 @@
       "source_name": "내 손안에 서울",
       "official_url": "https://mediahub.seoul.go.kr/archives/2018990",
       "page_url": "https://kimjunnem.github.io/policy/auto-0e5cb63dcac2ce3d31.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "real-gg-youth-futureplus",
@@ -2960,7 +3120,7 @@
       "source_name": "경기청년포털",
       "official_url": "https://youth.gg.go.kr/gg/info/job-start-up.do",
       "page_url": "https://kimjunnem.github.io/policy/real-gg-youth-futureplus.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-88b2eac3c6973b2799",
@@ -2976,7 +3136,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/393000000111",
       "page_url": "https://kimjunnem.github.io/policy/gov24-88b2eac3c6973b2799.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-eaf2a0dda841ea55fe",
@@ -2992,7 +3152,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005010",
       "page_url": "https://kimjunnem.github.io/policy/gov24-eaf2a0dda841ea55fe.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-935bbe893c353ce4b8",
@@ -3008,7 +3168,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/406000000538",
       "page_url": "https://kimjunnem.github.io/policy/gov24-935bbe893c353ce4b8.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-ad95e33280a858a54e",
@@ -3024,7 +3184,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/313000000109",
       "page_url": "https://kimjunnem.github.io/policy/gov24-ad95e33280a858a54e.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-9797604a571ea985cb",
@@ -3040,7 +3200,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/394000000138",
       "page_url": "https://kimjunnem.github.io/policy/gov24-9797604a571ea985cb.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-bd8a71a0d15426eec2",
@@ -3056,7 +3216,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000076",
       "page_url": "https://kimjunnem.github.io/policy/gov24-bd8a71a0d15426eec2.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-4ddcc2b84f3e3d967e",
@@ -3072,7 +3232,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/116010000001",
       "page_url": "https://kimjunnem.github.io/policy/gov24-4ddcc2b84f3e3d967e.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7b4b9b0b9896d2ba40",
@@ -3088,7 +3248,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000170",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7b4b9b0b9896d2ba40.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c2c1865fc833aefa68",
@@ -3104,7 +3264,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000169",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c2c1865fc833aefa68.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7e8413f3fcbf832957",
@@ -3120,7 +3280,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000167",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7e8413f3fcbf832957.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-ae05bf37aa2144fb7b",
@@ -3136,7 +3296,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000101",
       "page_url": "https://kimjunnem.github.io/policy/gov24-ae05bf37aa2144fb7b.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-faf54814dbf0339588",
@@ -3152,7 +3312,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/391000000152",
       "page_url": "https://kimjunnem.github.io/policy/gov24-faf54814dbf0339588.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7921fbcb8d9afa96ef",
@@ -3168,7 +3328,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000063",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7921fbcb8d9afa96ef.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-03313945dc397f4e06",
@@ -3184,7 +3344,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142000000084",
       "page_url": "https://kimjunnem.github.io/policy/gov24-03313945dc397f4e06.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3254051d1bb2ee9cc9",
@@ -3200,7 +3360,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000034",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3254051d1bb2ee9cc9.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-4b89f8cb425881ce56",
@@ -3216,7 +3376,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000168",
       "page_url": "https://kimjunnem.github.io/policy/gov24-4b89f8cb425881ce56.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-089c4932081212f743",
@@ -3232,7 +3392,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/348000000233",
       "page_url": "https://kimjunnem.github.io/policy/gov24-089c4932081212f743.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-45a001a262c53e95e4",
@@ -3248,7 +3408,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000099",
       "page_url": "https://kimjunnem.github.io/policy/gov24-45a001a262c53e95e4.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-8613682cbce887b5a5",
@@ -3264,7 +3424,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005001",
       "page_url": "https://kimjunnem.github.io/policy/gov24-8613682cbce887b5a5.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-86e1d45c479f25b5c1",
@@ -3280,7 +3440,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000081",
       "page_url": "https://kimjunnem.github.io/policy/gov24-86e1d45c479f25b5c1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f1105f4f21c9dab386",
@@ -3296,7 +3456,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/314000000114",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f1105f4f21c9dab386.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-ae8c83b2551a714d13",
@@ -3312,7 +3472,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000191",
       "page_url": "https://kimjunnem.github.io/policy/gov24-ae8c83b2551a714d13.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-43bd116c57368053e2",
@@ -3328,7 +3488,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142000000098",
       "page_url": "https://kimjunnem.github.io/policy/gov24-43bd116c57368053e2.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-6ffe6b2b220165bfae",
@@ -3344,7 +3504,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/378000000182",
       "page_url": "https://kimjunnem.github.io/policy/gov24-6ffe6b2b220165bfae.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-8f1c68b54a4926b2ca",
@@ -3360,7 +3520,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000016",
       "page_url": "https://kimjunnem.github.io/policy/gov24-8f1c68b54a4926b2ca.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-6fadcc5b34c8ca180a",
@@ -3376,7 +3536,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/174000000029",
       "page_url": "https://kimjunnem.github.io/policy/gov24-6fadcc5b34c8ca180a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-1a9d5b4a5cfb5928de",
@@ -3392,7 +3552,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000112",
       "page_url": "https://kimjunnem.github.io/policy/gov24-1a9d5b4a5cfb5928de.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-954d2ab28077860322",
@@ -3408,7 +3568,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000133",
       "page_url": "https://kimjunnem.github.io/policy/gov24-954d2ab28077860322.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-5f0461e5df32b568c7",
@@ -3424,7 +3584,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000018",
       "page_url": "https://kimjunnem.github.io/policy/gov24-5f0461e5df32b568c7.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-60bf3afba951ee8414",
@@ -3440,7 +3600,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000012",
       "page_url": "https://kimjunnem.github.io/policy/gov24-60bf3afba951ee8414.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-0df5dbb153356dde24",
@@ -3456,7 +3616,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/402000000126",
       "page_url": "https://kimjunnem.github.io/policy/gov24-0df5dbb153356dde24.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-4aec10ff4f19ed4e53",
@@ -3472,7 +3632,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/402000000115",
       "page_url": "https://kimjunnem.github.io/policy/gov24-4aec10ff4f19ed4e53.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f993a5c97bd9aec4b6",
@@ -3488,7 +3648,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000147",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f993a5c97bd9aec4b6.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-aa10e805c810cb24d9",
@@ -3504,7 +3664,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000135",
       "page_url": "https://kimjunnem.github.io/policy/gov24-aa10e805c810cb24d9.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-56c3fce6e02e52f3da",
@@ -3520,7 +3680,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000133",
       "page_url": "https://kimjunnem.github.io/policy/gov24-56c3fce6e02e52f3da.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-23b3b38b9de9566c26",
@@ -3536,7 +3696,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/318000000414",
       "page_url": "https://kimjunnem.github.io/policy/gov24-23b3b38b9de9566c26.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-87fb6bbddfe002576b",
@@ -3552,7 +3712,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/393000000135",
       "page_url": "https://kimjunnem.github.io/policy/gov24-87fb6bbddfe002576b.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-9995afe84f0a695bb2",
@@ -3568,7 +3728,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000127",
       "page_url": "https://kimjunnem.github.io/policy/gov24-9995afe84f0a695bb2.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c991788edcb35179ac",
@@ -3584,7 +3744,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/300000000164",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c991788edcb35179ac.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-669f472f6c4e2879f5",
@@ -3600,7 +3760,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000081",
       "page_url": "https://kimjunnem.github.io/policy/gov24-669f472f6c4e2879f5.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f1a1d9cffdd421915a",
@@ -3616,7 +3776,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000125",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f1a1d9cffdd421915a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-60233da615a56a48da",
@@ -3632,7 +3792,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142000000088",
       "page_url": "https://kimjunnem.github.io/policy/gov24-60233da615a56a48da.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-13f2cbc26112b001d9",
@@ -3648,7 +3808,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000020",
       "page_url": "https://kimjunnem.github.io/policy/gov24-13f2cbc26112b001d9.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b9d834d11f8c4e1c00",
@@ -3664,7 +3824,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000021",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b9d834d11f8c4e1c00.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-334f647d7b7fb417fb",
@@ -3680,7 +3840,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000149",
       "page_url": "https://kimjunnem.github.io/policy/gov24-334f647d7b7fb417fb.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-5cf24c4b3948a48e52",
@@ -3696,7 +3856,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/361000000112",
       "page_url": "https://kimjunnem.github.io/policy/gov24-5cf24c4b3948a48e52.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-236b100dcbc2885d8f",
@@ -3712,7 +3872,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000066",
       "page_url": "https://kimjunnem.github.io/policy/gov24-236b100dcbc2885d8f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-644de3b517b0005064",
@@ -3728,7 +3888,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/311000000138",
       "page_url": "https://kimjunnem.github.io/policy/gov24-644de3b517b0005064.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-40ed7dab43f1dd6663",
@@ -3744,7 +3904,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000077",
       "page_url": "https://kimjunnem.github.io/policy/gov24-40ed7dab43f1dd6663.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-59ed509f4bf65f489c",
@@ -3760,7 +3920,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/140000000194",
       "page_url": "https://kimjunnem.github.io/policy/gov24-59ed509f4bf65f489c.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c1b6130fe889974586",
@@ -3776,7 +3936,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000171",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c1b6130fe889974586.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-939e2dd736c48ad698",
@@ -3792,7 +3952,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/143000000001",
       "page_url": "https://kimjunnem.github.io/policy/gov24-939e2dd736c48ad698.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-19a512f4770c6e82ea",
@@ -3808,7 +3968,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000001",
       "page_url": "https://kimjunnem.github.io/policy/gov24-19a512f4770c6e82ea.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-ec56bbc0ae4549420e",
@@ -3824,7 +3984,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000153",
       "page_url": "https://kimjunnem.github.io/policy/gov24-ec56bbc0ae4549420e.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-aa2393358992572676",
@@ -3840,7 +4000,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/148000000009",
       "page_url": "https://kimjunnem.github.io/policy/gov24-aa2393358992572676.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-a9730b7b615b27d9d9",
@@ -3856,7 +4016,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000091",
       "page_url": "https://kimjunnem.github.io/policy/gov24-a9730b7b615b27d9d9.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-26d74e4f9eab49d4cc",
@@ -3872,7 +4032,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000161",
       "page_url": "https://kimjunnem.github.io/policy/gov24-26d74e4f9eab49d4cc.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d26296a1e1fffd43fd",
@@ -3888,7 +4048,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/406000000515",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d26296a1e1fffd43fd.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-8a184775fe0a3f1fe1",
@@ -3904,7 +4064,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/404000000108",
       "page_url": "https://kimjunnem.github.io/policy/gov24-8a184775fe0a3f1fe1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f546972a59d3f003de",
@@ -3920,7 +4080,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/402000000146",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f546972a59d3f003de.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-1c5b543d36111a9df4",
@@ -3936,7 +4096,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/318000000431",
       "page_url": "https://kimjunnem.github.io/policy/gov24-1c5b543d36111a9df4.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-ad72e6570957b0a30f",
@@ -3952,7 +4112,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000156",
       "page_url": "https://kimjunnem.github.io/policy/gov24-ad72e6570957b0a30f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-9193f71e125a3663f4",
@@ -3968,7 +4128,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000116",
       "page_url": "https://kimjunnem.github.io/policy/gov24-9193f71e125a3663f4.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-6797ca8c7cc8f636ea",
@@ -3984,7 +4144,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/362000000337",
       "page_url": "https://kimjunnem.github.io/policy/gov24-6797ca8c7cc8f636ea.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-24cd6f5bccc6e1e75a",
@@ -4000,7 +4160,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/145000000107",
       "page_url": "https://kimjunnem.github.io/policy/gov24-24cd6f5bccc6e1e75a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-4dea60fcce517fc351",
@@ -4016,7 +4176,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000101",
       "page_url": "https://kimjunnem.github.io/policy/gov24-4dea60fcce517fc351.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-58b9fa2f3d6ddf7835",
@@ -4032,7 +4192,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/402000000105",
       "page_url": "https://kimjunnem.github.io/policy/gov24-58b9fa2f3d6ddf7835.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b49e6584d14df5d0eb",
@@ -4048,7 +4208,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/138300000057",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b49e6584d14df5d0eb.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-0d6c581f02a27eb9d0",
@@ -4064,7 +4224,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000054",
       "page_url": "https://kimjunnem.github.io/policy/gov24-0d6c581f02a27eb9d0.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-94a438e2c91bec137d",
@@ -4080,7 +4240,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/382000000175",
       "page_url": "https://kimjunnem.github.io/policy/gov24-94a438e2c91bec137d.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-fa5b7e1e9246f94b73",
@@ -4096,7 +4256,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/140000000181",
       "page_url": "https://kimjunnem.github.io/policy/gov24-fa5b7e1e9246f94b73.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3b46b6abd21a3b2fbc",
@@ -4112,7 +4272,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005027",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3b46b6abd21a3b2fbc.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-03b41176581e1de404",
@@ -4128,7 +4288,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/393000000269",
       "page_url": "https://kimjunnem.github.io/policy/gov24-03b41176581e1de404.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-cfc6f7cd93ac605f9c",
@@ -4144,7 +4304,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000178",
       "page_url": "https://kimjunnem.github.io/policy/gov24-cfc6f7cd93ac605f9c.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-e32576f4d8b1528c11",
@@ -4160,7 +4320,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000006",
       "page_url": "https://kimjunnem.github.io/policy/gov24-e32576f4d8b1528c11.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-a60c75b1960c12e975",
@@ -4176,7 +4336,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000181",
       "page_url": "https://kimjunnem.github.io/policy/gov24-a60c75b1960c12e975.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3cda690728e971ea82",
@@ -4192,7 +4352,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/378000000164",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3cda690728e971ea82.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-732c8830434e9d34f7",
@@ -4208,7 +4368,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/140000000218",
       "page_url": "https://kimjunnem.github.io/policy/gov24-732c8830434e9d34f7.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-747b9a082d09e6e283",
@@ -4224,7 +4384,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/143000000019",
       "page_url": "https://kimjunnem.github.io/policy/gov24-747b9a082d09e6e283.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-8ae3c41fc5bddbad78",
@@ -4240,7 +4400,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000170",
       "page_url": "https://kimjunnem.github.io/policy/gov24-8ae3c41fc5bddbad78.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-26542f58125ea5dbd8",
@@ -4256,7 +4416,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000166",
       "page_url": "https://kimjunnem.github.io/policy/gov24-26542f58125ea5dbd8.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b0c9f9ac3a3da71929",
@@ -4272,7 +4432,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300005002",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b0c9f9ac3a3da71929.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-9c73f27f61cbd37ec1",
@@ -4288,7 +4448,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000192",
       "page_url": "https://kimjunnem.github.io/policy/gov24-9c73f27f61cbd37ec1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-afe889ec9da248baf0",
@@ -4304,7 +4464,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000103",
       "page_url": "https://kimjunnem.github.io/policy/gov24-afe889ec9da248baf0.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c9fcb3777dcb204d95",
@@ -4320,7 +4480,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/129000000032",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c9fcb3777dcb204d95.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3bedd1c460e19888a1",
@@ -4336,7 +4496,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005002",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3bedd1c460e19888a1.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-abab15e8d0fcc5a8db",
@@ -4352,7 +4512,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000029",
       "page_url": "https://kimjunnem.github.io/policy/gov24-abab15e8d0fcc5a8db.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-2e9b97caeab317c341",
@@ -4368,7 +4528,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/400000000128",
       "page_url": "https://kimjunnem.github.io/policy/gov24-2e9b97caeab317c341.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-db31f9db86195244fd",
@@ -4384,7 +4544,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/140000000173",
       "page_url": "https://kimjunnem.github.io/policy/gov24-db31f9db86195244fd.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-acf44f2228f11f2329",
@@ -4400,7 +4560,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142000000099",
       "page_url": "https://kimjunnem.github.io/policy/gov24-acf44f2228f11f2329.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-2fc0ffac3ccf6ea085",
@@ -4416,7 +4576,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/310000000107",
       "page_url": "https://kimjunnem.github.io/policy/gov24-2fc0ffac3ccf6ea085.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-8a2caa04d2910883e4",
@@ -4432,7 +4592,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/143000000007",
       "page_url": "https://kimjunnem.github.io/policy/gov24-8a2caa04d2910883e4.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-cd9f38eaafda0cbf30",
@@ -4448,7 +4608,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/310000000116",
       "page_url": "https://kimjunnem.github.io/policy/gov24-cd9f38eaafda0cbf30.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-8210bee0cf8a5ae622",
@@ -4464,7 +4624,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/134200000046",
       "page_url": "https://kimjunnem.github.io/policy/gov24-8210bee0cf8a5ae622.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f1fd2856f4b25843af",
@@ -4480,7 +4640,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000031",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f1fd2856f4b25843af.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-59aec3aebccca07f6e",
@@ -4496,7 +4656,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/394000000115",
       "page_url": "https://kimjunnem.github.io/policy/gov24-59aec3aebccca07f6e.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-9d0c75857d1671aa48",
@@ -4512,7 +4672,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000044",
       "page_url": "https://kimjunnem.github.io/policy/gov24-9d0c75857d1671aa48.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b0a4751eb0cac1f53f",
@@ -4528,7 +4688,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000090",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b0a4751eb0cac1f53f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c257622942d27f2b9a",
@@ -4544,7 +4704,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000053",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c257622942d27f2b9a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-0d74b5fede694d74fc",
@@ -4560,7 +4720,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/311000000106",
       "page_url": "https://kimjunnem.github.io/policy/gov24-0d74b5fede694d74fc.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-70c3d9cf524afecb62",
@@ -4576,7 +4736,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/337000000013",
       "page_url": "https://kimjunnem.github.io/policy/gov24-70c3d9cf524afecb62.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-019359d1af6d276cce",
@@ -4592,7 +4752,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/134200005047",
       "page_url": "https://kimjunnem.github.io/policy/gov24-019359d1af6d276cce.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b52383d352acdc4df8",
@@ -4608,7 +4768,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000016",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b52383d352acdc4df8.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-5863575d7ff1cf297b",
@@ -4624,7 +4784,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/317000000123",
       "page_url": "https://kimjunnem.github.io/policy/gov24-5863575d7ff1cf297b.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-614293599de00482ae",
@@ -4640,7 +4800,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/302000000125",
       "page_url": "https://kimjunnem.github.io/policy/gov24-614293599de00482ae.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-1d8784e4291a107cea",
@@ -4656,7 +4816,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000076",
       "page_url": "https://kimjunnem.github.io/policy/gov24-1d8784e4291a107cea.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-fada7e4f35621ac53c",
@@ -4672,7 +4832,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000045",
       "page_url": "https://kimjunnem.github.io/policy/gov24-fada7e4f35621ac53c.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-4dea850a8ef55e315a",
@@ -4688,7 +4848,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000113",
       "page_url": "https://kimjunnem.github.io/policy/gov24-4dea850a8ef55e315a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-1ede2db9894fcdd7d8",
@@ -4704,7 +4864,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000008",
       "page_url": "https://kimjunnem.github.io/policy/gov24-1ede2db9894fcdd7d8.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-5d342509ed24490f9e",
@@ -4720,7 +4880,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000132",
       "page_url": "https://kimjunnem.github.io/policy/gov24-5d342509ed24490f9e.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3d447370f6f8a1189d",
@@ -4736,7 +4896,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000010",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3d447370f6f8a1189d.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-31f42aeec834ffac69",
@@ -4752,7 +4912,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000120",
       "page_url": "https://kimjunnem.github.io/policy/gov24-31f42aeec834ffac69.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3ba2e0c80eaccabb51",
@@ -4768,7 +4928,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/315000000262",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3ba2e0c80eaccabb51.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d1909d977670f39c49",
@@ -4784,7 +4944,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/360000000258",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d1909d977670f39c49.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-19b3fe0a827e24e0af",
@@ -4800,7 +4960,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/311000000139",
       "page_url": "https://kimjunnem.github.io/policy/gov24-19b3fe0a827e24e0af.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-feaa6819f264e39b83",
@@ -4816,7 +4976,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/140000000176",
       "page_url": "https://kimjunnem.github.io/policy/gov24-feaa6819f264e39b83.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b7c2f48d0c92c1c7cd",
@@ -4832,7 +4992,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/140000000175",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b7c2f48d0c92c1c7cd.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7825361d86b2339e85",
@@ -4848,7 +5008,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000140",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7825361d86b2339e85.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b9d094199577206e86",
@@ -4864,7 +5024,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/155000000018",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b9d094199577206e86.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-963da4d3f8b5cfaf3b",
@@ -4880,7 +5040,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000151",
       "page_url": "https://kimjunnem.github.io/policy/gov24-963da4d3f8b5cfaf3b.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-dff8a245a02d6e0085",
@@ -4896,7 +5056,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000172",
       "page_url": "https://kimjunnem.github.io/policy/gov24-dff8a245a02d6e0085.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-5a021809737dbd2e83",
@@ -4912,7 +5072,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000011",
       "page_url": "https://kimjunnem.github.io/policy/gov24-5a021809737dbd2e83.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-2a26404d9fb83ea7f5",
@@ -4928,7 +5088,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/140000000161",
       "page_url": "https://kimjunnem.github.io/policy/gov24-2a26404d9fb83ea7f5.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f9bdf73c244e03092d",
@@ -4944,7 +5104,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/140000000163",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f9bdf73c244e03092d.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-65fa14a991b56b4191",
@@ -4960,7 +5120,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/322000000118",
       "page_url": "https://kimjunnem.github.io/policy/gov24-65fa14a991b56b4191.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-143eb21418c1121771",
@@ -4976,7 +5136,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000119",
       "page_url": "https://kimjunnem.github.io/policy/gov24-143eb21418c1121771.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3c8f171ba1a86ed9c4",
@@ -4992,7 +5152,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142000000039",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3c8f171ba1a86ed9c4.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7d55430045615bfc9d",
@@ -5008,7 +5168,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000304",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7d55430045615bfc9d.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f468405bb176bfe6fb",
@@ -5024,7 +5184,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/408000000537",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f468405bb176bfe6fb.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-de2c7c21e0f3fbf701",
@@ -5040,7 +5200,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/408000000534",
       "page_url": "https://kimjunnem.github.io/policy/gov24-de2c7c21e0f3fbf701.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-0985b63b3cef2b0a21",
@@ -5056,7 +5216,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300005007",
       "page_url": "https://kimjunnem.github.io/policy/gov24-0985b63b3cef2b0a21.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-40ffb1804ed8bf38ae",
@@ -5072,7 +5232,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000118",
       "page_url": "https://kimjunnem.github.io/policy/gov24-40ffb1804ed8bf38ae.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-eff8d3d62a0e904782",
@@ -5088,7 +5248,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000030",
       "page_url": "https://kimjunnem.github.io/policy/gov24-eff8d3d62a0e904782.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-fbeac5d0b55ff3d77a",
@@ -5104,7 +5264,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142000000078",
       "page_url": "https://kimjunnem.github.io/policy/gov24-fbeac5d0b55ff3d77a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-13ccdd7f80e04ce3ab",
@@ -5120,7 +5280,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000485",
       "page_url": "https://kimjunnem.github.io/policy/gov24-13ccdd7f80e04ce3ab.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-708444bebcba1d36b6",
@@ -5136,7 +5296,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000068",
       "page_url": "https://kimjunnem.github.io/policy/gov24-708444bebcba1d36b6.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f55ee4edbee61f6e7f",
@@ -5152,7 +5312,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000135",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f55ee4edbee61f6e7f.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-5b66c198a89131033e",
@@ -5168,7 +5328,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000074",
       "page_url": "https://kimjunnem.github.io/policy/gov24-5b66c198a89131033e.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7a445da6fee32e7145",
@@ -5184,7 +5344,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000082",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7a445da6fee32e7145.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-259081da713bd25539",
@@ -5200,7 +5360,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000161",
       "page_url": "https://kimjunnem.github.io/policy/gov24-259081da713bd25539.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-62a2a96d8de366ce0a",
@@ -5216,7 +5376,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300005010",
       "page_url": "https://kimjunnem.github.io/policy/gov24-62a2a96d8de366ce0a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d177e930ad274d05a4",
@@ -5232,7 +5392,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/402000000147",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d177e930ad274d05a4.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-ac81adba3807505714",
@@ -5248,7 +5408,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300005009",
       "page_url": "https://kimjunnem.github.io/policy/gov24-ac81adba3807505714.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-5dae72e2961769eb40",
@@ -5264,7 +5424,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000041",
       "page_url": "https://kimjunnem.github.io/policy/gov24-5dae72e2961769eb40.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-a5f895ac60ce7bfe09",
@@ -5280,7 +5440,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000276",
       "page_url": "https://kimjunnem.github.io/policy/gov24-a5f895ac60ce7bfe09.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-9383c39a0b95e1e389",
@@ -5296,7 +5456,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000275",
       "page_url": "https://kimjunnem.github.io/policy/gov24-9383c39a0b95e1e389.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-fe2711863cf854da16",
@@ -5312,7 +5472,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/405000000661",
       "page_url": "https://kimjunnem.github.io/policy/gov24-fe2711863cf854da16.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-8d569ed1350b7ffbbc",
@@ -5328,7 +5488,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000407",
       "page_url": "https://kimjunnem.github.io/policy/gov24-8d569ed1350b7ffbbc.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-a480d93e6fb2b458f3",
@@ -5344,7 +5504,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000146",
       "page_url": "https://kimjunnem.github.io/policy/gov24-a480d93e6fb2b458f3.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-191e8ab504756e4542",
@@ -5360,7 +5520,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/105100000001",
       "page_url": "https://kimjunnem.github.io/policy/gov24-191e8ab504756e4542.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-535068f9c77cf2bca9",
@@ -5376,7 +5536,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/399000000113",
       "page_url": "https://kimjunnem.github.io/policy/gov24-535068f9c77cf2bca9.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c5a4ce05988a665de7",
@@ -5392,7 +5552,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/137100000006",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c5a4ce05988a665de7.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-f3697c0e3448fb318b",
@@ -5408,7 +5568,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000006",
       "page_url": "https://kimjunnem.github.io/policy/gov24-f3697c0e3448fb318b.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-451d7de64c337ff0d3",
@@ -5424,7 +5584,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000092",
       "page_url": "https://kimjunnem.github.io/policy/gov24-451d7de64c337ff0d3.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7c233719c05a80241a",
@@ -5440,7 +5600,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000038",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7c233719c05a80241a.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-3e2c65933bf942bedc",
@@ -5456,7 +5616,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/323000000135",
       "page_url": "https://kimjunnem.github.io/policy/gov24-3e2c65933bf942bedc.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-7f8329fb7e0933c493",
@@ -5472,7 +5632,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005016",
       "page_url": "https://kimjunnem.github.io/policy/gov24-7f8329fb7e0933c493.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-71be12253d2aef76d5",
@@ -5488,7 +5648,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/145000000110",
       "page_url": "https://kimjunnem.github.io/policy/gov24-71be12253d2aef76d5.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-c364a6059fd7284028",
@@ -5504,7 +5664,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/391000000144",
       "page_url": "https://kimjunnem.github.io/policy/gov24-c364a6059fd7284028.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-69447967637874d226",
@@ -5520,7 +5680,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/314000000264",
       "page_url": "https://kimjunnem.github.io/policy/gov24-69447967637874d226.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-920ccdc2c447c57b72",
@@ -5536,7 +5696,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005013",
       "page_url": "https://kimjunnem.github.io/policy/gov24-920ccdc2c447c57b72.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-33e4eeb97da33f1d39",
@@ -5552,7 +5712,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000026",
       "page_url": "https://kimjunnem.github.io/policy/gov24-33e4eeb97da33f1d39.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-b9e00357d766fdac27",
@@ -5568,7 +5728,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/145000000111",
       "page_url": "https://kimjunnem.github.io/policy/gov24-b9e00357d766fdac27.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-d77d6ca2b6160050a9",
@@ -5584,7 +5744,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300000159",
       "page_url": "https://kimjunnem.github.io/policy/gov24-d77d6ca2b6160050a9.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "gov24-624fa3fb3e744727a3",
@@ -5600,7 +5760,7 @@
       "source_name": "정부24 공공서비스 Open API",
       "official_url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/392000000120",
       "page_url": "https://kimjunnem.github.io/policy/gov24-624fa3fb3e744727a3.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "real-seoul-youth-policy",
@@ -5616,7 +5776,7 @@
       "source_name": "서울특별시·청년몽땅정보통",
       "official_url": "https://youth.seoul.go.kr/infoData/plcyInfo/list.do?key=2309150002",
       "page_url": "https://kimjunnem.github.io/policy/real-seoul-youth-policy.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "real-central-regular",
@@ -5632,7 +5792,7 @@
       "source_name": "고용노동부",
       "official_url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19630",
       "page_url": "https://kimjunnem.github.io/policy/real-central-regular.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "real-central-youth-leap",
@@ -5648,7 +5808,7 @@
       "source_name": "고용노동부",
       "official_url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=18886",
       "page_url": "https://kimjunnem.github.io/policy/real-central-youth-leap.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "real-jngj-challenge",
@@ -5664,7 +5824,7 @@
       "source_name": "전남광주통합특별시",
       "official_url": "https://www.jeonnam.go.kr/M7116/boardView.do?menuId=jeonnam0202000000&seq=1961374",
       "page_url": "https://kimjunnem.github.io/policy/real-jngj-challenge.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     },
     {
       "id": "real-seoul-moving",
@@ -5680,7 +5840,7 @@
       "source_name": "청년몽땅정보통",
       "official_url": "https://youth.seoul.go.kr/infoData/plcyInfo/view.do?key=2309150002&plcyBizId=V202600006&sprtInfoId=",
       "page_url": "https://kimjunnem.github.io/policy/real-seoul-moving.html",
-      "checked_at": "2026-09-03"
+      "checked_at": "2026-09-04"
     }
   ]
 }
