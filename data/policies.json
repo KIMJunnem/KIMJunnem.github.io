@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T10:58:40+09:00",
-  "policy_count": 442,
+  "updated_at": "2026-11-12T12:01:39+09:00",
+  "policy_count": 441,
   "sources": [
     "경기민원24",
     "광주청년통합플랫폼",
@@ -26,7 +26,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=853",
       "review_required": false,
       "value_score": 20,
-      "checked_at": "2026-11-11T10:56:52+09:00"
+      "checked_at": "2026-11-12T12:00:14+09:00"
     },
     {
       "id": "gov24-88f73778563d4e1fcf",
@@ -138,7 +138,7 @@
     },
     {
       "id": "auto-f078f130e48e14bc1d",
-      "title": "접수중 D-4 2026년 경기도 가족돌봄수당(2026.01 ~) > 2026.11.01(일) ~ 2026.11.15 (일) 온라인 접수",
+      "title": "접수중 D-3 2026년 경기도 가족돌봄수당(2026.01 ~) > 2026.11.01(일) ~ 2026.11.15 (일) 온라인 접수",
       "region": "전남광주통합특별시",
       "category": "금융",
       "status": "신청가능",
@@ -151,7 +151,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=931",
       "review_required": false,
       "value_score": 15,
-      "checked_at": "2026-11-11T10:57:01+09:00"
+      "checked_at": "2026-11-12T12:00:19+09:00"
     },
     {
       "id": "gov24-9dfc6e104cf12e828f",
@@ -404,6 +404,23 @@
       "value_score": 11,
       "source_updated_at": "20260814110826",
       "service_id": "142100000076"
+    },
+    {
+      "id": "auto-3fb055bb8aa13d810d",
+      "title": "접수중 산후조리비 지원 > 상시 접수 온라인 접수 오프라인 접수",
+      "region": "전남광주통합특별시",
+      "category": "금융",
+      "status": "신청가능",
+      "summary": "혜택: 지원 내용 ● 출생아 1인당 50만원(지역화폐) 지원 ※지역화폐 : 시군 설정에 맞게 카드형, 모바일형으로 발급 ● 다태아의 경우 출생아 수에 따라 50만원의 배수로 지급 ※쌍둥이 100만원, 세쌍둥이 150만원, 네쌍둥이 200만원",
+      "eligibility": "신청대상자 ● 부 또는 모가 다음의 요건을 모두 충족하는 경우 - 출생일 및 신청일 현재 경기도에 주민등록을 두고 있을 것 - 신청일 현재 실제 도에 거주하고 있을 것 - 신청일 현재 영아의 출생일이 12개월이 지나지 않았을 것 - 경기도에 출생 등록이 되어야 함",
+      "benefit": "지원 내용 ● 출생아 1인당 50만원(지역화폐) 지원 ※지역화폐 : 시군 설정에 맞게 카드형, 모바일형으로 발급 ● 다태아의 경우 출생아 수에 따라 50만원의 배수로 지급 ※쌍둥이 100만원, 세쌍둥이 150만원, 네쌍둥이 200만원",
+      "period": "출산일 ~ 출생일 기준 12개월 이내 상시신청 ※ 온라인 신청은 출생신고 완료 후 신청가능. ●",
+      "apply_method": "신청 방법 ●",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=803",
+      "review_required": false,
+      "value_score": 11,
+      "checked_at": "2026-11-12T12:00:27+09:00"
     },
     {
       "id": "gov24-dee88cee1e0f31c728",
@@ -1248,7 +1265,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=929",
       "review_required": false,
       "value_score": 9,
-      "checked_at": "2026-11-11T10:57:06+09:00"
+      "checked_at": "2026-11-12T12:00:26+09:00"
     },
     {
       "id": "auto-4b62362ffd2e968225",
@@ -1265,7 +1282,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=945",
       "review_required": false,
       "value_score": 9,
-      "checked_at": "2026-11-11T10:57:00+09:00"
+      "checked_at": "2026-11-12T12:00:20+09:00"
     },
     {
       "id": "gov24-2cd6faf831f74bc667",
@@ -3194,6 +3211,23 @@
       "service_id": "315000000269"
     },
     {
+      "id": "auto-35b1288a4ce98e8f30",
+      "title": "접수중 전세피해 가구 긴급생계비 지원 > 2026.01.02(금) ~ 사업 소진시 까지 온라인 접수 오프라인 접수",
+      "region": "전남광주통합특별시",
+      "category": "주거",
+      "status": "신청가능",
+      "summary": "혜택: 지원 내용 ○",
+      "eligibility": "신청대상자 ○ (지역조건) 전세피해주택 소재지가 경기도 (ex) 경기도 소재 주택에서 피해를 입은 임차인이 타 시ㆍ도로 전출 ☞ 지원 ○ 타 시ㆍ도에서 전세피해를 입고 경기도로 전입 ☞ 지원 X ○ (자격조건) 전세피해자(외국인 포함) ※ 전세피해자 : 전세사기피해자특별법에 따라 전세사기피해자등 결정통보를 받은자 또는 주택도시보증공사로부터 전세피해확인서를 발급 받은 자 ○ 긴급생계비 및 긴급",
+      "benefit": "지원 내용 ○",
+      "period": "사업 소진시 까지 온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키",
+      "apply_method": "온라인 접수 오프라인 접수 ‘크롬’ 또는 ‘엣지‘ 브라우저로 신청 권장 신청하기 키보드 보안 프로그램 적용 ※ 안전한 경기민원24 서비스 이용을 위해 키보드 보안 프로그램 적용을 권장합니다",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=867",
+      "review_required": false,
+      "value_score": 17,
+      "checked_at": "2026-11-12T12:00:19+09:00"
+    },
+    {
       "id": "gov24-30c9abad014fd51946",
       "title": "초·중·고 교육비 지원",
       "summary": "○ 고교 학비 (입학금, 수업료, 학교운영지원비) ○ 학교급식비 ○ 교육정보화지원비",
@@ -3316,7 +3350,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=939",
       "review_required": false,
       "value_score": 11,
-      "checked_at": "2026-11-11T10:57:06+09:00"
+      "checked_at": "2026-11-12T12:00:25+09:00"
     },
     {
       "id": "auto-da76cf72bf4d183821",
@@ -3333,7 +3367,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=854",
       "review_required": false,
       "value_score": 10,
-      "checked_at": "2026-11-11T10:57:07+09:00"
+      "checked_at": "2026-11-12T12:00:25+09:00"
     },
     {
       "id": "gov24-c52a5075b5f9cf9558",
@@ -3458,7 +3492,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=936",
       "review_required": false,
       "value_score": 8,
-      "checked_at": "2026-11-11T10:57:07+09:00"
+      "checked_at": "2026-11-12T12:00:25+09:00"
     },
     {
       "id": "gov24-d6ed0436f5ec4db48a",
@@ -3565,7 +3599,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": false,
       "value_score": 6,
-      "checked_at": "2026-11-11T10:56:50+09:00"
+      "checked_at": "2026-11-12T12:00:13+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3582,41 +3616,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": false,
       "value_score": 6,
-      "checked_at": "2026-11-11T10:56:50+09:00"
-    },
-    {
-      "id": "auto-35b1288a4ce98e8f30",
-      "title": "접수중 전세피해 가구 긴급생계비 지원 > 2026.01.02(금) ~ 사업 소진시 까지 온라인 접수 오프라인 접수",
-      "region": "경기",
-      "category": "주거",
-      "status": "신청가능",
-      "summary": "혜택: 접수중 전세피해 가구 긴급생계비 지원 > 2026.01.02(금) ~ 사업 소진시 까지 온라인 접수 오프라인 접수",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "접수중 전세피해 가구 긴급생계비 지원 > 2026.01.02(금) ~ 사업 소진시 까지 온라인 접수 오프라인 접수",
-      "period": "사업 소진시 까지 온라인 접수 오프라인 접수",
-      "apply_method": "온라인 접수 오프라인 접수",
-      "source_name": "경기민원24",
-      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=867",
-      "review_required": false,
-      "value_score": 4,
-      "checked_at": "2026-11-11T10:57:16+09:00"
-    },
-    {
-      "id": "auto-3fb055bb8aa13d810d",
-      "title": "접수중 산후조리비 지원 > 상시 접수 온라인 접수 오프라인 접수",
-      "region": "경기",
-      "category": "복지",
-      "status": "신청가능",
-      "summary": "혜택: 접수중 산후조리비 지원 > 상시 접수 온라인 접수 오프라인 접수",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "접수중 산후조리비 지원 > 상시 접수 온라인 접수 오프라인 접수",
-      "period": "상시 접수 온라인 접수 오프라인 접수",
-      "apply_method": "온라인 접수 오프라인 접수",
-      "source_name": "경기민원24",
-      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=803",
-      "review_required": false,
-      "value_score": 1,
-      "checked_at": "2026-11-11T10:57:26+09:00"
+      "checked_at": "2026-11-12T12:00:13+09:00"
     },
     {
       "id": "gov24-8c0d2b4c13a58d0f73",
@@ -3687,7 +3687,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-11-11T10:56:45+09:00"
+      "checked_at": "2026-11-12T12:00:09+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3704,7 +3704,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-11-11T10:56:48+09:00"
+      "checked_at": "2026-11-12T12:00:11+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3721,7 +3721,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-11-11T10:56:48+09:00"
+      "checked_at": "2026-11-12T12:00:11+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3738,7 +3738,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-11-11T10:56:48+09:00"
+      "checked_at": "2026-11-12T12:00:11+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3755,7 +3755,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-11-11T10:56:48+09:00"
+      "checked_at": "2026-11-12T12:00:12+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3772,7 +3772,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-11-11T10:56:50+09:00"
+      "checked_at": "2026-11-12T12:00:13+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3789,7 +3789,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-11-11T10:56:54+09:00"
+      "checked_at": "2026-11-12T12:00:16+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3806,7 +3806,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 3,
-      "checked_at": "2026-11-11T10:56:58+09:00"
+      "checked_at": "2026-11-12T12:00:19+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3823,7 +3823,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 3,
-      "checked_at": "2026-11-11T10:56:58+09:00"
+      "checked_at": "2026-11-12T12:00:19+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3840,7 +3840,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 2,
-      "checked_at": "2026-11-11T10:57:02+09:00"
+      "checked_at": "2026-11-12T12:00:23+09:00"
     },
     {
       "id": "real-jngj-cert",
@@ -3872,7 +3872,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 19,
-      "checked_at": "2026-11-11T10:56:45+09:00"
+      "checked_at": "2026-11-12T12:00:09+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3889,7 +3889,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-11-11T10:56:54+09:00"
+      "checked_at": "2026-11-12T12:00:16+09:00"
     },
     {
       "id": "auto-7de8cc85ba959a7eda",
@@ -3905,8 +3905,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019652",
       "review_required": false,
-      "value_score": 4,
-      "checked_at": "2026-11-11T10:57:00+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-12T12:00:21+09:00"
     },
     {
       "id": "auto-daf15f0bf69fc65b4b",
@@ -3922,8 +3922,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019387",
       "review_required": false,
-      "value_score": 3,
-      "checked_at": "2026-11-11T10:56:53+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-12T12:00:16+09:00"
     },
     {
       "id": "auto-9defeca05665f6d2fa",
@@ -3939,8 +3939,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019978",
       "review_required": false,
-      "value_score": 2,
-      "checked_at": "2026-11-11T10:57:00+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-12T12:00:21+09:00"
     },
     {
       "id": "auto-97e1b07c8a4a64be4f",
@@ -3956,8 +3956,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019910",
       "review_required": true,
-      "value_score": 3,
-      "checked_at": "2026-11-11T10:57:03+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-12T12:00:23+09:00"
     },
     {
       "id": "auto-62d6ce9498bc0e039a",
@@ -3973,8 +3973,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018851",
       "review_required": true,
-      "value_score": 3,
-      "checked_at": "2026-11-11T10:56:55+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-12T12:00:16+09:00"
     },
     {
       "id": "real-gg-youth-futureplus",
@@ -6940,24 +6940,24 @@
       "url": "/dataList/OA-23027/S/1/datasetView.do",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-11-11T10:56:48+09:00"
+      "checked_at": "2026-11-12T12:00:12+09:00"
     },
     {
-      "id": "auto-2cab365ce203d38546",
-      "title": "국민기초생활 수급자 동별 현황",
+      "id": "auto-aa9d999ba12dd2de7a",
+      "title": "보증금 최대 7,000만원 지원…신혼부부·청년 특별공급",
       "region": "서울",
       "category": "주거",
       "status": "확인필요",
-      "summary": "서울특별시 자치구, 동별 기초생계급여, 기초의료급여, 기초주거급여, 기초교육급여 수급자의 연령별 현황 자료를 제공합니다.",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "공식 공고에서 지원내용 확인",
-      "period": "공식 공고 확인",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "서울 열린데이터광장",
-      "url": "/dataList/OA-22227/F/1/datasetView.do",
+      "summary": "5.11~13. SH공사 누리집에서 온라인 신청 서울시는 무주택 시민의 주거비 부담을 낮추기 위해 전월세 보증금을 무이자로 지원해 주는 ‘보증금지원형 장기안심주택’ 입주자 6,000호를 모집한다. ‘보증금지원형 장기안심주택’은 입주자가 원하는 민간주택을 직접 선택하면, 전월세 보증금 일부를 무이자로 지원하는 임차형 공공임대주택 제도로, 신용등급·DTI(총부채상환비율) 심사와 무관하게 이용할 수 있고, 버팀목 전세자금 대출과 병행도 가능하다. 이번 6,000호는 ",
+      "eligibility": "주택에 SH의 ‘권리분석 심사’를 실시해 입주민의 전세사기 위험을 사전에 막을 예정이다",
+      "benefit": "서울시 - 내 손안에 서울 본문 바로가기 뉴스룸 내 손안에 서울 주요 서비스 바로 가기\" 뉴스 영상 매거진 어린이신문 공모전 이벤트 검색창 열기 메뉴 전체보기 통합검색 통합검색 검색 통합검색 닫기 뉴스 주요 서비스 바로 가기 기획·이슈 분야별 뉴스 비주얼 뉴스 우리동네 뉴스 시민기자 뉴스 팩트브리핑 맞춤 뉴스 레터구독 뉴스 서비스 바로 가기 뉴스 최신 뉴스 뉴스레터 모아보기 맞춤 뉴스 기획·",
+      "period": "5월 11일부터 5월 13일까지",
+      "apply_method": "SH 서울주택도시개발공사 에서 온라인 신청 ○",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2017963",
       "review_required": true,
-      "value_score": 4,
-      "checked_at": "2026-11-11T10:56:51+09:00"
+      "value_score": 24,
+      "checked_at": "2026-11-12T12:00:10+09:00"
     },
     {
       "id": "auto-e9e4e25fe686c7507a",
@@ -6974,24 +6974,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018691",
       "review_required": true,
       "value_score": 24,
-      "checked_at": "2026-11-11T10:57:02+09:00"
-    },
-    {
-      "id": "auto-aa9d999ba12dd2de7a",
-      "title": "보증금 최대 7,000만원 지원…신혼부부·청년 특별공급",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "5.11~13. SH공사 누리집에서 온라인 신청 서울시는 무주택 시민의 주거비 부담을 낮추기 위해 전월세 보증금을 무이자로 지원해 주는 ‘보증금지원형 장기안심주택’ 입주자 6,000호를 모집한다. ‘보증금지원형 장기안심주택’은 입주자가 원하는 민간주택을 직접 선택하면, 전월세 보증금 일부를 무이자로 지원하는 임차형 공공임대주택 제도로, 신용등급·DTI(총부채상환비율) 심사와 무관하게 이용할 수 있고, 버팀목 전세자금 대출과 병행도 가능하다. 이번 6,000호는 ",
-      "eligibility": "주택에 SH의 ‘권리분석 심사’를 실시해 입주민의 전세사기 위험을 사전에 막을 예정이다",
-      "benefit": "보증금 최대 7,000만원 지원…신혼부부·청년 특별공급 5.11~13.",
-      "period": "5월 11일부터 5월 13일까지",
-      "apply_method": "SH 서울주택도시개발공사에서 온라인 신청 ○",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2017963",
-      "review_required": true,
-      "value_score": 23,
-      "checked_at": "2026-11-11T10:57:02+09:00"
+      "checked_at": "2026-11-12T12:00:25+09:00"
     },
     {
       "id": "auto-88ac600668aea2f76c",
@@ -7007,8 +6990,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018004",
       "review_required": true,
-      "value_score": 21,
-      "checked_at": "2026-11-11T10:56:48+09:00"
+      "value_score": 22,
+      "checked_at": "2026-11-12T12:00:25+09:00"
     },
     {
       "id": "auto-003cc1f1a1fe01888d",
@@ -7024,8 +7007,25 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019098",
       "review_required": true,
-      "value_score": 13,
-      "checked_at": "2026-11-11T10:56:48+09:00"
+      "value_score": 16,
+      "checked_at": "2026-11-12T12:00:11+09:00"
+    },
+    {
+      "id": "auto-5367ec69a4906a73f9",
+      "title": "이번 연말엔 혼자 아닌 둘! '설렘 in 서울, DDP편' 참가자 모집",
+      "region": "서울",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "11.30. 13시까지 신청 후 추첨…내달 12일 DDP서 행사 서울시 미혼남녀 만남 프로그램 ‘서울팅’이 올해 마지막 무대를 동대문디자인플라자(DDP)에서 연다. 특히, 이번 행사에서는 처음으로 참가 인원을 기존 100명에서 150명으로 확대해 참여 기회를 넓혔다. 서울시는 ‘서울팅 2.0’ 설렘 in 서울, DDP편을 12월 12일 DDP 이간수문전시장 일대에서 개최, 11월 30일까지 서울에 사는 25~45세 미혼남녀 150명을 모집한다. 시는 지난 9월 ",
+      "eligibility": "주민등록상 서울에 거주하는 25~45세 미혼(초혼) 남녀 중 직장인, 개인사업자, 프리랜서 등 경제활동에 종사하는 사람으로, 남녀 각 75명씩 총 150명을 뽑는다",
+      "benefit": "‘설렘 in 서울, DDP편’은 KB금융지주의 기부를 재원으로 서울시와 서울시여성가족재단 및 서울디자인재단이 함께 하며, 청년들의 자연스러운 만남 기회를 확대하고 관계 형성을 지원한다.",
+      "period": "11. 12(목) 9시 ~ 11. 30(월) 13시 ○",
+      "apply_method": "신청 방법 : 탄생육아 몽땅정보통 또는 포스터 QR ( 네이버폼 ) ○ 모집 인원 : 150명(남 75명, 여 75명), 무작위 추첨 ○ 신청 자격 : 서울 주민등록 25~45세 미혼(초혼), 경제활동 종사자 ○ 결과 발표 : 12",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2020022",
+      "review_required": true,
+      "value_score": 7,
+      "checked_at": "2026-11-12T12:00:15+09:00"
     },
     {
       "id": "auto-3ddd7b947e3210e795",
@@ -7041,8 +7041,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019977",
       "review_required": true,
-      "value_score": 4,
-      "checked_at": "2026-11-11T10:56:56+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-12T12:00:17+09:00"
     },
     {
       "id": "auto-82bacc88ae2d1c77af",
@@ -7058,25 +7058,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018622",
       "review_required": true,
-      "value_score": 3,
-      "checked_at": "2026-11-11T10:56:58+09:00"
-    },
-    {
-      "id": "auto-701a424773008c4a7f",
-      "title": "프리랜서 지원부터 상품권 이벤트까지! '서울 프리랜서 온'",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "안심결제·경력 증빙 등 종합 지원… 10월 19일부터 회원 3천 명 돌파 이벤트 진행 서울시가 프리랜서의 대금 미지급 피해를 예방하기 위해 도입한 ‘서울 프리랜서 온’의 안심결제 누적 계약금액이 8억 원을 넘어섰다. 안심결제를 비롯해 경력 증빙, 무료 전문가 상담까지 다양한 서비스를 제공하며 회원은 3천 명을 돌파했다. 이를 기념해 10월 19일부터 상품권 증정 이벤트를 진행한다. 공공 최초 안심결제… 누적 계약금액 8억 원·회원 3천 명 돌파 ‘프리랜서 안심결",
-      "eligibility": "의 재산 기준을 3억 5천만 원 이하에서 4억 원 이하로 완화하고, 근로·사업 활동 인정 기간도 확대해 수혜 범위를 넓혔다",
-      "benefit": "서울시 - 내 손안에 서울 본문 바로가기 뉴스룸 내 손안에 서울 주요 서비스 바로 가기\" 뉴스 영상 매거진 어린이신문 공모전 이벤트 검색창 열기 메뉴 전체보기 통합검색 통합검색 검색 통합검색 닫기 뉴스 주요 서비스 바로 가기 기획·이슈 분야별 뉴스 비주얼 뉴스 우리동네 뉴스 시민기자 뉴스 팩트브리핑 맞춤 뉴스 레터구독 뉴스 서비스 바로 가기 뉴스 최신 뉴스 뉴스레터 모아보기 맞춤 뉴스 기획·",
-      "period": "10월 19일부터 11월 20일까지",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019724",
-      "review_required": true,
-      "value_score": 15,
-      "checked_at": "2026-11-11T10:56:48+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-12T12:00:19+09:00"
     },
     {
       "id": "auto-c52c81a3e3b384f69f",
@@ -7092,8 +7075,25 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2017901",
       "review_required": true,
+      "value_score": 17,
+      "checked_at": "2026-11-12T12:00:11+09:00"
+    },
+    {
+      "id": "auto-3d206e9b6082724f9a",
+      "title": "일급 오르고 신청 쉬워졌다! 동행일자리 6,500명 모집",
+      "region": "전남광주통합특별시",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "11월 23일까지 동주민센터 접수 서울시가 취업 취약계층의 자립을 돕고 지역사회 약자를 지원하는 ‘2027년 상반기 서울 동행일자리’ 참여자를 모집한다. 이번 모집부터 구직등록확인증 제출 의무가 폐지돼 신청 절차가 간편해지고, 참여자 일급도 인상된다. 서울시는 오는 11월 23일까지 주소지 동주민센터에서 ‘2027년 상반기 서울 동행일자리’ 참여자 신청을 받는다고 밝혔다. 시·구 합산 총 6,500여 명을 모집하며, 참여자들은 내년 상반기(27.1.8.~6.30",
+      "eligibility": "사업 시작일 기준 만 18세 이상 서울시민으로, 세대원 합산 소득이 기준중위소득 85% 이하, 재산이 4억 9,900만 원 이하인 경우 지원 가능하다",
+      "benefit": "서울시가 취업 취약계층의 자립을 돕고 지역사회 약자를 지원하는 ‘2027년 상반기 서울 동행일자리’ 참여자를 모집한다.",
+      "period": "공식 공고 확인",
+      "apply_method": "방문 접수 하면 된다",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2020029",
+      "review_required": true,
       "value_score": 14,
-      "checked_at": "2026-11-11T10:57:04+09:00"
+      "checked_at": "2026-11-12T12:00:11+09:00"
     },
     {
       "id": "auto-081d1271c87e4b946a",
@@ -7109,8 +7109,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019821",
       "review_required": true,
-      "value_score": 6,
-      "checked_at": "2026-11-11T10:56:54+09:00"
+      "value_score": 10,
+      "checked_at": "2026-11-12T12:00:17+09:00"
     },
     {
       "id": "auto-57a4636c14a5f4357e",
@@ -7126,8 +7126,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019138",
       "review_required": true,
-      "value_score": 5,
-      "checked_at": "2026-11-11T10:56:51+09:00"
+      "value_score": 8,
+      "checked_at": "2026-11-12T12:00:14+09:00"
     },
     {
       "id": "auto-27c17964a71af931ec",
@@ -7143,8 +7143,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019813",
       "review_required": true,
-      "value_score": 4,
-      "checked_at": "2026-11-11T10:56:56+09:00"
+      "value_score": 8,
+      "checked_at": "2026-11-12T12:00:19+09:00"
     },
     {
       "id": "auto-b64d263ebd9dac118d",
@@ -7160,8 +7160,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019868",
       "review_required": true,
-      "value_score": 2,
-      "checked_at": "2026-11-11T10:57:03+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-12T12:00:23+09:00"
     },
     {
       "id": "auto-072068112f0370825e",
@@ -7177,8 +7177,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019879",
       "review_required": true,
-      "value_score": 2,
-      "checked_at": "2026-11-11T10:57:03+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-12T12:00:23+09:00"
     },
     {
       "id": "auto-5b0aa5b28e2b6e2138",
@@ -7187,15 +7187,32 @@
       "category": "주거",
       "status": "확인필요",
       "summary": "6.5.부터, 연소득 4,000만원→5,000만원 이하까지 서울시가 무주택 청년의 주거비 부담을 덜기 위한 ‘임차보증금 이자지원’의 소득 기준을 연소득 4,000만 원에서 5,000만 원으로 완화한다. 시는 최근 전월세 부담이 커지는 상황을 반영해 ‘청년 임차보증금 이자지원사업’의 기준을 현실에 맞게 개선하고, 신청 절차도 간소화한다. 개선 사항은 6월 5일부터 적용한다. 청년 임차보증금 이자지원사업 주요 개선사항 ※ 시행일 : 2026. 6. 5.(금) 구분 ",
-      "eligibility": "만 19~39세 이하 무주택 세대주 청년 ○ 주택조건 : 임차보증금 3억원, 월세 90만원 이하 ○ 소득기준 : 연 5,000만원 이하(기혼: 부부합산 6,000만원 이하) ○ 대출한도 : 최대 2억원(임차보증금의 90% 이내), 최장 8년 ○ 지원금리 : 최대 3.0% (기본 2.0% + 한부모가족·자립준비청년 추가 1.0%) ○ 본인 부담 금리 : 대출금리 – 지원금리 ※ 의무부담 최저금",
-      "benefit": "서울시 - 내 손안에 서울 본문 바로가기 뉴스룸 내 손안에 서울 주요 서비스 바로 가기\" 뉴스 영상 매거진 어린이신문 공모전 이벤트 검색창 열기 메뉴 전체보기 통합검색 통합검색 검색 통합검색 닫기 뉴스 주요 서비스 바로 가기 기획·이슈 분야별 뉴스 비주얼 뉴스 우리동네 뉴스 시민기자 뉴스 팩트브리핑 맞춤 뉴스 레터구독 뉴스 서비스 바로 가기 뉴스 최신 뉴스 뉴스레터 모아보기 맞춤 뉴스 기획·",
+      "eligibility": "만 19~39세 이하 무주택 세대주 청년○ 주택조건 : 임차보증금 3억원, 월세 90만원 이하○ 소득기준 : 연 5,000만원 이하(기혼: 부부합산 6,000만원 이하)○ 대출한도 : 최대 2억원(임차보증금의 90% 이내), 최장 8년 ○ 지원금리 : 최대 3.0% (기본 2.0% + 한부모가족·자립준비청년 추가 1.0%)○ 본인 부담 금리 : 대출금리 – 지원금리 ※ 의무부담 최저금리 1%",
+      "benefit": "청년 임차보증금 이자지원…문턱 낮추고 절차 간소화 6.5.부터, 연소득 4,000만원→5,000만원 이하까지 서울시가 무주택 청년의 주거비 부담을 덜기 위한 ‘임차보증금 이자지원’의 소득 기준을 연소득 4,000만 원에서 5,000만 원으로 완화한다.",
       "period": "공식 공고 확인",
       "apply_method": "공식 신청처 확인",
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018213",
       "review_required": true,
-      "value_score": 24,
-      "checked_at": "2026-11-11T10:56:48+09:00"
+      "value_score": 21,
+      "checked_at": "2026-11-12T12:00:25+09:00"
+    },
+    {
+      "id": "auto-ee499a41264fc7a50b",
+      "title": "아이 낳고 키우기, 얼마나 달라졌나? '서울 아이동행 프로젝트'",
+      "region": "전남광주통합특별시",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "서울시 저출생 대응 정책 성과공유회 엄마가 접수를 확인하는 동안 유모차에 앉은 아이가 뒤를 돌아보며 방긋 웃었다. 나도 모르게 미소가 번졌다. 행사장 곳곳에 유모차가 보였고 간간이 아이 울음소리도 들렸다. 평소 정책 행사와는 사뭇 다른 풍경이었다. 11월 10일 오전 10시 서울시청 지하 1층 서울갤러리에서 서울시 저출생 대응 정책 성과공유회 ‘서울 아이동행 UP’이 열렸다. 아이와 함께 온 부모들은 객석에서 행사를 지켜봤고, 일부는 서울갤러리 키즈라운지에서 아",
+      "eligibility": "을 넓히고 손주를 돌보는 조부모의 건강관리 비용도 새로 지원할 계획 이다",
+      "benefit": "난임시술비 지원 확대, 서울형 키즈카페·우리동네키움센터·서울아이 든든한끼 등 이용 사례가 소개됐으며, 새 프로젝트는 3대 분야 111개 사업으로 추진된다.",
+      "period": "공식 공고 확인",
+      "apply_method": "공식 신청처 확인",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2020006",
+      "review_required": true,
+      "value_score": 20,
+      "checked_at": "2026-11-12T12:00:11+09:00"
     },
     {
       "id": "auto-9776d0a76dae3f4fb0",
@@ -7211,8 +7228,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019876",
       "review_required": true,
-      "value_score": 13,
-      "checked_at": "2026-11-11T10:56:50+09:00"
+      "value_score": 17,
+      "checked_at": "2026-11-12T12:00:13+09:00"
     },
     {
       "id": "auto-ed8318077a1ea150f7",
@@ -7228,8 +7245,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019933",
       "review_required": true,
-      "value_score": 11,
-      "checked_at": "2026-11-11T10:56:50+09:00"
+      "value_score": 14,
+      "checked_at": "2026-11-12T12:00:13+09:00"
     },
     {
       "id": "auto-6ba16c23ef5518242e",
@@ -7245,8 +7262,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019188",
       "review_required": true,
-      "value_score": 10,
-      "checked_at": "2026-11-11T10:56:48+09:00"
+      "value_score": 13,
+      "checked_at": "2026-11-12T12:00:12+09:00"
     },
     {
       "id": "auto-018869e6b36192bfaf",
@@ -7262,8 +7279,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019069",
       "review_required": true,
-      "value_score": 10,
-      "checked_at": "2026-11-11T10:56:48+09:00"
+      "value_score": 13,
+      "checked_at": "2026-11-12T12:00:12+09:00"
     },
     {
       "id": "auto-a256f4aec100242e77",
@@ -7279,8 +7296,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019507",
       "review_required": true,
-      "value_score": 7,
-      "checked_at": "2026-11-11T10:56:56+09:00"
+      "value_score": 10,
+      "checked_at": "2026-11-12T12:00:18+09:00"
     },
     {
       "id": "auto-0da427646ae59c013d",
@@ -7296,8 +7313,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018574",
       "review_required": true,
-      "value_score": 7,
-      "checked_at": "2026-11-11T10:56:50+09:00"
+      "value_score": 10,
+      "checked_at": "2026-11-12T12:00:14+09:00"
     },
     {
       "id": "auto-56b8a53353b2b8bd03",
@@ -7313,25 +7330,25 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019956",
       "review_required": true,
-      "value_score": 6,
-      "checked_at": "2026-11-11T10:56:51+09:00"
+      "value_score": 10,
+      "checked_at": "2026-11-12T12:00:14+09:00"
     },
     {
-      "id": "auto-7143bbc00c9d61f198",
-      "title": "커피모임, 함께 걷기로 외로움 던다…할인·적립 혜택까지",
+      "id": "auto-bc23ad1940c68fba7a",
+      "title": "밥값 아끼고 5% 돌려받자! 우리 동네 착한가격업소",
       "region": "서울",
       "category": "주거",
       "status": "확인필요",
-      "summary": "서울시는 건강한 생활 습관과 아침 문화를 경험하는 행사부터 독서와 걷기를 통해 서로에게 위로를 전하는 챌린지까지, 시민들이 각자의 일상에서 부담 없이 참여할 수 있는 프로그램을 마련해 ‘외로움 없는 서울’을 만들어 나갈 계획이다. 이번 사업은 시민들이 함께하는 활동을 통해 일상 속 활력을 찾고, 서로의 경험과 마음을 나누며 사회적 연결을 넓힐 수 있도록 기획됐다. 서울시는 올리브영(올리브베러)·SMCC 및 알라딘 등 민간 파트너와 협력해 온라인과 오프라인을 아우",
+      "summary": "요즘 외식 물가가 너무 올라서 밥 한 끼를 사 먹을 때마다 메뉴판 가격을 보게 된다. 조금이라도 생활비를 아껴볼 방법을 고민하던 중 서울시에서 11월 30일까지 진행하는 ‘착한가격업소 페이백 이벤트’ 소식을 접했다. ☞ [관련 기사] 착한가격업소, 서울사랑상품권 결제하고 5% 돌려받으세요! 평소 지나치기만 했던 우리 동네 착한가격업소를 직접 찾아가 서울사랑상품권으로 결제해 보니, 서울시의 물가 정책을 체감할 수 있었다. 착한가격업소는 행정안전부와 서울시, 자치구",
       "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "서울시 - 내 손안에 서울 본문 바로가기 뉴스룸 내 손안에 서울 주요 서비스 바로 가기\" 뉴스 영상 매거진 어린이신문 공모전 이벤트 검색창 열기 메뉴 전체보기 통합검색 통합검색 검색 통합검색 닫기 뉴스 주요 서비스 바로 가기 기획·이슈 분야별 뉴스 비주얼 뉴스 우리동네 뉴스 시민기자 뉴스 팩트브리핑 맞춤 뉴스 레터구독 뉴스 서비스 바로 가기 뉴스 최신 뉴스 뉴스레터 모아보기 맞춤 뉴스 기획·",
-      "period": "11월 2일~12월 6일",
+      "benefit": "페이백은 1인당 월 최대 5만 원까지이며 11월 20일과 12월 20일에 지급된다.",
+      "period": "9월 14일~11월 30일",
       "apply_method": "공식 신청처 확인",
       "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019849",
+      "url": "https://mediahub.seoul.go.kr/archives/2019991",
       "review_required": true,
-      "value_score": 3,
-      "checked_at": "2026-11-11T10:56:54+09:00"
+      "value_score": 8,
+      "checked_at": "2026-11-12T12:00:19+09:00"
     },
     {
       "id": "auto-ec4a2c946bdecf4aa2",
@@ -7347,8 +7364,25 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019925",
       "review_required": true,
-      "value_score": 3,
-      "checked_at": "2026-11-11T10:56:58+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-12T12:00:19+09:00"
+    },
+    {
+      "id": "auto-7143bbc00c9d61f198",
+      "title": "커피모임, 함께 걷기로 외로움 던다…할인·적립 혜택까지",
+      "region": "서울",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "서울시는 건강한 생활 습관과 아침 문화를 경험하는 행사부터 독서와 걷기를 통해 서로에게 위로를 전하는 챌린지까지, 시민들이 각자의 일상에서 부담 없이 참여할 수 있는 프로그램을 마련해 ‘외로움 없는 서울’을 만들어 나갈 계획이다. 이번 사업은 시민들이 함께하는 활동을 통해 일상 속 활력을 찾고, 서로의 경험과 마음을 나누며 사회적 연결을 넓힐 수 있도록 기획됐다. 서울시는 올리브영(올리브베러)·SMCC 및 알라딘 등 민간 파트너와 협력해 온라인과 오프라인을 아우",
+      "eligibility": "공식 공고에서 자격 확인",
+      "benefit": "서울시 - 내 손안에 서울 본문 바로가기 뉴스룸 내 손안에 서울 주요 서비스 바로 가기\" 뉴스 영상 매거진 어린이신문 공모전 이벤트 검색창 열기 메뉴 전체보기 통합검색 통합검색 검색 통합검색 닫기 뉴스 주요 서비스 바로 가기 기획·이슈 분야별 뉴스 비주얼 뉴스 우리동네 뉴스 시민기자 뉴스 팩트브리핑 맞춤 뉴스 레터구독 뉴스 서비스 바로 가기 뉴스 최신 뉴스 뉴스레터 모아보기 맞춤 뉴스 기획·",
+      "period": "11월 2일~12월 6일",
+      "apply_method": "공식 신청처 확인",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2019849",
+      "review_required": true,
+      "value_score": 6,
+      "checked_at": "2026-11-12T12:00:17+09:00"
     },
     {
       "id": "auto-dcfdae883cab1c08c8",
@@ -7364,8 +7398,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019922",
       "review_required": true,
-      "value_score": 2,
-      "checked_at": "2026-11-11T10:56:58+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-12T12:00:20+09:00"
     },
     {
       "id": "auto-01b151af8f724c2892",
@@ -7381,8 +7415,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019896",
       "review_required": true,
-      "value_score": 18,
-      "checked_at": "2026-11-11T10:56:48+09:00"
+      "value_score": 21,
+      "checked_at": "2026-11-12T12:00:11+09:00"
     },
     {
       "id": "auto-2dad00c6e7b732ed7c",
@@ -7398,8 +7432,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019784",
       "review_required": true,
-      "value_score": 6,
-      "checked_at": "2026-11-11T10:56:54+09:00"
+      "value_score": 10,
+      "checked_at": "2026-11-12T12:00:17+09:00"
     },
     {
       "id": "auto-d8185b55c479e3cae5",
@@ -7415,42 +7449,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019912",
       "review_required": true,
-      "value_score": 5,
-      "checked_at": "2026-11-11T10:56:53+09:00"
-    },
-    {
-      "id": "auto-6942f5a635d7ebd931",
-      "title": "퇴근길, 배꼽시계가 울리면 전통시장으로! 야간 음식문화 축제 열린다",
-      "region": "전남광주통합특별시",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "앞으로 서울의 밤이 더 풍요로워집니다. 시민들은 퇴근 후 가족과 운동·문화 프로그램을 즐기고, 저녁의 활기는 관광명소와 골목상권으로 이어집니다. 더 여유롭고 안전한 서울의 밤을 만들어갈 ‘24시간 활력경제도시, 서울’을 많이 기대해 주세요. 퇴근 시간, 발길을 집 대신 동네 전통시장으로 돌려보면 어떨까. 서울시가 10월 한 달 12개 자치구 22개 전통시장·상점가에서 '2026년 전통시장 야간·음식문화 활성화 지원사업'을 시작하면서, 서울 곳곳의 시장들이 저녁마",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "닫기 서울시는 10월 한 달 12개 자치구 22개 전통시장·상점가에서 ‘전통시장 야간·음식문화 활성화 지원사업’을 진행한다.",
-      "period": "공식 공고 확인",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019625",
-      "review_required": true,
-      "value_score": 5,
-      "checked_at": "2026-11-11T10:56:58+09:00"
-    },
-    {
-      "id": "auto-85f5f36417c5627af4",
-      "title": "저녁 활기 되찾은 고척골목시장, 비결은 ‘고척 밤마실’",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "밤이 부쩍 일찍 찾아오는 10월, 장을 보러 들르던 동네 시장이 저녁 나들이 장소로 변신했다. 10월 15일부터 17일까지 사흘간 구로구 고척골목시장 상점가 일대와 주차장에서 ‘고척 밤마실, 맛과 낭만이 켜지다’가 열리고 있다. 서울시 ‘전통시장 야간·음식문화 활성화 지원사업’으로 마련된 행사로, 서울시는 올가을 12개 자치구 23개 전통시장과 상점가에서 시장별 특색을 살린 야간 축제를 진행하고 있다. 그중 하나인 고척골목시장은 오후 2시부터 8시까지 운영하며,",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "서울시 전통시장 야간·음식문화 활성화 지원사업으로 마련된 행사로, 국악·마술·장기자랑과 체험부스, 특별 먹거리, 구매 쿠폰 혜택을 제공한다.",
-      "period": "공식 공고 확인",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019738",
-      "review_required": true,
-      "value_score": 4,
-      "checked_at": "2026-11-11T10:56:56+09:00"
+      "value_score": 9,
+      "checked_at": "2026-11-12T12:00:16+09:00"
     },
     {
       "id": "auto-839af91d833c413931",
@@ -7466,8 +7466,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019901",
       "review_required": true,
-      "value_score": 4,
-      "checked_at": "2026-11-11T10:56:51+09:00"
+      "value_score": 8,
+      "checked_at": "2026-11-12T12:00:14+09:00"
     },
     {
       "id": "auto-4636464b81c440b4b7",
@@ -7483,8 +7483,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019954",
       "review_required": true,
-      "value_score": 3,
-      "checked_at": "2026-11-11T10:57:03+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-12T12:00:23+09:00"
     },
     {
       "id": "auto-d6afe9f8709aed47fd",
@@ -7500,8 +7500,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019917",
       "review_required": true,
-      "value_score": 3,
-      "checked_at": "2026-11-11T10:57:00+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-12T12:00:21+09:00"
     },
     {
       "id": "auto-ff767863762f1e6790",
@@ -7517,8 +7517,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019963",
       "review_required": true,
-      "value_score": 3,
-      "checked_at": "2026-11-11T10:57:02+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-12T12:00:22+09:00"
     },
     {
       "id": "auto-9159601e1908bf9dce",
@@ -7534,8 +7534,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019785",
       "review_required": true,
-      "value_score": 3,
-      "checked_at": "2026-11-11T10:57:04+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-12T12:00:25+09:00"
     },
     {
       "id": "auto-7684b5a88fdc00e88e",
@@ -7551,25 +7551,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019980",
       "review_required": true,
-      "value_score": 3,
-      "checked_at": "2026-11-11T10:57:02+09:00"
-    },
-    {
-      "id": "auto-0d2080bd12d7f6655d",
-      "title": "문 앞에 물만 내놓으면 끝! 아리수 무료 비대면 수질검사 받아보니",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "지난 여름 오스트리아 비엔나를 여행하면서 인상 깊었던 장면이 있다. 바로 공원이나 길거리에 설치된 식수대에서 사람들이 개인컵에 물을 받아 마시는 모습이었다. 평소 수돗물을 마시는 사람들을 보며 수돗물에 대한 시민들의 신뢰가 일상 속에 얼마나 자연스럽게 자리 잡고 있는지 느낄 수 있었다. 그렇다면 우리가 매일 사용하는 서울의 수돗물은 어떨까? 평소 아리수가 깨끗하다는 이야기는 많이 들었지만, 막상 우리 집 수도꼭지에서 나오는 물의 수질은 또 어떨지 궁금했다. 수돗",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "올해 6월까지 먹는 물 기준 초과 사례는 없었으며, 이상이 확인되면 배관 점검·세척과 노후관 교체 지원을 연계한다.",
-      "period": "공식 공고 확인",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019701",
-      "review_required": true,
-      "value_score": 4,
-      "checked_at": "2026-11-11T10:56:53+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-12T12:00:24+09:00"
     },
     {
       "id": "auto-37a7c25b69c75773dc",
@@ -7585,8 +7568,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019761",
       "review_required": true,
-      "value_score": 2,
-      "checked_at": "2026-11-11T10:57:04+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-12T12:00:25+09:00"
     },
     {
       "id": "auto-23546017ba8fd989f9",
@@ -7602,8 +7585,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018610",
       "review_required": true,
-      "value_score": 1,
-      "checked_at": "2026-11-11T10:57:00+09:00"
+      "value_score": 5,
+      "checked_at": "2026-11-12T12:00:21+09:00"
     },
     {
       "id": "gov24-7f8329fb7e0933c493",
