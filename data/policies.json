@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T11:11:39+09:00",
-  "policy_count": 445,
+  "updated_at": "2026-11-17T13:31:31+09:00",
+  "policy_count": 461,
   "sources": [
     "경기민원24",
     "광주청년통합플랫폼",
@@ -26,7 +26,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=853",
       "review_required": false,
       "value_score": 20,
-      "checked_at": "2026-11-16T11:09:57+09:00"
+      "checked_at": "2026-11-17T13:29:46+09:00"
     },
     {
       "id": "gov24-88f73778563d4e1fcf",
@@ -403,7 +403,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=838",
       "review_required": false,
       "value_score": 11,
-      "checked_at": "2026-11-16T11:10:07+09:00"
+      "checked_at": "2026-11-17T13:29:58+09:00"
     },
     {
       "id": "gov24-dee88cee1e0f31c728",
@@ -1248,7 +1248,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=929",
       "review_required": false,
       "value_score": 9,
-      "checked_at": "2026-11-16T11:10:07+09:00"
+      "checked_at": "2026-11-17T13:29:58+09:00"
     },
     {
       "id": "auto-4b62362ffd2e968225",
@@ -1265,7 +1265,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=945",
       "review_required": false,
       "value_score": 9,
-      "checked_at": "2026-11-16T11:10:00+09:00"
+      "checked_at": "2026-11-17T13:29:53+09:00"
     },
     {
       "id": "gov24-2cd6faf831f74bc667",
@@ -2132,6 +2132,24 @@
       "service_id": "135200000120"
     },
     {
+      "id": "gov24-47469d91ddcea13047",
+      "title": "시흥시 관내 대학생 지원금",
+      "summary": "지원요건을 충족한 대학(원)생에게 시흥화폐 시루 20만 원 지급",
+      "region": "경기",
+      "category": "일자리",
+      "status": "신청가능",
+      "eligibility": "연령 19~35세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 대학생·대학원생 · 다문화가족 · 아래의 조건을 모두 충족하는 자(신청일 기준) ① 시흥시 소재 대학(원)에 재학 중인 자(휴학생 및 졸업생 제외) ② 「주민등록법」에 따라 시흥시에 주소를 두고 3개월 이상 계속 거주 중인 자 ③ 2026년 시흥시 지정 취·창업 역량 강화 프로그램 수료자 ※ 「시흥시 관내 대학",
+      "benefit": "시흥시에 3개월 이상 계속 거주하고, 시흥시 소재 대학(원)에 재학 중이며, 지정된 취·창업 연계 프로그램을 수료한 대학(원)생에게 시흥화폐 시루 20만 원 지급 ※ 최초 1회 지급(중복 지급 불가) ※ 모바일 시루 지급 원칙. 단, 본인 명의 휴대폰 미소지자 및 2G폰 사용자는 지류화폐 지급 ※ 사용처 : 학원·교육, 도서·문화·공연 등 지정 업종 제한",
+      "period": "2026.11.16~2026.11.27",
+      "apply_method": "정부24온라인신청||신청불필요",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169644&bnefType=all&svcId=401000000507",
+      "review_required": false,
+      "value_score": 8,
+      "source_updated_at": "20261116085900",
+      "service_id": "401000000507"
+    },
+    {
       "id": "gov24-1ff60dfa0a88a21fc1",
       "title": "시간제보육 지원",
       "summary": "가정양육 부모가 긴급.일시적으로 보육시설 이용이 필요한 경우 시간제보육 서비스 지원",
@@ -2326,7 +2344,7 @@
       "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=510227&bnefType=all&svcId=127000000023",
       "review_required": false,
       "value_score": 8,
-      "source_updated_at": "20260909163524",
+      "source_updated_at": "20261105002304",
       "service_id": "127000000023"
     },
     {
@@ -2399,6 +2417,24 @@
       "review_required": false,
       "value_score": 8,
       "source_updated_at": "20260814111204",
+      "service_id": "174100000088"
+    },
+    {
+      "id": "gov24-1d2a43febc67e072ab",
+      "title": "구직자 도약보장 패키지",
+      "summary": "일대일(1:1) 심층상담을 통한 맞춤형 취업지원 서비스 제공",
+      "region": "중앙정부",
+      "category": "일자리",
+      "status": "신청가능",
+      "eligibility": "연령 18~65세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 구직자·실업자 · 다문화가족 · ▴ 일자리를 구하고 있지만 오랫동안 경력이 단절되어 새로운 일자리를 찾기 어려운 사람 ▴ 진로,직업선택을 고민하고 있는 청년 ▴ 직업을 바꾸기 위해 실질적인 도움이 필요한 사람 ▴ 일자리를 잃고 처음 실업급여를 신청한 사람 ▴ 실업급여를 수급하면서 다시 취업하기 위해 노력하고 있",
+      "benefit": "○ 구직자의 경력개발단계, 구직애로 유형 등에 따라 AI 기반으로 '진단-심층경력 설계-맞춤형 취업지원'을 패키지로 제공 - 경력개발을 희망하는 구직자의 특성을 진단하여 경력설계-경력유지-경력전환 유형 파악 - 희망직종 관련 노동시장 정보 분석을 통한 일자리 소개 및 직무 추천 - 구직자 특성 진단을 통한 경력설계를 위한 목표 수립, 구체적인 프로그램 계획·실천 지원",
+      "period": "상시신청",
+      "apply_method": "방문신청",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2128278&bnefType=all&svcId=174100000088",
+      "review_required": false,
+      "value_score": 8,
+      "source_updated_at": "20261030171921",
       "service_id": "174100000088"
     },
     {
@@ -2546,6 +2582,24 @@
       "service_id": "360000000112"
     },
     {
+      "id": "gov24-06b4ab76e82b066175",
+      "title": "효드림수당",
+      "summary": "효도가구에 효드림수당 지원",
+      "region": "전남광주통합특별시",
+      "category": "생활비",
+      "status": "신청가능",
+      "eligibility": "연령 80~120세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 예비부모·난임 · 임산부 · ○ 광주 서구에서 80세이상 효도대상자를 모시는 3대(효도대상자-효도자-자녀)가 주민등록상 같은 주소에 2년 이상 거주한 가구",
+      "benefit": "○ 효도자에게 격월로 5만원 수당 지급",
+      "period": "상시신청",
+      "apply_method": "정부24온라인신청||방문신청",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001568&bnefType=all&svcId=360000000105",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261112085943",
+      "service_id": "360000000105"
+    },
+    {
       "id": "gov24-4ca87e9af307740812",
       "title": "홀몸 어르신 사랑의 음료 지원",
       "summary": "65세 이상 기초생활수급자 및 차상위계층 홀몸 어르신에게 음료 제공",
@@ -2636,6 +2690,24 @@
       "service_id": "310000000118"
     },
     {
+      "id": "gov24-289c6a6636655e1ed9",
+      "title": "청년성장프로젝트",
+      "summary": "미취업 청년 등의 일상 및 구직의욕 유지를 지원하는 지역사회 중심의 다양한 프로그램을 제공",
+      "region": "중앙정부",
+      "category": "일자리",
+      "status": "신청가능",
+      "eligibility": "연령 15~34세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 대학생·대학원생 · 구직자·실업자 · [청년카페] 15세 이상~34세 이하* 청년으로, 구체적인 지원대상은 사업 수행 자치단체에서 자율적으로 설정 (해당 기준에 포함되지 않더라도 자치단체 조례 등에서 지원의 필요성이 있다고 인정하는 경우에는 자치단체별 목표인원의 30%까지 참여 가능)",
+      "benefit": "① (인프라 제공) 청년 1:1 상담 등에 필요한 청년 친화적 공간 및 시설 등 인프라 제공 ② (프로그램 제공) ▴초기상담을 통해 개인 맞춤형 프로그램 설계·제안, ▴지역 청년의 일자리 상황 및 정주여건 등에 부합하는 다양한 프로그램 개설·제공 ③ (후속지원) 관련 청년고용정책을 안내·홍보하고, 참여자 취업상태 등 관리 * 청년일경험지원, 청년도전지원사업, 국민취업지원제도, 국민내일배움카드(직업훈련) 등",
+      "period": "상시신청",
+      "apply_method": "직접입력",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2128277&bnefType=all&svcId=174100000087",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261113163140",
+      "service_id": "174100000087"
+    },
+    {
       "id": "gov24-cda2c18876c6e8c5d1",
       "title": "첫걸음기업 금융지원 협약보증",
       "summary": "지역신보 보증을 처음 이용하는 소기업·소상공인에 사업안착 및 성장지원을 도모",
@@ -2706,6 +2778,24 @@
       "value_score": 7,
       "source_updated_at": "20261028102836",
       "service_id": "310000000121"
+    },
+    {
+      "id": "gov24-bb30b569b363e7eab4",
+      "title": "저소득 장애인 생일축하 지원",
+      "summary": "저소득 장애인에게 생일축하 전통시장상품권 전달",
+      "region": "서울",
+      "category": "생활비",
+      "status": "신청가능",
+      "eligibility": "연령 0~120세 · 중위소득 50% 이하 · 장애인 · 다문화가족 · 북한이탈주민 · 한부모·조손가정 · 1인가구 · 다자녀가구 · ○ 기초생활수급자(생계급여) 중 장애정도가 심한 장애인 (단, 65세 이상의 기초생활수급 독거노인은 제외됨- 외로운 어르신 생일축하 사업과 중복)",
+      "benefit": "○ 생일을 맞이한 저소득 장애인(생계급여 수급자 중 장애 정도가 심한 장애인)에게 1인당 50,000원의 전통시장상품권 전달",
+      "period": "상시신청",
+      "apply_method": "신청불필요",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000502&bnefType=all&svcId=312000000104",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261110170650",
+      "service_id": "312000000104"
     },
     {
       "id": "gov24-42dbe1c0bf46b4a260",
@@ -2942,6 +3032,24 @@
       "service_id": "374000000558"
     },
     {
+      "id": "gov24-3df4572f2c1ec25268",
+      "title": "수원시 난임부부 원외처방 약제비 지원(권선구)",
+      "summary": "난임 시술과 직접적 관련 있는 원외처방 약제비에 대해 정부지원금액 한도 내에서 지원",
+      "region": "경기",
+      "category": "복지",
+      "status": "신청가능",
+      "eligibility": "연령 18~48세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 예비부모·난임 · 난임부부 시술비 지원사업 대상자 중 해당 지원 회차의 정부 지원금 잔액이 남은 자",
+      "benefit": "난임 시술과 직접적 관련 있는 원외처방 약제비에 대해 정부지원금액 한도 내에서 지원",
+      "period": "상시신청",
+      "apply_method": "정부24온라인신청||방문신청||직접입력",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2125610&bnefType=all&svcId=374000000559",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261110113515",
+      "service_id": "374000000559"
+    },
+    {
       "id": "gov24-150175c84b5d58b9e0",
       "title": "소기업·소상공인 전환보증",
       "summary": "소기업·소상공인에게 만기상환 구조 전환을 통해 경영 안정을 지원",
@@ -2958,6 +3066,42 @@
       "value_score": 7,
       "source_updated_at": "20260814110652",
       "service_id": "142100000073"
+    },
+    {
+      "id": "gov24-ba6677804a5731c01d",
+      "title": "서리풀 희망사다리 프로젝트 자립준비청년(보호종료아동) 생활보조수당 지원",
+      "summary": "자립준비청년에게 생활보조수당 지원",
+      "region": "서울",
+      "category": "일자리",
+      "status": "신청가능",
+      "eligibility": "연령 17~18세 · 중위소득 50% 이하 · 대학생·대학원생 · 근로자·직장인 · 구직자·실업자 · 다문화가족 · 북한이탈주민 · 한부모·조손가정 · 서초구에서 1년이상 거주중인 자립준비청년(보호종료아동) 중 기준중위소득 50%이하의 청년",
+      "benefit": "서초구에서 1년이상 거주중인 자립준비청년(보호종료아동) 중 기준중위소득 50% 이하 청년에게 생활보조수당 300천원(인/월) 지원",
+      "period": "상시신청",
+      "apply_method": "방문신청",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003268&bnefType=all&svcId=321000000114",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261110104853",
+      "service_id": "321000000114"
+    },
+    {
+      "id": "gov24-415359c102a6db4aec",
+      "title": "서리풀 희망사다리 프로젝트 자립준비청년(보호종료아동) 교육비 지원",
+      "summary": "자립준비청년에게 대학등록금 및 학원비 등 지원",
+      "region": "서울",
+      "category": "일자리",
+      "status": "신청가능",
+      "eligibility": "연령 17~18세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 예비부모·난임 · 임산부 · 서초구에서 1년이상 거주중인 자립준비청년(보호종료아동) 중 취업, 학업 등의 사유로 교육비 지원을 신청한 자",
+      "benefit": "교육비(대학등록금) 연 300만원 내 실비지원(1회 150만원) 교육비(학원비) 연 200만원 내 실비지원(1회 100만원)",
+      "period": "상시신청",
+      "apply_method": "방문신청",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003274&bnefType=all&svcId=321000000115",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261110103119",
+      "service_id": "321000000115"
     },
     {
       "id": "gov24-5e1ca050a5a973c6c5",
@@ -3302,6 +3446,23 @@
       "service_id": "398000000298"
     },
     {
+      "id": "auto-da76cf72bf4d183821",
+      "title": "접수중 경기청년 기회사다리금융 > 2025.04.21(월) ~ 한도 소진시 까지 온라인 접수",
+      "region": "경기",
+      "category": "주거",
+      "status": "신청가능",
+      "summary": "혜택: 산후 산후조리비 지원사업 2021년도 산후조리비 지원사업 검색 추천 검색어 #기회소득 #대출이자 #산후조리비 #건강과일 #생리용품 닫기 경기민원24 소개 선택됨 경기민원24 소개 경기민원24 신청방법 선택됨 경기민원 신청 선택됨 민원행정 서비스 이용안내 공지사항 자주하는 질문 자료실 나의 서비스 민원신청 내역 관심서비스 나의 정보 수정 자동 로그아웃 5분 00초 후 자동 로그아웃 예정입니다.",
+      "eligibility": "신청대상자 ㅇ 아래 ①, ② 요건을 모두 충족하는 경우 신청 가능 ① 신청일 현재 경기도에 주민등록을 둔 1년 이상 계속 거주 25~39세 청년 (재외국민, 외국인, 해외체류 제외) ② 연체, 부도 등 해당사항이 없는 사람 ※ 세부사항 하단 붙임 공고문 참조 (다만, 채무조정 확정 후 12개월(12회차) 이상 성실상환 중인 사람은 신청 가능) ※ 대출 심사일 기준 기 대출액 5천만원 이상인 ",
+      "benefit": "산후 산후조리비 지원사업 2021년도 산후조리비 지원사업 검색 추천 검색어 #기회소득 #대출이자 #산후조리비 #건강과일 #생리용품 닫기 경기민원24 소개 선택됨 경기민원24 소개 경기민원24 신청방법 선택됨 경기민원 신청 선택됨 민원행정 서비스 이용안내 공지사항 자주하는 질문 자료실 나의 서비스 민원신청 내역 관심서비스 나의 정보 수정 자동 로그아웃 5분 00초 후 자동 로그아웃 예정입니다.",
+      "period": "공식 공고 확인",
+      "apply_method": "안내 ‧ [1단계-경기민원24] 경기도 콜센터 ☎ 031-120 ‧ [2단계-하나은행] 하나은행 대표전화 ☎ 1599-2121 - 정책 내용 : 경기도 경제실 지역금융과 ☎ 031-8008-6128 더보기",
+      "source_name": "경기민원24",
+      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=854",
+      "review_required": false,
+      "value_score": 10,
+      "checked_at": "2026-11-17T13:29:57+09:00"
+    },
+    {
       "id": "gov24-c52a5075b5f9cf9558",
       "title": "이천시 난임부부 시술비 약제비 지원",
       "summary": "난임시술과 직접적 관련이 있는 약제비에 대해 정부지원금액 한도 내에서 지원",
@@ -3424,7 +3585,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=936",
       "review_required": false,
       "value_score": 8,
-      "checked_at": "2026-11-16T11:10:08+09:00"
+      "checked_at": "2026-11-17T13:29:58+09:00"
     },
     {
       "id": "gov24-d6ed0436f5ec4db48a",
@@ -3531,7 +3692,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": false,
       "value_score": 6,
-      "checked_at": "2026-11-16T11:09:52+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3548,7 +3709,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": false,
       "value_score": 6,
-      "checked_at": "2026-11-16T11:09:52+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-35b1288a4ce98e8f30",
@@ -3565,7 +3726,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=867",
       "review_required": false,
       "value_score": 4,
-      "checked_at": "2026-11-16T11:10:16+09:00"
+      "checked_at": "2026-11-17T13:30:07+09:00"
     },
     {
       "id": "auto-3fb055bb8aa13d810d",
@@ -3582,7 +3743,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=803",
       "review_required": false,
       "value_score": 1,
-      "checked_at": "2026-11-16T11:10:25+09:00"
+      "checked_at": "2026-11-17T13:30:16+09:00"
     },
     {
       "id": "auto-3675b23019e6e87ed9",
@@ -3599,7 +3760,7 @@
       "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=939",
       "review_required": false,
       "value_score": 1,
-      "checked_at": "2026-11-16T11:10:25+09:00"
+      "checked_at": "2026-11-17T13:30:14+09:00"
     },
     {
       "id": "gov24-8c0d2b4c13a58d0f73",
@@ -3670,7 +3831,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 13,
-      "checked_at": "2026-11-16T11:09:47+09:00"
+      "checked_at": "2026-11-17T13:29:40+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3687,7 +3848,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 11,
-      "checked_at": "2026-11-16T11:09:50+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3704,7 +3865,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-11-16T11:09:50+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3721,7 +3882,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-11-16T11:09:50+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3738,7 +3899,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 7,
-      "checked_at": "2026-11-16T11:09:52+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3755,7 +3916,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-11-16T11:09:52+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3772,7 +3933,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-11-16T11:09:55+09:00"
+      "checked_at": "2026-11-17T13:29:47+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3789,7 +3950,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 3,
-      "checked_at": "2026-11-16T11:09:58+09:00"
+      "checked_at": "2026-11-17T13:29:50+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3806,7 +3967,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 3,
-      "checked_at": "2026-11-16T11:09:58+09:00"
+      "checked_at": "2026-11-17T13:29:50+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3823,7 +3984,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 2,
-      "checked_at": "2026-11-16T11:10:04+09:00"
+      "checked_at": "2026-11-17T13:29:53+09:00"
     },
     {
       "id": "real-jngj-cert",
@@ -3855,24 +4016,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 19,
-      "checked_at": "2026-11-16T11:09:47+09:00"
-    },
-    {
-      "id": "auto-da76cf72bf4d183821",
-      "title": "접수중 경기청년 기회사다리금융 > 2025.04.21(월) ~ 한도 소진시 까지 온라인 접수",
-      "region": "경기",
-      "category": "금융",
-      "status": "신청가능",
-      "summary": "접수중 경기청년 기회사다리금융 > 2025.04.21(월) ~ 한도 소진시 까지 온라인 접수",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "공식 공고에서 지원내용 확인",
-      "period": "공식 공고 확인",
-      "apply_method": "온라인 접수",
-      "source_name": "경기민원24",
-      "url": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=854",
-      "review_required": true,
-      "value_score": 2,
-      "checked_at": "2026-11-16T11:10:25+09:00"
+      "checked_at": "2026-11-17T13:29:40+09:00"
     },
     {
       "id": "auto-e23e0a2f11277425bb",
@@ -3889,24 +4033,7 @@
       "url": "https://youth.gwangju.go.kr/www/dream/policyList",
       "review_required": true,
       "value_score": 4,
-      "checked_at": "2026-11-16T11:09:55+09:00"
-    },
-    {
-      "id": "auto-62d6ce9498bc0e039a",
-      "title": "올해 서울을 빛낸 최고의 건축물! 서울시 건축상 대상은 바로~",
-      "region": "전남광주통합특별시",
-      "category": "주거",
-      "status": "신청가능",
-      "summary": "8월 5일까지 시민공감특별상 시민투표 진행 시민들이 오가는 일상 보행길을 미술관 내부로 자연스럽게 끌어들여 문턱을 낮춘 서울시립서서울미술관이 올해 서울시 최고 건축물의 영예를 안았다. 서울시는 제44회 서울특별시 건축상 수상작으로 금천구 독산동의 ‘서울시립 서서울미술관’을 포함해 완공 부문 10개, 학생 아이디어 부문 10개 등 총 20개 작품을 최종 발표했다. 1979년 시작해 올해로 44회를 맞은 서울시 건축상은 서울시를 대표하는 최고 권위의 건축상이다. 올",
-      "eligibility": "바로~ 내 손안에 서울 발행일 2026",
-      "benefit": "전자고지 신청 혜택 3년 더 4 술도 안 마시는데 '지방간'…내 간 건강, 괜찮을까 5 서울시 민간축제 지원사업과 함께한 'K-트롯 페스티벌', 오늘은 내가 주인공!",
-      "period": "7월 23일~8월 5일",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2018851",
-      "review_required": false,
-      "value_score": 9,
-      "checked_at": "2026-11-16T11:09:57+09:00"
+      "checked_at": "2026-11-17T13:29:47+09:00"
     },
     {
       "id": "auto-7de8cc85ba959a7eda",
@@ -3922,8 +4049,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019652",
       "review_required": false,
-      "value_score": 9,
-      "checked_at": "2026-11-16T11:10:02+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-17T13:29:53+09:00"
     },
     {
       "id": "auto-daf15f0bf69fc65b4b",
@@ -3939,8 +4066,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019387",
       "review_required": false,
-      "value_score": 8,
-      "checked_at": "2026-11-16T11:09:57+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-17T13:29:50+09:00"
     },
     {
       "id": "auto-9defeca05665f6d2fa",
@@ -3956,8 +4083,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019978",
       "review_required": false,
-      "value_score": 8,
-      "checked_at": "2026-11-16T11:10:02+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-17T13:29:53+09:00"
     },
     {
       "id": "auto-97e1b07c8a4a64be4f",
@@ -3973,8 +4100,25 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019910",
       "review_required": true,
-      "value_score": 9,
-      "checked_at": "2026-11-16T11:10:04+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-17T13:29:55+09:00"
+    },
+    {
+      "id": "auto-62d6ce9498bc0e039a",
+      "title": "올해 서울을 빛낸 최고의 건축물! 서울시 건축상 대상은 바로~",
+      "region": "전남광주통합특별시",
+      "category": "주거",
+      "status": "신청가능",
+      "summary": "8월 5일까지 시민공감특별상 시민투표 진행 시민들이 오가는 일상 보행길을 미술관 내부로 자연스럽게 끌어들여 문턱을 낮춘 서울시립서서울미술관이 올해 서울시 최고 건축물의 영예를 안았다. 서울시는 제44회 서울특별시 건축상 수상작으로 금천구 독산동의 ‘서울시립 서서울미술관’을 포함해 완공 부문 10개, 학생 아이디어 부문 10개 등 총 20개 작품을 최종 발표했다. 1979년 시작해 올해로 44회를 맞은 서울시 건축상은 서울시를 대표하는 최고 권위의 건축상이다. 올",
+      "eligibility": "바로~ 내 손안에 서울 발행일 2026",
+      "benefit": "공식 공고에서 지원내용 확인",
+      "period": "7월 23일~8월 5일",
+      "apply_method": "공식 신청처 확인",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2018851",
+      "review_required": true,
+      "value_score": 6,
+      "checked_at": "2026-11-17T13:29:49+09:00"
     },
     {
       "id": "real-gg-youth-futureplus",
@@ -6314,6 +6458,24 @@
       "service_id": "142000000039"
     },
     {
+      "id": "gov24-fb3779ac4feefd65b2",
+      "title": "표준사업장 설립 지원",
+      "summary": "장애인표준사업장을 희망하는 사업주에게 투자액의 최대 75% 지원",
+      "region": "중앙정부",
+      "category": "일자리",
+      "status": "확인필요",
+      "eligibility": "중소기업 · ○ 사업주(장애인 표준사업장을 설립, 운영하고자 하는 사업주, 단, 장애인복지법 제58조 제1항 제3호에 따른 장애인 직업재활시설은 제외)",
+      "benefit": "○ 지원 대상자로 선정된 사업주에게 실제 투자액의 최대 75%를 지원 ○ 지원한도: 10억 원 이내(신규 장애인 고용인원에 따라 지원 한도 차등 적용), 단, 컨소시엄형 표준사업장은 최대 20억원 이내 지원 * 장애인 표준사업장 무상지원금 한도의 10분의 9이상 지원 사업장 중 작업·생산·편의시설 개선 및 장애인 추가 고용을 희망하는 경우 무상지원금 5억원 이내 추가 지원",
+      "period": "수시신청(예산소진시까지)",
+      "apply_method": "기타 온라인신청||방문신청",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=516701&bnefType=all&svcId=149200000079",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261113163157",
+      "service_id": "149200000079"
+    },
+    {
       "id": "gov24-7d55430045615bfc9d",
       "title": "친환경퇴비생산시설 현대화지원",
       "summary": "○ 노후화 된 퇴비 생산시설 개·보수 지원",
@@ -6384,6 +6546,42 @@
       "value_score": 7,
       "source_updated_at": "20260814135912",
       "service_id": "154300005007"
+    },
+    {
+      "id": "gov24-655ace3f2be824745c",
+      "title": "청년 행정체험단 운영",
+      "summary": "성동구 거주 19~29세 청년 대상 청년 행정체험단 운영",
+      "region": "서울",
+      "category": "일자리",
+      "status": "확인필요",
+      "eligibility": "연령 19~29세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 구직자·실업자 · 다문화가족 · 모집공고일 기준 성동구에 주민등록된 19~29세 청년",
+      "benefit": "▢ 사 업 명: 2026년 청년 행정체험단 ▢ 사업기간: 2026년 상반기(1~2월) 및 하반기(7~8월) ▢ 사업대상: 성동구 거주 19~29세 청년 ▢ 근무조건: 주 5일, 1일 5시간 근무, 2026년 성동구 생활임금 적용(12,121원) ▢ 근무장소: 구청 각 부서 및 보건소, 동 주민센터, 도서관 등 ▢ 근무내용: 행정·복지 업무 보조, 정책 아이디어 제안 등",
+      "period": "모집 시 성동구 홈페이지 공고",
+      "apply_method": "기타 온라인신청",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2161817&bnefType=all&svcId=303000000325",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261112105545",
+      "service_id": "303000000325"
+    },
+    {
+      "id": "gov24-cfaa33e71ca28a628d",
+      "title": "청년 행정아르바이트",
+      "summary": "청년 행정체험 일자리 제공",
+      "region": "서울",
+      "category": "일자리",
+      "status": "확인필요",
+      "eligibility": "연령 19~29세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 대학생·대학원생 · 장애인 · 모집 공고일 현재 광진구에 주민등록이 되어있는 청년 ※ 청년고용촉진특별법 준용 19세~29세 ※ 특별선발 : 국민기초생활수급권자, 차상위계층, 저소득 한부모 가족, 등록장애인, 북한이탈주민, 국가유공자 및 자녀",
+      "benefit": "관내 주민등록 되어있는 청년 대상으로 행정체험 기회 제공 - 청년 기준: 청년고용촉진특별법 준용 19세~29세 - 주5일, 1일 4시간 근무에 대해 광진구 생활임금을 기준으로 임금지급",
+      "period": "겨울방학 : 전년도 12월중, 여름방학 : 6월중",
+      "apply_method": "직접입력",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=803612&bnefType=all&svcId=304000000162",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261110195315",
+      "service_id": "304000000162"
     },
     {
       "id": "gov24-0449a668caf127f5be",
@@ -6476,6 +6674,42 @@
       "service_id": "319000000123"
     },
     {
+      "id": "gov24-005bfb771f8390e730",
+      "title": "저소득가구 명절 위문금 지원(기초주거급여,기초교육급여, 차상위 및 법정 한부모가정)",
+      "summary": "저소득 주민 명절 위문금 지원",
+      "region": "서울",
+      "category": "주거",
+      "status": "확인필요",
+      "eligibility": "연령 0~120세 · 중위소득 50% 이하 · 예비부모·난임 · 임산부 · 출산·입양 · 대학생·대학원생 · 근로자·직장인 · 구직자·실업자 · ○ 한부모, 기초주거. 교육급여 수급자 및 차상위계층",
+      "benefit": "○ 한부모, 기초주거, 교육급여 수급자 및 차상위계층가구에 명절 위문금 지급 가구당 3만원",
+      "period": "설, 추석",
+      "apply_method": "신청불필요",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=809975&bnefType=all&svcId=300000000123",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261111174050",
+      "service_id": "300000000123"
+    },
+    {
+      "id": "gov24-5cd44f59351c4d7e15",
+      "title": "저소득 한부모가족 명절격려금 지원",
+      "summary": "저소득한부모가족에게 명절격려금 지원",
+      "region": "서울",
+      "category": "일자리",
+      "status": "확인필요",
+      "eligibility": "연령 0~120세 · 중위소득 50% 이하 · 중위소득 51~75% · 예비부모·난임 · 임산부 · 출산·입양 · 대학생·대학원생 · 근로자·직장인 · ○ 생계급여, 의료급여 수급자를 제외한 소득인정액 기준중위소득 65%이하 한부모가정",
+      "benefit": "○ 소득인정액 기준중위소득 65%이하 저소득한부모가정에 상반기, 하반기 연 2회 명절격려금 5만원을 계좌로 현금 지급",
+      "period": "개인 신청절차 없음",
+      "apply_method": "신청불필요",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001794&bnefType=all&svcId=317000000110",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261111165432",
+      "service_id": "317000000110"
+    },
+    {
       "id": "gov24-fbeac5d0b55ff3d77a",
       "title": "여성 벤처 활성화 지원",
       "summary": "여성 예비창업자 및 여성벤처기업을 대상으로 교육, 멘토링, 사업화 지원 등 지원",
@@ -6492,6 +6726,24 @@
       "value_score": 7,
       "source_updated_at": "20260831111656",
       "service_id": "142000000078"
+    },
+    {
+      "id": "gov24-1cc205a901f6dfdb35",
+      "title": "신재생에너지 설비 설치 비용 지원",
+      "summary": "신재생에너지 설비 설치 희망자에게 설치비용 지원",
+      "region": "중앙정부",
+      "category": "주거",
+      "status": "확인필요",
+      "eligibility": "연령 19~120세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · ○ 주택, 건물 등에 신재생에너지 설비 설치시 지원(각 사업별 공고에 따름)",
+      "benefit": "○ 주택, 건물, 지역 등에 신재생에너지설비 설치시 설치비 지원",
+      "period": "매년 상반기",
+      "apply_method": "신청불필요",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=999177&bnefType=all&svcId=145000000097",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261111090851",
+      "service_id": "145000000097"
     },
     {
       "id": "gov24-13ccdd7f80e04ce3ab",
@@ -6530,6 +6782,42 @@
       "service_id": "142100000068"
     },
     {
+      "id": "gov24-f0c2ae7e86edf50a31",
+      "title": "산업‧일자리전환 고용환경개선지원금",
+      "summary": "탄소중립‧디지털 전환 관련 기업이 고용을 유지할 경우 고용환경 개선 등 지원",
+      "region": "중앙정부",
+      "category": "일자리",
+      "status": "확인필요",
+      "eligibility": "연령 18~64세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 저탄소 디지털 전환 사업주 * 최근 3년 이내 사업재편, 사업전환 승인기업, 노동전환 고용안정 컨설팅 참여기업, 산업전환 공동훈련센터 협약기업 등",
+      "benefit": "탄소중립‧디지털 전환 관련 기업이 고용을 유지할 경우 고용환경 개선 등 지원",
+      "period": "신규 사업참여 신청 종료",
+      "apply_method": "방문신청",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=809501&bnefType=all&svcId=149200005014",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261113163329",
+      "service_id": "149200005014"
+    },
+    {
+      "id": "gov24-1e951ac3f7e9f2221a",
+      "title": "사회보험사각지대해소",
+      "summary": "소규모사업, 저임금 근로자,예술,노무제공자 및 그 사업주의 사회보험료 부담분의 80% 지원",
+      "region": "중앙정부",
+      "category": "일자리",
+      "status": "확인필요",
+      "eligibility": "연령 18~64세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 근로자·직장인 · 다문화가족 · ○ 10인 미만 사업의 월 평균보수 270만 원 미만 근로자, 예술인, 노무제공자(플랫폼포함) 및 사업주(사용사업주 포함) ○ 10인 이상 사업, 월평균보수 270만원 미만의 예술인·노무제공자",
+      "benefit": "○ (근로자)10인 미만 사업의 월평균 보수 270만 원 미만 근로자 및 사업주의 사회보험료(고용보험, 국민연금) 부담분 80% 지원 - 지원신청시 사회보험 1년 이내 가입이력이 없는 자만 지원 ○ (예술인, 노무제공자(플랫폼포함)) - 10인 미만 사업의 월평균 보수 270만 원 미만 예술인, 노무제공자(플랫폼 포함) 및 사업주의 고용보험료 부담분 80% 지원 - 10인 이상 사업의 월평균 보수 270만 원 미만 예술인, 노무제공자(플랫폼 포함)의 고용보험료 ",
+      "period": "접수기관에 문의",
+      "apply_method": "기타 온라인신청",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=999021&bnefType=all&svcId=149200000012",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261113163219",
+      "service_id": "149200000012"
+    },
+    {
       "id": "gov24-f55ee4edbee61f6e7f",
       "title": "벼 못자리 상토 지원사업",
       "summary": "○ 관내 벼 재배 농가에 못자리용 상토 지원",
@@ -6546,6 +6834,24 @@
       "value_score": 7,
       "source_updated_at": "20260812165715",
       "service_id": "403000000135"
+    },
+    {
+      "id": "gov24-beb876ee036422aa9a",
+      "title": "동대문구 미취업청년 자격취득 활동비 지원",
+      "summary": "자격시험 응시자 자격취득 활동비 지원(19~39세 이하 동대문구 거주 미취업청년)",
+      "region": "서울",
+      "category": "일자리",
+      "status": "확인필요",
+      "eligibility": "연령 19~39세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 구직자·실업자 · 다문화가족 · ○ 지원대상 - 19~39세(1986~2006년생) 동대문구 거주 미취업 청년(※재학중 청년 포함) - 2024. 11월 이후 국가(기술, 전문, 공인, 민간)자격시험, 어학시험(토익, 오픽 등 각종 어학시험), 한국사능력검정시험, 운전면허 시험 등 자격시험에 응시한 자(※ 합격",
+      "benefit": "○ 미취업청년 자격취득 활동비 지원 서비스 - 지원내용 : 자격증 응시에 소요된 비용을 1인당 10만원~20만원 지급 [동대문구사랑상품권(서울페이 플러스 app) 지급]",
+      "period": "별도공지",
+      "apply_method": "정부24온라인신청||직접입력",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=808093&bnefType=all&svcId=305000000119",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261112111403",
+      "service_id": "305000000119"
     },
     {
       "id": "gov24-805b086c60c56839f1",
@@ -6782,6 +7088,24 @@
       "service_id": "149200000146"
     },
     {
+      "id": "gov24-a480d93e6fb2b458f3",
+      "title": "심리안정지원",
+      "summary": "스트레스, 불안/우울 등을 호소하는 구직자에게 심리안정을 위한 전문상담 서비스 제공",
+      "region": "중앙정부",
+      "category": "일자리",
+      "status": "확인필요",
+      "eligibility": "연령 18~64세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 근로자·직장인 · 다문화가족 · ○ 실직으로 인한 불안, 우울 등을 호소하는 취업 취약계층",
+      "benefit": "ㅇ 1회기 : 1차 스트레스 측정 및 스트레스 관리기법 전수, 개인별 주 호소문제 확인 ㅇ 6회기까지 : 개인별 고충 문제에 따른 후속 심층 상담, 추가 스트레스 측정 및 만족도 조사 실시 ㅇ 필요시 정신건강복지센터, 전국민마음투자지원사업 등 정신건강서비스 연계 지원",
+      "period": "접수기관 별 상이",
+      "apply_method": "방문신청",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=699170&bnefType=all&svcId=149200000146",
+      "review_required": false,
+      "value_score": 10,
+      "source_updated_at": "20261030162828",
+      "service_id": "149200000146"
+    },
+    {
       "id": "gov24-191e8ab504756e4542",
       "title": "근로·자녀장려금",
       "summary": "소득과 재산이 적은 근로소득자에게 근로장려금을, 자녀가 있을 경우 자녀장려금 지급",
@@ -6940,7 +7264,7 @@
       "url": "/dataList/OA-23027/S/1/datasetView.do",
       "review_required": true,
       "value_score": 6,
-      "checked_at": "2026-11-16T11:09:52+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-fbea828685095d6240",
@@ -6957,41 +7281,7 @@
       "url": "/dataList/OA-23014/S/1/datasetView.do",
       "review_required": true,
       "value_score": 2,
-      "checked_at": "2026-11-16T11:09:58+09:00"
-    },
-    {
-      "id": "auto-45f606960852388d7a",
-      "title": "복지서비스 목록 정보(한국사회보장정보원)",
-      "region": "서울",
-      "category": "복지",
-      "status": "확인필요",
-      "summary": "한국사회보장정보원에서 제공하는 지자체복지서비스 목록조회 API 중 서울특별시 관련 복지서비스 정보를 선별하여 제공하는 데이터입니다. 서울시 및 자치구에서 운영하는 복지서비스의 서비스명, 소관 지자체, 생애주기, 대상자, 서비스 분야, 지원내용 등 목록 정보를 확인할 수 있으며, 시민 맞춤형 복지서비스 안내, 복지정책 분석, 지역별 복지서비스 비교, 복지정보 검색 서비스 구축 등에 활용할 수 있습니다. 원천 API는 복지로 기반의 지자체 복지서비스 정보를 제공하며",
-      "eligibility": ", 선정기준,",
-      "benefit": "등 목록 정보를 확인할 수 있으며, 시민 맞춤형 복지서비스 안내, 복지정책 분석, 지역별 복지서비스 비교, 복지정보 검색 서비스 구축 등에 활용할 수 있습니다. 원천 API는 복지로 기반의 지자체 복지서비스 정보를 제공하며, 목록조회와 상세조회 기능을 통해",
-      "period": "공식 공고 확인",
-      "apply_method": "등 세부 정보 확인이 가능합니다.",
-      "source_name": "서울 열린데이터광장",
-      "url": "/dataList/OA-23013/S/1/datasetView.do",
-      "review_required": true,
-      "value_score": 2,
-      "checked_at": "2026-11-16T11:09:58+09:00"
-    },
-    {
-      "id": "auto-7c2d0b1753fac097a5",
-      "title": "벤처기업 집적시설 지정현황",
-      "region": "서울",
-      "category": "일자리",
-      "status": "확인필요",
-      "summary": "서울특별시 벤처기업집적시설 지정현황에 대한 자료입니다. 벤처기업집적시설은 중소벤처기업부 소관 법률인 벤처기업육성 촉진법에 근거한 제도로 법정 요건 충족 시 민원인의 신청에 의하여 시,도지사가 지정하고 있습니다. ㅇ 지정요건 - 지정 받으려는 연면적(전용면적)이 600㎡ 이상 - 4개 이상의 벤처기업 입주 - 연면적의 70% 이상은 벤처기업 및 지식기반 중소기업 입주 - 연면적의 30% 미만은 지원시설, 업무관련시설 (공용회의실 등) 유치",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "지정요건 - 지정 받으려는 연면적(전용면적)이 600㎡ 이상 - 4개 이상의 벤처기업 입주 - 연면적의 70% 이상은 벤처기업 및 지식기반 중소기업 입주 - 연면적의 30% 미만은 지원시설, 업무관련시설 (공용회의실 등) 유치",
-      "period": "공식 공고 확인",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "서울 열린데이터광장",
-      "url": "/dataList/OA-22207/S/1/datasetView.do",
-      "review_required": true,
-      "value_score": 2,
-      "checked_at": "2026-11-16T11:09:58+09:00"
+      "checked_at": "2026-11-17T13:29:50+09:00"
     },
     {
       "id": "auto-e9e4e25fe686c7507a",
@@ -7008,24 +7298,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018691",
       "review_required": true,
       "value_score": 27,
-      "checked_at": "2026-11-16T11:09:50+09:00"
-    },
-    {
-      "id": "auto-aa9d999ba12dd2de7a",
-      "title": "보증금 최대 7,000만원 지원…신혼부부·청년 특별공급",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "5.11~13. SH공사 누리집에서 온라인 신청 서울시는 무주택 시민의 주거비 부담을 낮추기 위해 전월세 보증금을 무이자로 지원해 주는 ‘보증금지원형 장기안심주택’ 입주자 6,000호를 모집한다. ‘보증금지원형 장기안심주택’은 입주자가 원하는 민간주택을 직접 선택하면, 전월세 보증금 일부를 무이자로 지원하는 임차형 공공임대주택 제도로, 신용등급·DTI(총부채상환비율) 심사와 무관하게 이용할 수 있고, 버팀목 전세자금 대출과 병행도 가능하다. 이번 6,000호는 ",
-      "eligibility": "주택에 SH의 ‘권리분석 심사’를 실시해 입주민의 전세사기 위험을 사전에 막을 예정이다",
-      "benefit": "서울시 - 내 손안에 서울 본문 바로가기 뉴스룸 내 손안에 서울 주요 서비스 바로 가기\" 뉴스 영상 매거진 어린이신문 공모전 이벤트 검색창 열기 메뉴 전체보기 통합검색 통합검색 검색 통합검색 닫기 뉴스 주요 서비스 바로 가기 기획·이슈 분야별 뉴스 비주얼 뉴스 우리동네 뉴스 시민기자 뉴스 팩트브리핑 맞춤 뉴스 레터구독 뉴스 서비스 바로 가기 뉴스 최신 뉴스 뉴스레터 모아보기 맞춤 뉴스 기획·",
-      "period": "5월 11일부터 5월 13일까지",
-      "apply_method": "SH 서울주택도시개발공사 에서 온라인 신청 ○",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2017963",
-      "review_required": true,
-      "value_score": 26,
-      "checked_at": "2026-11-16T11:09:50+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-88ac600668aea2f76c",
@@ -7041,8 +7314,25 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018004",
       "review_required": true,
-      "value_score": 22,
-      "checked_at": "2026-11-16T11:10:04+09:00"
+      "value_score": 24,
+      "checked_at": "2026-11-17T13:29:43+09:00"
+    },
+    {
+      "id": "auto-aa9d999ba12dd2de7a",
+      "title": "보증금 최대 7,000만원 지원…신혼부부·청년 특별공급",
+      "region": "서울",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "5.11~13. SH공사 누리집에서 온라인 신청 서울시는 무주택 시민의 주거비 부담을 낮추기 위해 전월세 보증금을 무이자로 지원해 주는 ‘보증금지원형 장기안심주택’ 입주자 6,000호를 모집한다. ‘보증금지원형 장기안심주택’은 입주자가 원하는 민간주택을 직접 선택하면, 전월세 보증금 일부를 무이자로 지원하는 임차형 공공임대주택 제도로, 신용등급·DTI(총부채상환비율) 심사와 무관하게 이용할 수 있고, 버팀목 전세자금 대출과 병행도 가능하다. 이번 6,000호는 ",
+      "eligibility": "주택에 SH의 ‘권리분석 심사’를 실시해 입주민의 전세사기 위험을 사전에 막을 예정이다",
+      "benefit": "서울시 - 내 손안에 서울 본문 바로가기 뉴스룸 내 손안에 서울 주요 서비스 바로 가기\" 뉴스 영상 매거진 어린이신문 공모전 이벤트 검색창 열기 메뉴 전체보기 통합검색 통합검색 검색 통합검색 닫기 뉴스 주요 서비스 바로 가기 기획·이슈 분야별 뉴스 비주얼 뉴스 우리동네 뉴스 시민기자 뉴스 팩트브리핑 맞춤 뉴스 레터구독 뉴스 서비스 바로 가기 뉴스 최신 뉴스 뉴스레터 모아보기 맞춤 뉴스 기획·",
+      "period": "5월 11일부터 5월 13일까지",
+      "apply_method": "SH 서울주택도시개발공사 에서 온라인 신청 ○",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2017963",
+      "review_required": true,
+      "value_score": 24,
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-003cc1f1a1fe01888d",
@@ -7059,7 +7349,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019098",
       "review_required": true,
       "value_score": 16,
-      "checked_at": "2026-11-16T11:09:50+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-5367ec69a4906a73f9",
@@ -7075,8 +7365,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2020022",
       "review_required": true,
-      "value_score": 9,
-      "checked_at": "2026-11-16T11:09:55+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-17T13:29:49+09:00"
     },
     {
       "id": "auto-3ddd7b947e3210e795",
@@ -7092,8 +7382,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019977",
       "review_required": true,
-      "value_score": 9,
-      "checked_at": "2026-11-16T11:09:57+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-17T13:29:50+09:00"
     },
     {
       "id": "auto-82bacc88ae2d1c77af",
@@ -7109,59 +7399,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018622",
       "review_required": true,
-      "value_score": 8,
-      "checked_at": "2026-11-16T11:09:59+09:00"
-    },
-    {
-      "id": "auto-018869e6b36192bfaf",
-      "title": "시세 60~70%, 최장 14년! 신혼부부 '미리내집' 128세대 모집",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "시세 60~70% 임대료…8월 31일부터 인터넷 청약 서울시가 신혼부부의 주거 부담을 덜고 안정적인 보금자리를 마련할 수 있도록 2026년 제1차 ‘일반주택형 미리내집’(신혼·신생아매입임대주택Ⅱ) 128세대​를 공급한다. 8월 14일 입주자 모집 공고를 내고, 인터넷 청약 접수는 8월 31일부터 9월 2일까지 진행한다. ‘일반주택형 미리내집’은 SH가 매입한 오피스텔, 도시형생활주택, 다가구주택 등을 신혼부부 등에게 시세보다 저렴하게 공급하는 매입임대주택이다. ",
-      "eligibility": "은 무주택 신혼부부·예비부부 등이며 임대료는 시세의 60~70% 수준이다",
-      "benefit": "전자고지 신청 혜택 3년 더 4 술도 안 마시는데 '지방간'…내 간 건강, 괜찮을까 5 서울시 민간축제 지원사업과 함께한 'K-트롯 페스티벌', 오늘은 내가 주인공!",
-      "period": "8월 31일부터 9월 2일까지",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019069",
-      "review_required": true,
-      "value_score": 16,
-      "checked_at": "2026-11-16T11:09:52+09:00"
-    },
-    {
-      "id": "auto-3d206e9b6082724f9a",
-      "title": "일급 오르고 신청 쉬워졌다! 동행일자리 6,500명 모집",
-      "region": "전남광주통합특별시",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "11월 23일까지 동주민센터 접수 서울시가 취업 취약계층의 자립을 돕고 지역사회 약자를 지원하는 ‘2027년 상반기 서울 동행일자리’ 참여자를 모집한다. 이번 모집부터 구직등록확인증 제출 의무가 폐지돼 신청 절차가 간편해지고, 참여자 일급도 인상된다. 서울시는 오는 11월 23일까지 주소지 동주민센터에서 ‘2027년 상반기 서울 동행일자리’ 참여자 신청을 받는다고 밝혔다. 시·구 합산 총 6,500여 명을 모집하며, 참여자들은 내년 상반기(27.1.8.~6.30",
-      "eligibility": "사업 시작일 기준 만 18세 이상 서울시민으로, 세대원 합산 소득이 기준중위소득 85% 이하, 재산이 4억 9,900만 원 이하인 경우 지원 가능하다",
-      "benefit": "동행일자리 6,500명 모집 11월 23일까지 동주민센터 접수 서울시가 취업 취약계층의 자립을 돕고 지역사회 약자를 지원하는 ‘2027년 상반기 서울 동행일자리’ 참여자를 모집한다.",
-      "period": "공식 공고 확인",
-      "apply_method": "방문 접수 하면 된다",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2020029",
-      "review_required": true,
-      "value_score": 13,
-      "checked_at": "2026-11-16T11:10:04+09:00"
-    },
-    {
-      "id": "auto-0da427646ae59c013d",
-      "title": "이공계 인재 성장주택 첫 공급…시세 30~50% 임대료",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "7.13.~15. SH공사 누리집 접수 서울시가 이공계 대학원생과 박사 후 연구원의 주거비 부담을 덜기 위해 ‘이공계 인재 성장주택’을 선보입니다. 먼저, 마포구 성산동에 17호를 공급하며, 시세의 30~50% 수준 임대료로 최장 10년까지 거주할 수 있습니다. 7월 13일부터 15일까지 SH공사 누리집에서 신청하세요. 이공계 인재 성장주택은? 올해 처음 공급되는 ‘이공계 인재 성장주택’은 우수한 역량을 갖춘 이공계 대학원생 및 박사후 연구원들을 위한 전용 주거",
-      "eligibility": "하며, 청년 매입임대주택의 소득 및 자산 자격 요건을 충족해야 한다",
-      "benefit": "전자고지 신청 혜택 3년 더 4 술도 안 마시는데 '지방간'…내 간 건강, 괜찮을까 5 서울시 민간축제 지원사업과 함께한 'K-트롯 페스티벌', 오늘은 내가 주인공!",
-      "period": "공식 공고 확인",
-      "apply_method": "온라인 신청 ○ 공급주택 : 마포구 성미산로11길 108 주택 17호 위치 및 주택 유형 시는 마포구 성미산로11길 108(성산동 3-20, 삼화에코빌 2차)에 소재한 17호 주택 공급한다",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2018574",
-      "review_required": true,
-      "value_score": 13,
-      "checked_at": "2026-11-16T11:09:52+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-17T13:29:53+09:00"
     },
     {
       "id": "auto-c52c81a3e3b384f69f",
@@ -7171,14 +7410,31 @@
       "status": "확인필요",
       "summary": "보증금 분할납부제, 4자녀 이상 혜택 확대 서울시가 올해 첫 ‘미리내집’ 입주자를 모집한다. 이번 공급은 도심 접근성이 높은 역세권 중심 총 441가구 규모로 이뤄진다. 미리내집은 신혼부부 주거안정과 저출생 대응을 위한 장기전세주택으로, 입주 이후 자녀 출산 시 최장 20년까지 연장 계약 가능하고, 2자녀 이상 출산 시에는 20년 거주 후 시세보다 저렴하게 매수할 수 있는 기회를 제공한다. 서울시는 4월 24일 제7차 아파트형 미리내집(장기전세주택Ⅱ) 입주자 모",
       "eligibility": "혼인신고한 날로부터 7년 이내 신혼부부 또는 입주일 전까지 혼인한 사실을 증명할 수 있는 예비 신혼부부로 부부 모두 공고일 기준 5년 이내 주택을 소유하지 않아야 한다",
-      "benefit": "을 확대해 신혼부부의 입주 부담을 낮추고 저출생 극복을 지속적으로 지원한다. ‘분할납부제’는 입주 시 보증금의 70%만 우선 납부하고 나머지 30%는 퇴거 시까지 유예할 수 있다. 유예분에 대해서는 연 2.73%의 저렴한 이자가 적용되어 대출 규제에 따른 초기 자금 부담을 줄일 수 있다. ‘4자녀 이상’ 다자녀 가구 혜택을 신설했다. 4자녀 가구는 보증금과 매매가 모두 시세 대비 60% 수준",
+      "benefit": "을 확대해 신혼부부의 입주 부담을 낮추고 저출생 극복을 지속적으로 지원한다. ‘분할납부제’ 는 입주 시 보증금의 70%만 우선 납부하고 나머지 30%는 퇴거 시까지 유예할 수 있다. 유예분에 대해서는 연 2.73%의 저렴한 이자가 적용되어 대출 규제에 따른 초기 자금 부담을 줄일 수 있다. ‘4자녀 이상’ 다자녀 가구 혜택을 신설했다. 4자녀 가구는 보증금과 매매가 모두 시세 대비 60% 수",
       "period": "5월 6일~5월 8일",
       "apply_method": "공식 신청처 확인",
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2017901",
       "review_required": true,
-      "value_score": 12,
-      "checked_at": "2026-11-16T11:10:04+09:00"
+      "value_score": 17,
+      "checked_at": "2026-11-17T13:29:43+09:00"
+    },
+    {
+      "id": "auto-3d206e9b6082724f9a",
+      "title": "일급 오르고 신청 쉬워졌다! 동행일자리 6,500명 모집",
+      "region": "전남광주통합특별시",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "11월 23일까지 동주민센터 접수 서울시가 취업 취약계층의 자립을 돕고 지역사회 약자를 지원하는 ‘2027년 상반기 서울 동행일자리’ 참여자를 모집한다. 이번 모집부터 구직등록확인증 제출 의무가 폐지돼 신청 절차가 간편해지고, 참여자 일급도 인상된다. 서울시는 오는 11월 23일까지 주소지 동주민센터에서 ‘2027년 상반기 서울 동행일자리’ 참여자 신청을 받는다고 밝혔다. 시·구 합산 총 6,500여 명을 모집하며, 참여자들은 내년 상반기(27.1.8.~6.30",
+      "eligibility": "사업 시작일 기준 만 18세 이상 서울시민으로, 세대원 합산 소득이 기준중위소득 85% 이하, 재산이 4억 9,900만 원 이하인 경우 지원 가능하다",
+      "benefit": "서울시가 취업 취약계층의 자립을 돕고 지역사회 약자를 지원하는 ‘2027년 상반기 서울 동행일자리’ 참여자를 모집한다.",
+      "period": "공식 공고 확인",
+      "apply_method": "방문 접수 하면 된다",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2020029",
+      "review_required": true,
+      "value_score": 14,
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-081d1271c87e4b946a",
@@ -7194,8 +7450,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019821",
       "review_required": true,
-      "value_score": 12,
-      "checked_at": "2026-11-16T11:09:55+09:00"
+      "value_score": 10,
+      "checked_at": "2026-11-17T13:29:50+09:00"
     },
     {
       "id": "auto-57a4636c14a5f4357e",
@@ -7211,8 +7467,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019138",
       "review_required": true,
-      "value_score": 10,
-      "checked_at": "2026-11-16T11:09:52+09:00"
+      "value_score": 8,
+      "checked_at": "2026-11-17T13:29:46+09:00"
     },
     {
       "id": "auto-27c17964a71af931ec",
@@ -7228,8 +7484,25 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019813",
       "review_required": true,
-      "value_score": 10,
-      "checked_at": "2026-11-16T11:09:58+09:00"
+      "value_score": 8,
+      "checked_at": "2026-11-17T13:29:50+09:00"
+    },
+    {
+      "id": "auto-11e007cce83fc4f242",
+      "title": "배움을 나눈 서울런 멘토에 100만 원! '서울선순환인재장학금' 신청",
+      "region": "서울",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "서울런에서 8개월 이상 활동한 대학생 멘토 50명 선발 서울미래인재재단이 서울시 교육 플랫폼 ‘서울런’에서 취약계층 학생의 공부를 도운 대학생 멘토 50명을 선발해 1인당 100만 원, 총 5천만 원의 ‘서울선순환인재장학금’을 지원한다. 신청은 11월 23일 오후 4시까지 서울미래인재재단 누리집에서 접수할 수 있다. 서울선순환인재장학금서울런 멘토로 활동하며 교육격차 해소에 기여한 우수 대학생을 선발해 멘토 활동에 대한 자긍심을 높이고, 학업과 진로·취업 역량을 ",
+      "eligibility": "은 2025년 11월부터 2026년 10월 사이 8개월 이상 서울런 멘토로 활동한 대학생 이다",
+      "benefit": "닫기 서울미래인재재단이 서울런에서 취약계층 학생을 도운 대학생 멘토 50명을 선발해 1인당 100만 원, 총 5천만 원의 서울선순환인재장학금을 지원한다.",
+      "period": "공식 공고 확인",
+      "apply_method": "홈페이지 내 온라인 신청 ☞바로가기 ○",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2020072",
+      "review_required": true,
+      "value_score": 7,
+      "checked_at": "2026-11-17T13:29:49+09:00"
     },
     {
       "id": "auto-b64d263ebd9dac118d",
@@ -7245,8 +7518,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019868",
       "review_required": true,
-      "value_score": 9,
-      "checked_at": "2026-11-16T11:10:05+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-17T13:29:55+09:00"
     },
     {
       "id": "auto-072068112f0370825e",
@@ -7262,8 +7535,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019879",
       "review_required": true,
-      "value_score": 8,
-      "checked_at": "2026-11-16T11:10:05+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-17T13:29:56+09:00"
     },
     {
       "id": "auto-5b0aa5b28e2b6e2138",
@@ -7280,7 +7553,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2018213",
       "review_required": true,
       "value_score": 27,
-      "checked_at": "2026-11-16T11:09:50+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-ee499a41264fc7a50b",
@@ -7297,41 +7570,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2020006",
       "review_required": true,
       "value_score": 20,
-      "checked_at": "2026-11-16T11:09:50+09:00"
-    },
-    {
-      "id": "auto-9776d0a76dae3f4fb0",
-      "title": "지원 혜택 찾아 삼만리? 결혼부터 육아까지 한눈에 보는 만능 사이트",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "서울시의 결혼·임신·출산·육아 지원은 종류가 많아 어디서부터 찾아봐야 할지 막막할 때가 많다. 이럴 때 유용한 곳이 서울시 결혼·임신·출산·육아 플랫폼 '탄생육아 몽땅정보통'이다. 지원 정보 확인부터 신청, 예약까지 한 번에 할 수 있다고 해서 직접 이용해 보았다.1. 약 350개 사업을 한눈에, 생애주기별로 찾는 지원 정보 몽땅정보통은 2023년 9월 문을 연 뒤, 올해 2월 '몽땅정보 만능키'에서 지금의 이름으로 바뀌며 새 단장했다. 서울시는 물론 중앙부처와",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "서울시 - 내 손안에 서울 본문 바로가기 뉴스룸 내 손안에 서울 주요 서비스 바로 가기\" 뉴스 영상 매거진 어린이신문 공모전 이벤트 검색창 열기 메뉴 전체보기 통합검색 통합검색 검색 통합검색 닫기 뉴스 주요 서비스 바로 가기 기획·이슈 분야별 뉴스 비주얼 뉴스 우리동네 뉴스 시민기자 뉴스 팩트브리핑 맞춤 뉴스 레터구독 뉴스 서비스 바로 가기 뉴스 최신 뉴스 뉴스레터 모아보기 맞춤 뉴스 기획·",
-      "period": "공식 공고 확인",
-      "apply_method": "신청 방법, 지원 형태가 한눈에 정리돼 있어 나에게 해당하는지 바로 알 수 있었다",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019876",
-      "review_required": true,
-      "value_score": 17,
-      "checked_at": "2026-11-16T11:09:52+09:00"
-    },
-    {
-      "id": "auto-6ba16c23ef5518242e",
-      "title": "전세사기 예방! 청년 맞춤 부동산 교육…사전신청하면 선물까지",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "9.9. 오후 7시, 서울시청서 교육·상담 지원 서울시는 대학생과 사회 초년생 등 청년층이 전월세 계약 과정에서 발생할 수 있는 위험을 미리 파악하고 스스로 대응할 수 있도록 9월 9일 오후 7시 서울시청 본관 3층 대회의실에서 ‘2026 제3회 청년 맞춤형 부동산 교육’을 개최한다. 이번 교육은 가을 이사철을 앞두고, 청년들이 실제 전월세 계약 과정에서 무엇을 확인하고, 어떤 상황에 주의해야 하는지 알 수 있도록 현장에서 자주 발생하는 사례와 실무적인 대응 방",
-      "eligibility": "‘2026 제3회 청년 맞춤형 부동산 교육’을 연다",
-      "benefit": "전월세 계약 시 주의사항과 사례 중심 실무를 안내하고, 희망자에게 1:1 맞춤 상담도 제공한다.",
-      "period": "공식 공고 확인",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019188",
-      "review_required": true,
-      "value_score": 15,
-      "checked_at": "2026-11-16T11:09:52+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-ed8318077a1ea150f7",
@@ -7348,7 +7587,41 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019933",
       "review_required": true,
       "value_score": 14,
-      "checked_at": "2026-11-16T11:09:52+09:00"
+      "checked_at": "2026-11-17T13:29:46+09:00"
+    },
+    {
+      "id": "auto-6ba16c23ef5518242e",
+      "title": "전세사기 예방! 청년 맞춤 부동산 교육…사전신청하면 선물까지",
+      "region": "서울",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "9.9. 오후 7시, 서울시청서 교육·상담 지원 서울시는 대학생과 사회 초년생 등 청년층이 전월세 계약 과정에서 발생할 수 있는 위험을 미리 파악하고 스스로 대응할 수 있도록 9월 9일 오후 7시 서울시청 본관 3층 대회의실에서 ‘2026 제3회 청년 맞춤형 부동산 교육’을 개최한다. 이번 교육은 가을 이사철을 앞두고, 청년들이 실제 전월세 계약 과정에서 무엇을 확인하고, 어떤 상황에 주의해야 하는지 알 수 있도록 현장에서 자주 발생하는 사례와 실무적인 대응 방",
+      "eligibility": "‘2026 제3회 청년 맞춤형 부동산 교육’을 연다",
+      "benefit": "전월세 계약 시 주의사항과 사례 중심 실무를 안내하고, 희망자에게 1:1 맞춤 상담도 제공한다.",
+      "period": "공식 공고 확인",
+      "apply_method": "공식 신청처 확인",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2019188",
+      "review_required": true,
+      "value_score": 13,
+      "checked_at": "2026-11-17T13:29:47+09:00"
+    },
+    {
+      "id": "auto-018869e6b36192bfaf",
+      "title": "시세 60~70%, 최장 14년! 신혼부부 '미리내집' 128세대 모집",
+      "region": "서울",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "시세 60~70% 임대료…8월 31일부터 인터넷 청약 서울시가 신혼부부의 주거 부담을 덜고 안정적인 보금자리를 마련할 수 있도록 2026년 제1차 ‘일반주택형 미리내집’(신혼·신생아매입임대주택Ⅱ) 128세대​를 공급한다. 8월 14일 입주자 모집 공고를 내고, 인터넷 청약 접수는 8월 31일부터 9월 2일까지 진행한다. ‘일반주택형 미리내집’은 SH가 매입한 오피스텔, 도시형생활주택, 다가구주택 등을 신혼부부 등에게 시세보다 저렴하게 공급하는 매입임대주택이다. ",
+      "eligibility": "은 무주택 신혼부부·예비부부 등이며 임대료는 시세의 60~70% 수준이다",
+      "benefit": "공식 공고에서 지원내용 확인",
+      "period": "8월 31일부터 9월 2일까지",
+      "apply_method": "공식 신청처 확인",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2019069",
+      "review_required": true,
+      "value_score": 13,
+      "checked_at": "2026-11-17T13:29:47+09:00"
     },
     {
       "id": "auto-a256f4aec100242e77",
@@ -7364,8 +7637,25 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019507",
       "review_required": true,
-      "value_score": 12,
-      "checked_at": "2026-11-16T11:09:58+09:00"
+      "value_score": 10,
+      "checked_at": "2026-11-17T13:29:49+09:00"
+    },
+    {
+      "id": "auto-0da427646ae59c013d",
+      "title": "이공계 인재 성장주택 첫 공급…시세 30~50% 임대료",
+      "region": "서울",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "7.13.~15. SH공사 누리집 접수 서울시가 이공계 대학원생과 박사 후 연구원의 주거비 부담을 덜기 위해 ‘이공계 인재 성장주택’을 선보입니다. 먼저, 마포구 성산동에 17호를 공급하며, 시세의 30~50% 수준 임대료로 최장 10년까지 거주할 수 있습니다. 7월 13일부터 15일까지 SH공사 누리집에서 신청하세요. 이공계 인재 성장주택은? 올해 처음 공급되는 ‘이공계 인재 성장주택’은 우수한 역량을 갖춘 이공계 대학원생 및 박사후 연구원들을 위한 전용 주거",
+      "eligibility": "하며, 청년 매입임대주택의 소득 및 자산 자격 요건을 충족해야 한다",
+      "benefit": "공식 공고에서 지원내용 확인",
+      "period": "공식 공고 확인",
+      "apply_method": "온라인 신청 ○ 공급주택 : 마포구 성미산로11길 108 주택 17호 위치 및 주택 유형 시는 마포구 성미산로11길 108(성산동 3-20, 삼화에코빌 2차)에 소재한 17호 주택 공급한다",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2018574",
+      "review_required": true,
+      "value_score": 10,
+      "checked_at": "2026-11-17T13:29:46+09:00"
     },
     {
       "id": "auto-56b8a53353b2b8bd03",
@@ -7381,25 +7671,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019956",
       "review_required": true,
-      "value_score": 12,
-      "checked_at": "2026-11-16T11:09:52+09:00"
-    },
-    {
-      "id": "auto-ec4a2c946bdecf4aa2",
-      "title": "착한가격업소 더 알뜰하게! 서울사랑상품권으로 5% 환급",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "고물가가 이어지면서 외식이나 커피 한 잔을 즐길 때도 가격을 먼저 살펴보게 되는 요즘이다. 매일 이용하는 음식점이나 카페를 조금 더 합리적인 가격으로 이용할 수 있는 방법을 찾던 중 '서울시 착한가격업소'에 관심을 갖게 됐다. 착한가격업소는 주변 상권보다 저렴한 가격으로 양질의 서비스를 제공하며 지역 물가 안정에 기여하는 업소를 말한다. 행정안전부와 지방자치단체가 함께 지정·운영하고 있으며, 음식점뿐만 아니라 미용실, 세탁소 등 다양한 생활 밀착형 업소가 포함되",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "닫기 서울시 착한가격업소는 주변보다 저렴한 가격으로 서비스를 제공하는 업소로, 서울에는 2026년 8월 말 기준 2,111곳이 지정돼 있다.",
-      "period": "9월 14일~11월 30일",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019925",
-      "review_required": true,
       "value_score": 10,
-      "checked_at": "2026-11-16T11:10:00+09:00"
+      "checked_at": "2026-11-17T13:29:46+09:00"
     },
     {
       "id": "auto-bc23ad1940c68fba7a",
@@ -7415,8 +7688,25 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019991",
       "review_required": true,
-      "value_score": 10,
-      "checked_at": "2026-11-16T11:10:00+09:00"
+      "value_score": 8,
+      "checked_at": "2026-11-17T13:29:53+09:00"
+    },
+    {
+      "id": "auto-ec4a2c946bdecf4aa2",
+      "title": "착한가격업소 더 알뜰하게! 서울사랑상품권으로 5% 환급",
+      "region": "서울",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "고물가가 이어지면서 외식이나 커피 한 잔을 즐길 때도 가격을 먼저 살펴보게 되는 요즘이다. 매일 이용하는 음식점이나 카페를 조금 더 합리적인 가격으로 이용할 수 있는 방법을 찾던 중 '서울시 착한가격업소'에 관심을 갖게 됐다. 착한가격업소는 주변 상권보다 저렴한 가격으로 양질의 서비스를 제공하며 지역 물가 안정에 기여하는 업소를 말한다. 행정안전부와 지방자치단체가 함께 지정·운영하고 있으며, 음식점뿐만 아니라 미용실, 세탁소 등 다양한 생활 밀착형 업소가 포함되",
+      "eligibility": "공식 공고에서 자격 확인",
+      "benefit": "닫기 서울시 착한가격업소는 주변보다 저렴한 가격으로 서비스를 제공하는 업소로, 서울에는 2026년 8월 말 기준 2,111곳이 지정돼 있다.",
+      "period": "9월 14일~11월 30일",
+      "apply_method": "공식 신청처 확인",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2019925",
+      "review_required": true,
+      "value_score": 7,
+      "checked_at": "2026-11-17T13:29:53+09:00"
     },
     {
       "id": "auto-dcfdae883cab1c08c8",
@@ -7432,8 +7722,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019922",
       "review_required": true,
-      "value_score": 8,
-      "checked_at": "2026-11-16T11:10:00+09:00"
+      "value_score": 6,
+      "checked_at": "2026-11-17T13:29:53+09:00"
     },
     {
       "id": "auto-01b151af8f724c2892",
@@ -7450,7 +7740,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019896",
       "review_required": true,
       "value_score": 21,
-      "checked_at": "2026-11-16T11:09:50+09:00"
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
       "id": "auto-479b32f054a5caa6ae",
@@ -7466,42 +7756,25 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2020007",
       "review_required": true,
-      "value_score": 17,
-      "checked_at": "2026-11-16T11:09:50+09:00"
+      "value_score": 15,
+      "checked_at": "2026-11-17T13:29:43+09:00"
     },
     {
-      "id": "auto-2dad00c6e7b732ed7c",
-      "title": "6개 야장 상권에서 10% 할인! '달빛상품권' 발행",
+      "id": "auto-359a144732c789c55d",
+      "title": "아이 키우기 좋은 서울을 향한 변화! 난임 지원부터 육아·주거까지",
       "region": "전남광주통합특별시",
       "category": "주거",
       "status": "확인필요",
-      "summary": "10월 23일 오전 10시부터 판매 서울의 야간 골목상권에서 할인 혜택을 누릴 수 있는 ‘달빛상품권’이 100억 원 규모로 발행된다. 10월 23일 오전 10시부터 서울페이+ 앱에서 10% 할인된 가격으로 구매할 수 있으며, 서울시가 육성하는 ‘서울 달빛야장’ 6개 상권과 주변 가맹점에서 사용할 수 있다. 기존 자치구별 상품권과 달리 자치구 구분 없이 지정된 6개 야장 상권과 해당 행정동 내 가맹점에서 통합 사용할 수 있으며, 야간 소비 활성화를 위해 오후 5시",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "서울시 - 내 손안에 서울 본문 바로가기 뉴스룸 내 손안에 서울 주요 서비스 바로 가기\" 뉴스 영상 매거진 어린이신문 공모전 이벤트 검색창 열기 메뉴 전체보기 통합검색 통합검색 검색 통합검색 닫기 뉴스 주요 서비스 바로 가기 기획·이슈 분야별 뉴스 비주얼 뉴스 우리동네 뉴스 시민기자 뉴스 팩트브리핑 맞춤 뉴스 레터구독 뉴스 서비스 바로 가기 뉴스 최신 뉴스 뉴스레터 모아보기 맞춤 뉴스 기획·",
+      "summary": "탄생든든·육아든든·가족든든 3대 분야로 이어가는 서울시 저출생 정책, 성과공유회 현장 마술 공연으로 시작된 현장, 아이와 부모가 함께 채운 자리 11월 10일 오전 서울시청 지하 서울갤러리는 이른 시간부터 아이의 손을 잡고 온 가족들로 북적였다. 정식 행사에 앞서 마술 공연이 펼쳐지자 분위기는 한층 달아올랐다. 아이들뿐 아니라 부모들 눈빛에도 기대감과 호기심이 가득했다. 이날 행사는 서울시가 마련한 '저출생 대응 정책 성과공유회'다. 2022년 '엄마아빠 행복 ",
+      "eligibility": "을 확대하고, 손주를 돌보는 조부모를 위한 건강관리 비용 지원도 새롭게 추진할 계획이다. 임산부 교통비·키즈카페·미리내집 등 주요 정책을 담은 아이동행 기념 티셔츠 ©김경선 아이동행 정책 홍보물과 기념품을 나눠 준 행사장 홍보 부스 ©김경선 이날 성과공유회에서 확인한 것은 출생아 수와 혼인 건수의 반등만이 아니었다. 임신·출산부터 육아, 주거, 일·생활 균형에 이르기까지 시민의 삶 전반을 아",
+      "benefit": "난임 지원부터 육아·주거까지 시민기자 김경선 발행일 2026.11.16.",
       "period": "공식 공고 확인",
-      "apply_method": "공식 신청처 확인",
+      "apply_method": "신청 방법은 서울시 '탄생육아 몽땅정보통' 에서 확인할 수 있다",
       "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019784",
+      "url": "https://mediahub.seoul.go.kr/archives/2020008",
       "review_required": true,
-      "value_score": 12,
-      "checked_at": "2026-11-16T11:09:55+09:00"
-    },
-    {
-      "id": "auto-ff767863762f1e6790",
-      "title": "오늘 점심은 여기다! 강남·서초권 6천 원대 가성비 구내식당 탐방",
-      "region": "전남광주통합특별시",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "더 쾌적해진 '국립중앙도서관', 고층뷰 탁 트인 '서울강남우체국'…알짜 구내식당 현장 취재 점심 한 끼에 1만 원을 훌쩍 넘기는 고물가 시대, 직장인과 학생들의 발걸음은 한층 무겁다. 특히 높은 임대료와 솟구치는 물가로 유명한 강남·서초권 일대에서 합리적인 가격의 식당을 찾기란 하늘의 별 따기와 같다. 식사 때마다 얇아진 지갑을 열며 깊은 한숨을 쉬는 이들이 늘어가는 가운데, 발품을 조금만 팔면 부담 없는 가격에 든든하고 정갈한 한 끼를 해결할 수 있는 공공기관",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "서초동 국립중앙도서관 사서연수관 구내식당은 2026년 10월 초 재개장해 중식만 6,000원대에 제공하고, 서울강남우체국 구내식당도 12층에서 외부인에게 6,000원대 백반을 판다.",
-      "period": "공식 공고 확인",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019963",
-      "review_required": true,
-      "value_score": 10,
-      "checked_at": "2026-11-16T11:10:02+09:00"
+      "value_score": 15,
+      "checked_at": "2026-11-17T13:29:47+09:00"
     },
     {
       "id": "auto-f0f6368af97333f085",
@@ -7518,41 +7791,7 @@
       "url": "https://mediahub.seoul.go.kr/archives/2020048",
       "review_required": true,
       "value_score": 10,
-      "checked_at": "2026-11-16T11:09:54+09:00"
-    },
-    {
-      "id": "auto-839af91d833c413931",
-      "title": "AI가 어렵다고요? AI 면접·건강관리까지! 새 단장한 '서울AI디지털배움터'",
-      "region": "전남광주통합특별시",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "AI는 이제 일상에서 다양하게 이용되고 있다. 그러나 그럴수록 기술 발전의 속도를 따라가기 어렵다는 이들도 늘고 있다. 서울시와 서울AI재단은 이 간극을 메우기 위해 10월 서울AI디지털배움터 7개 자치구(강동·강서·마포·도봉·동작·성동·구로)의 거점 공간을 AI 체험·실습 중심으로 새로 단장했다. 단순히 디지털 기기를 구경하는 곳에서, 직접 써 보고 배운 내용을 생활에 활용해 볼 수 있는 곳으로 성격을 바꾼 것이다. 과연 서울AI디지털배움터가 어떻게 바뀌었는지",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "AI포토체험으로 만든 명화 콘셉트 결과물 ©AI 공간 한쪽에는 서울시니어일자리지원센터의 사례를 소개한 게시물 이 붙어 있어, 배움이 일자리로 이어지는 흐름도 엿볼 수 있었다.",
-      "period": "공식 공고 확인",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019901",
-      "review_required": true,
-      "value_score": 10,
-      "checked_at": "2026-11-16T11:09:54+09:00"
-    },
-    {
-      "id": "auto-4636464b81c440b4b7",
-      "title": "흙쪽파 한 단 1,100원! 김장철 부담 덜어주는 '농산물 착한가격 프로젝트'",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "창동 하나로마트 현장 확인…알타리무·생강·당근은 9일부터 판매 김장철이 다가오면 장바구니 걱정부터 앞선다. 서울시는 이런 부담을 덜기 위해 11월 5일부터 11일까지 '농산물 착한가격 프로젝트'를 진행한다. 서울 시내 하나로마트 18개 지점에서 깐마늘, 알타리무, 흙쪽파, 생강, 당근, 배 등 김장재료 6개 품목을 할인 판매하는 행사다. 2023년 시작한 이후 가장 많은 품목이 포함됐다. ☞ [관련 기사] 최대 반값! 김장재료 6종 저렴하게! '농산물 착한가격 ",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "닫기 서울시는 11월 5~11일 하나로마트 18개 지점에서 김장재료 6개 품목을 할인 판매하는 ‘농산물 착한가격 프로젝트’를 진행한다.",
-      "period": "공식 공고 확인",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019954",
-      "review_required": true,
-      "value_score": 9,
-      "checked_at": "2026-11-16T11:10:04+09:00"
+      "checked_at": "2026-11-17T13:29:46+09:00"
     },
     {
       "id": "auto-d8185b55c479e3cae5",
@@ -7569,7 +7808,41 @@
       "url": "https://mediahub.seoul.go.kr/archives/2019912",
       "review_required": true,
       "value_score": 9,
-      "checked_at": "2026-11-16T11:09:55+09:00"
+      "checked_at": "2026-11-17T13:29:50+09:00"
+    },
+    {
+      "id": "auto-839af91d833c413931",
+      "title": "AI가 어렵다고요? AI 면접·건강관리까지! 새 단장한 '서울AI디지털배움터'",
+      "region": "전남광주통합특별시",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "AI는 이제 일상에서 다양하게 이용되고 있다. 그러나 그럴수록 기술 발전의 속도를 따라가기 어렵다는 이들도 늘고 있다. 서울시와 서울AI재단은 이 간극을 메우기 위해 10월 서울AI디지털배움터 7개 자치구(강동·강서·마포·도봉·동작·성동·구로)의 거점 공간을 AI 체험·실습 중심으로 새로 단장했다. 단순히 디지털 기기를 구경하는 곳에서, 직접 써 보고 배운 내용을 생활에 활용해 볼 수 있는 곳으로 성격을 바꾼 것이다. 과연 서울AI디지털배움터가 어떻게 바뀌었는지",
+      "eligibility": "공식 공고에서 자격 확인",
+      "benefit": "AI포토체험으로 만든 명화 콘셉트 결과물 ©AI 공간 한쪽에는 서울시니어일자리지원센터의 사례를 소개한 게시물 이 붙어 있어, 배움이 일자리로 이어지는 흐름도 엿볼 수 있었다.",
+      "period": "공식 공고 확인",
+      "apply_method": "공식 신청처 확인",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2019901",
+      "review_required": true,
+      "value_score": 8,
+      "checked_at": "2026-11-17T13:29:46+09:00"
+    },
+    {
+      "id": "auto-4636464b81c440b4b7",
+      "title": "흙쪽파 한 단 1,100원! 김장철 부담 덜어주는 '농산물 착한가격 프로젝트'",
+      "region": "서울",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "창동 하나로마트 현장 확인…알타리무·생강·당근은 9일부터 판매 김장철이 다가오면 장바구니 걱정부터 앞선다. 서울시는 이런 부담을 덜기 위해 11월 5일부터 11일까지 '농산물 착한가격 프로젝트'를 진행한다. 서울 시내 하나로마트 18개 지점에서 깐마늘, 알타리무, 흙쪽파, 생강, 당근, 배 등 김장재료 6개 품목을 할인 판매하는 행사다. 2023년 시작한 이후 가장 많은 품목이 포함됐다. ☞ [관련 기사] 최대 반값! 김장재료 6종 저렴하게! '농산물 착한가격 ",
+      "eligibility": "공식 공고에서 자격 확인",
+      "benefit": "닫기 서울시는 11월 5~11일 하나로마트 18개 지점에서 김장재료 6개 품목을 할인 판매하는 ‘농산물 착한가격 프로젝트’를 진행한다.",
+      "period": "공식 공고 확인",
+      "apply_method": "공식 신청처 확인",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2019954",
+      "review_required": true,
+      "value_score": 7,
+      "checked_at": "2026-11-17T13:29:55+09:00"
     },
     {
       "id": "auto-d6afe9f8709aed47fd",
@@ -7585,8 +7858,25 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019917",
       "review_required": true,
-      "value_score": 9,
-      "checked_at": "2026-11-16T11:10:01+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-17T13:29:53+09:00"
+    },
+    {
+      "id": "auto-ff767863762f1e6790",
+      "title": "오늘 점심은 여기다! 강남·서초권 6천 원대 가성비 구내식당 탐방",
+      "region": "전남광주통합특별시",
+      "category": "주거",
+      "status": "확인필요",
+      "summary": "더 쾌적해진 '국립중앙도서관', 고층뷰 탁 트인 '서울강남우체국'…알짜 구내식당 현장 취재 점심 한 끼에 1만 원을 훌쩍 넘기는 고물가 시대, 직장인과 학생들의 발걸음은 한층 무겁다. 특히 높은 임대료와 솟구치는 물가로 유명한 강남·서초권 일대에서 합리적인 가격의 식당을 찾기란 하늘의 별 따기와 같다. 식사 때마다 얇아진 지갑을 열며 깊은 한숨을 쉬는 이들이 늘어가는 가운데, 발품을 조금만 팔면 부담 없는 가격에 든든하고 정갈한 한 끼를 해결할 수 있는 공공기관",
+      "eligibility": "공식 공고에서 자격 확인",
+      "benefit": "서초동 국립중앙도서관 사서연수관 구내식당은 2026년 10월 초 재개장해 중식만 6,000원대에 제공하고, 서울강남우체국 구내식당도 12층에서 외부인에게 6,000원대 백반을 판다.",
+      "period": "공식 공고 확인",
+      "apply_method": "공식 신청처 확인",
+      "source_name": "내 손안에 서울",
+      "url": "https://mediahub.seoul.go.kr/archives/2019963",
+      "review_required": true,
+      "value_score": 7,
+      "checked_at": "2026-11-17T13:29:55+09:00"
     },
     {
       "id": "auto-9159601e1908bf9dce",
@@ -7602,25 +7892,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019785",
       "review_required": true,
-      "value_score": 9,
-      "checked_at": "2026-11-16T11:10:05+09:00"
-    },
-    {
-      "id": "auto-37a7c25b69c75773dc",
-      "title": "108계단 너머 만난 풍경! 서울의 시간이 켜켜이 쌓인 곳 '해방촌 신흥시장'",
-      "region": "서울",
-      "category": "주거",
-      "status": "확인필요",
-      "summary": "서울의 변화를 가장 가까이에서 느낄 수 있는 곳은 화려한 중심이 아니라, 오래된 동네의 작은 골목일지도 모른다. 켜켜이 쌓인 시간 위로 새롭게 흐르는 풍경을 찾아, 정겨운 골목 사이로 걸음을 옮겨본다. 숙대입구역에서 용산02번 마을버스를 타고 후암동 종점에 내리면 108계단이 바로 눈앞에 펼쳐진다. 1943년 일제가 경성호국신사 참배길로 닦아 놓은 이 계단은 이제 해방촌과 후암동을 잇는 상징적인 길로 자리 잡았다. 2018년 설치된 경사형 승강기를 이용하면 1분",
-      "eligibility": "공식 공고에서 자격 확인",
-      "benefit": "전자고지 신청 혜택 3년 더 4 술도 안 마시는데 '지방간'…내 간 건강, 괜찮을까 5 서울시 민간축제 지원사업과 함께한 'K-트롯 페스티벌', 오늘은 내가 주인공!",
-      "period": "공식 공고 확인",
-      "apply_method": "공식 신청처 확인",
-      "source_name": "내 손안에 서울",
-      "url": "https://mediahub.seoul.go.kr/archives/2019761",
-      "review_required": true,
-      "value_score": 9,
-      "checked_at": "2026-11-16T11:10:05+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-17T13:29:57+09:00"
     },
     {
       "id": "auto-7684b5a88fdc00e88e",
@@ -7636,8 +7909,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2019980",
       "review_required": true,
-      "value_score": 9,
-      "checked_at": "2026-11-16T11:10:03+09:00"
+      "value_score": 7,
+      "checked_at": "2026-11-17T13:29:55+09:00"
     },
     {
       "id": "auto-23546017ba8fd989f9",
@@ -7653,8 +7926,8 @@
       "source_name": "내 손안에 서울",
       "url": "https://mediahub.seoul.go.kr/archives/2018610",
       "review_required": true,
-      "value_score": 8,
-      "checked_at": "2026-11-16T11:10:02+09:00"
+      "value_score": 5,
+      "checked_at": "2026-11-17T13:29:53+09:00"
     },
     {
       "id": "gov24-7f8329fb7e0933c493",
@@ -7781,6 +8054,24 @@
       "value_score": 8,
       "source_updated_at": "20251224170606",
       "service_id": "145000000111"
+    },
+    {
+      "id": "gov24-c3e125b50a529b2049",
+      "title": "전문멘토 - 언제든 기댈 수 있는 어른",
+      "summary": "○ 보호아동 및 보호종료아동 지원 ○ 1:1 멘토 연계하여 정서, 심리적 지원 및 모니터링",
+      "region": "서울",
+      "category": "주거",
+      "status": "마감",
+      "eligibility": "연령 0~120세 · 중위소득 50% 이하 · 중위소득 51~75% · 중위소득 76~100% · 중위소득 101~200% · 중위소득 200% 초과 · 예비부모·난임 · 임산부 · \"○ 멘티 : 관내 가정위탁 및 시설 보호대상아동(자립준비청년) ○ 멘토 : 관내 지역사회전문가( 공무원, 교사, 사회복지사, 의사, 전문직, 관내 대학생 등) - 멘토링 분기별 활동지원금 지급(5만원)\"",
+      "benefit": "○ 보호아동 및 보호종료아동 지원 ○ 1:1 멘토 연계하여 정서, 심리적 지원 및 모니터링",
+      "period": "2024.01.01~2024.02.29",
+      "apply_method": "방문신청",
+      "source_name": "정부24 공공서비스 Open API",
+      "url": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2104234&bnefType=all&svcId=310000000129",
+      "review_required": false,
+      "value_score": 7,
+      "source_updated_at": "20261113105412",
+      "service_id": "310000000129"
     },
     {
       "id": "gov24-e54f24bf82d68b2273",
